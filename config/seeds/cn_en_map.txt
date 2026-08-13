@@ -1,0 +1,1441 @@
+# 中文→英文映射 v7（1440 条）
+3D渲染	3D Rendering
+3D生成	3D Generation
+A/B测试	A/B Testing
+AI Agent 生态	AI Agent Ecosystem
+AI Guardrails	AI Guardrails
+AI Hallucination	AI Hallucination
+AI 会议纪要	AI Meeting Minutes
+AI 反馈强化学习	RLAIF
+AI 安全级联	AI Safety Cascade
+AI 寒冬	AI Winter
+AI 对齐	AI Alignment
+AI 治理监管	AI Governance & Regulation
+AI 自我改进	AI Self-Improvement
+AI 芯片	AI Chip
+AI交互设计	AI Interaction Design
+AI产品经理	AI Product Manager
+AI伦理	AI Ethics
+AI子目标	AI Subgoal
+AI对齐	AI Alignment
+AI幻觉	AI Hallucination
+AI护栏	AI Guardrails
+AI水印	AI Watermarking
+AI治理	AI Governance
+AI生成内容	AI-Generated Content
+AI编程助手	AI Coding Assistant
+AI角色扮演	AI Role-Playing
+API 网关	API Gateway
+AWS API 网关	AWS API Gateway
+Actor 并发模型	Actor Model
+Adversarial Attack and Defense	Adversarial Attack and Defense
+Agent Fleet 经济学	Agent Fleet Economics
+Agent Handoffs	Agent Handoff
+Agent 接入 DevOps	Agent in DevOps
+Agent 框架	Agent Framework
+Agent 编排	Agent Orchestration
+Agent 软件开发生命周期	Agentic Software Development Lifecycle
+Agentic Development	Agentic Development
+Agent安全	Agent Security
+Agent深化	Agentic Deepening
+Android	Android
+Android Studio	Android Studio
+Ansible	Ansible
+Apache Airflow	Apache Airflow
+Apache Spark	Apache Spark
+Apify（网页爬取与自动化平台）	Apify
+Appwrite	Appwrite
+BOINC（伯克利分布式计算平台）	BOINC
+Babel（JavaScript编译器）	Babel Compiler
+Backend for Frontend（面向前端的后端模式，BFF）	Backend for Frontend (BFF)
+BigQuery（云数据仓库）	BigQuery
+Boosting提升算法	Boosting
+Bulma（CSS 框架）	Bulma
+C#（编程语言）	C#
+CUDA 深度神经网络库	cuDNN
+Cassandra	Apache Cassandra
+Chinchilla 定律	Chinchilla
+Clojure	Clojure
+Cloud Run	Cloud Run
+CodeIgniter（PHP Web 框架）	CodeIgniter
+Common Lisp（Lisp 方言）	Common Lisp
+C语言指针	C Pointer
+DORA 指标（DevOps 效能度量）	DORA Metrics
+Debian	Debian
+Dijkstra最短路径算法	Dijkstra's Algorithm
+Discord.js（Node.js Discord 机器人开发库）	Discord.js
+Docker Compose	Docker Compose
+Docker Swarm	Docker Swarm
+Docker容器	Docker Container
+Drupal（开源内容管理系统）	Drupal
+ECMAScript（JavaScript 语言标准）	ECMAScript
+Eclipse Vert.x（JVM 响应式应用框架）	Eclipse Vert.x
+Electron（跨平台桌面应用框架）	Electron
+Elixir（函数式编程语言）	Elixir
+Erlang（并发函数式编程语言）	Erlang
+Express.js	Express.js
+Express（Node.js Web 框架）	Express
+F#（.NET 函数式编程语言）	F#
+FabricMC（Minecraft 模组加载框架）	FabricMC
+FastAPI	FastAPI
+FastAPI（Python 异步 Web 框架）	FastAPI
+Fault Tolerance	Fault Tolerance
+Firebase	Firebase
+Firebase（Google 后端即服务平台）	Firebase
+Flask（Python Web 框架）	Flask
+Flutter（跨平台移动 UI 框架）	Flutter
+Fortran（编程语言）	Fortran
+Frontend Masters（前端学习平台）	Frontend Masters
+Frontend Mentor（前端练习平台）	Frontend Mentor
+GCC（GNU编译器套件）	GCC
+Gating Mechanism	Gating Mechanism
+Ghidra（逆向工程框架）	Ghidra
+Git HEAD	Git HEAD
+GitOps（基于 Git 的云原生运维模式）	GitOps
+Git仓库	Git Repository
+Git储藏	Git Stash
+Git别名	Git Alias
+Git合并	Git Merge
+Git暂存区	Git Staging Area
+Git检出	Git Checkout
+Google Cloud（谷歌云平台）	Google Cloud
+Google Drive（谷歌云盘）	Google Drive
+Google Sheets（谷歌表格）	Google Sheets
+Gradle（自动化构建工具）	Gradle
+Groovy（JVM 脚本语言）	Groovy
+Gulp（前端自动化构建工具）	Gulp
+H2 数据库	H2 Database
+HAProxy	HAProxy
+HTML5 画布（Canvas API）	Canvas (HTML5)
+HTTP响应	HTTP Response
+HTTP请求	HTTP Request
+Hadoop（大数据分布式处理框架）	Hadoop
+Harness工程	Harness Engineering
+Haskell	Haskell
+Helm（Kubernetes 包管理器）	Helm
+Heroku（云 PaaS 平台）	Heroku
+Hot Module Replacement	Hot Module Replacement
+IPFS（星际文件系统）	IPFS
+IP地址	Internet Protocol Address
+IVF向量索引	IVF Vector Index
+ImageNet（图像数据集）	ImageNet
+Iris（Go Web 框架）	Iris
+JDBC（Java 数据库连接标准）	JDBC
+JSON Web Token	JWT
+JSON 模式	JSON Mode
+JSON模式	JSON Mode
+JavaFX	JavaFX
+Jenkins	Jenkins
+Jetpack Compose（Android 声明式 UI 工具包）	Jetpack Compose
+Julia	Julia
+K 均值聚类	K-Means
+KV 缓存	KV Cache
+Keras	Keras
+Kind（Kubernetes 本地集群工具）	Kind
+Kotlin（编程语言）	Kotlin
+K近邻算法	K-Nearest Neighbors (KNN)
+L1 正则化	L1 Regularization
+L2 正则化	L2 Regularization
+LAMP 技术栈	LAMP Stack
+LIME XAI	LIME XAI
+LLM Token 经济	LLM Token Economy
+LLM裁判	LLM Judge
+LLVM（编译器基础设施）	LLVM
+Language Agent Tree Search	Language Agent Tree Search
+Laravel	Laravel
+Laravel（PHP Web 框架）	Laravel
+LeetCode（算法刷题平台）	LeetCode
+Lisp	Lisp
+Livewire（Laravel 全栈框架）	Livewire
+MAC地址	Media Access Control Address
+MCP 连接器	MCP connectors
+METEOR评估指标	METEOR Metric
+MLX（Apple 机器学习框架）	MLX
+MLflow（机器学习生命周期管理平台）	MLflow
+MVC模式	MVC (Model-View-Controller)
+MariaDB	MariaDB
+MegEngine（旷视深度学习框架）	MegEngine
+MicroPython（嵌入式 Python）	MicroPython
+Microsoft Azure（微软云平台）	Azure
+Microsoft SQL Server	Microsoft SQL Server
+Misskey（开源去中心化微博客平台）	Misskey
+Moleculer（Node.js 微服务框架）	Moleculer
+MySQL	MySQL
+NVIDIA 容器工具包	NVIDIA Container Toolkit
+NebulaGraph（分布式图数据库）	NebulaGraph
+Neo4j（图数据库）	Neo4j
+NestJS（Node.js 后端框架）	NestJS
+NetBox（IPAM/DCIM 网络基础设施管理工具）	NetBox
+Netlify（静态网站托管/Serverless 平台）	Netlify
+Nette（PHP Web 框架）	Nette
+Next.js（React 全栈 Web 框架）	Next.js
+Nextcloud	Nextcloud
+Nginx	Nginx
+Nhost（开源后端即服务 BaaS）	Nhost
+Nim	Nim
+Node.js（JavaScript 运行时）	Node.js
+Nostr（去中心化社交协议）	Nostr
+NumPy（Python 科学计算库）	NumPy
+Numba（Python 即时编译库）	Numba
+OCaml（函数式编程语言）	OCaml
+OLM（Operator Lifecycle Manager，Kubernetes 算子生命周期管理器）	OLM
+OSRM（开源路由引擎）	OSRM
+Objective-C	Objective-C
+OpenBSD	OpenBSD
+OpenCV（计算机视觉库）	OpenCV
+OpenFaaS	OpenFaaS
+OpenGL（跨平台图形渲染 API）	OpenGL
+OpenTelemetry（可观测性/遥测框架）	OpenTelemetry
+Oracle 数据库	Oracle Database
+P-D-E-R 闭环	P-D-E-R Closed Loop
+PHP（服务端脚本语言）	PHP
+POV-Ray（光线追踪渲染器）	POV-Ray
+PRAR 循环	PRAR Loop
+PageRank算法	PageRank
+Perl（编程语言）	Perl
+Phaser（HTML5 2D 游戏框架）	Phaser
+Playwright（浏览器自动化/E2E 测试框架）	Playwright
+Portainer	Portainer
+PostgreSQL	PostgreSQL
+PostgreSQL（开源关系型数据库）	PostgreSQL
+Postman（API 测试/调试工具）	Postman
+Preact（轻量级 React 替代框架）	Preact
+Prettier（代码格式化工具）	Prettier
+Prompt 缓存	Prompt Caching
+Prompt缓存	Prompt Caching
+Pulumi	Pulumi
+Puppet（配置管理工具）	Puppet
+Puppeteer（Node.js 浏览器自动化库）	Puppeteer
+PyCharm（Python 集成开发环境）	PyCharm
+PyTorch（深度学习框架）	PyTorch
+Python字典	Python Dictionary
+Quarkus	Quarkus
+Q函数	Q-Function
+RAG评估	RAG Evaluation
+RISC-V（开源指令集架构）	RISC-V
+RSA加密算法	RSA Algorithm
+React Hooks（React 钩子）	React Hooks
+Redis（内存键值数据库）	Redis
+Robot Framework（通用自动化测试框架）	Robot Framework
+Room（Android 数据库库）	Room (Android Persistence Library)
+Ruby（编程语言）	Ruby
+SQL 注入	SQL Injection
+SQLite	SQLite
+SSL证书	SSL Certificate
+Sandstorm（自托管 Web 应用平台）	Sandstorm
+Scala（编程语言）	Scala
+SciPy（科学计算库）	SciPy
+Socket.IO（实时 Web 通信库）	Socket.IO
+Solana（区块链平台）	Solana
+Solidity（智能合约编程语言）	Solidity
+Spec-Driven Development	Spec-Driven Development
+Standard ML（SML）	Standard ML (SML)
+Streamlit（数据应用框架）	Streamlit
+Swift（编程语言）	Swift
+Swing（Java 图形界面工具包）	Swing (Java GUI toolkit)
+Tab 补全	Tab Completion
+Tauri（Rust 桌面应用框架）	Tauri
+TensorFlow	TensorFlow
+Terraform（基础设施即代码工具）	Terraform
+Three.js（WebGL 3D 渲染库）	Three.js
+Traefik	Traefik
+UEFI（统一可扩展固件接口）	UEFI
+Ubuntu	Ubuntu
+Unity（游戏引擎）	Unity
+VBA（Visual Basic for Applications）	VBA
+VS Code 扩展	VS Code Extension
+Vagrant	Vagrant
+Vercel（前端部署平台）	Vercel
+Verifier Sub-agents	Verifier Sub-agents
+Visual Basic（编程语言）	Visual Basic
+Visual Studio Code（代码编辑器）	Visual Studio Code
+Visual Studio（微软集成开发环境）	Visual Studio
+Vuetify（Vue UI 组件库）	Vuetify
+Wails（Go 跨平台桌面应用框架）	Wails
+Web Components（Web 组件标准）	Web Components
+Web3（去中心化互联网）	Web3
+Whisper（语音识别模型）	Whisper
+Wikidata（开放知识库）	Wikidata
+Windows注册表	Windows Registry
+XAMPP	XAMPP
+XGBoost（梯度提升树库）	XGBoost
+Xcode（苹果IDE）	Xcode
+YAML（数据序列化格式）	YAML
+YouTube 数据 API v3	YouTube Data API v3
+Zabbix（开源监控系统）	Zabbix
+Zephyr RTOS	Zephyr RTOS
+Zig（系统编程语言）	Zig
+Zustand（React 状态管理库）	Zustand
+async/await（异步编程）	async/await
+dockerode	dockerode
+eBPF	eBPF
+gRPC（高性能远程过程调用框架）	gRPC
+git提交	Git Commit
+macOS	macOS
+phpMyAdmin（MySQL 管理工具）	phpMyAdmin
+shell脚本	Shell Script
+spaCy（自然语言处理库）	spaCy
+t-分布随机邻域嵌入	t-SNE
+ε-贪婪	Epsilon-Greedy
+一致流形逼近与投影	UMAP
+三次握手	Three-way Handshake
+上下文	Context Layer
+上下文压缩	Contextual Compression
+上下文学习	In-Context Learning
+上下文工程	Context Engineering
+上下文窗口	Context Window
+世界模型	World Model
+中文房间	Chinese Room
+中断	Interrupt
+中途旅程	Midjourney
+中间人攻击	Man-in-the-Middle
+中间件	Middleware
+串行	Serial
+主成分分析	PCA
+主键	Primary Key
+主题建模	Latent Dirichlet Allocation
+乘积量化	PQ
+事件	Event
+事件循环	Event Loop
+事件钩子	Event Hook
+事件驱动	Event-Driven
+事务	Transaction
+二分查找	Binary Search
+二叉树	Binary Tree
+二进制	Binary
+二阶元认知	Second-Order Metacognition
+云厂商	Cloud Provider
+云数据库	Cloud Database
+云服务器	Cloud Server
+云计算	Cloud Computing
+云部署	Cloud Deployment
+互联网服务提供商	ISP
+亚马逊云服务	AWS
+交互式解释环境	REPL
+交付物	Deliverable
+交叉熵	Cross Entropy
+交叉编码器重排	Cross-Encoder Reranking
+交叉验证	Cross Validation
+交换	Swapping
+产出物	Deliverables
+人在回路	Human-in-the-loop
+人工智能	AI
+人工智能记忆	AI Memory
+人工智能问责	AI Accountability
+人工神经元	Artificial Neuron
+人工神经网络	Artificial Neural Network
+人机协作	Human-AI Collaboration
+人机协同	Human-AI Collaboration
+人类反馈强化学习	RLHF
+人类审核	Human-in-the-Loop
+仓库	Repository
+代价函数	Cost Function
+代理	Proxy
+代理模式	Proxy Pattern
+代码仓库	Code Repository
+代码储藏	Git Stash
+代码冲突	Code Conflict
+代码分支	Git Branch
+代码审查	Code Review
+代码审查AI	Code Review AI
+代码提交	Code Commit
+代码构建	Code Build
+代码检出	Code Checkout
+代码沙箱	Code Sandbox
+代码生成	Code Generation
+代码编译	Code Compilation
+代码规范	Code Style
+代码评审	Code Review
+代码重构	Code Refactoring
+令牌	Token
+令牌经济	Token Economy
+价值函数	Value Function
+价值观对齐	Value Alignment
+任务分解	Task Decomposition
+任务委托	Task Delegation
+任务执行器	Task Executor
+任务调度	Task Scheduling
+优化器	Optimizer
+会议纪要	Meeting Minutes
+会话	Session
+会话管理	Session Management
+传输层安全协议	TLS
+传输控制协议	TCP
+位	bit
+位置编码	Positional Encoding
+低秩适配	LoRA
+余弦相似度	Cosine Similarity
+作用域	Scope
+依存句法分析	Dependency Parsing
+依赖	Dependency
+信号量	Semaphore
+信息	Information
+修正线性单元	ReLU
+倒排文件索引	IVF
+倒数排名融合	RRF
+假设性文档嵌入	HyDE
+偏差方差权衡	Bias-Variance Tradeoff
+停止词	Stop Sequence
+健康检查	Health Check
+储藏	Stash
+元学习	Meta Learning
+元组	Tuple
+先规划再执行	Plan-and-Execute
+先计划再执行	Plan-and-Execute
+光学字符识别	Optical Character Recognition
+光标	Cursor
+全分片数据并行	FSDP
+全参数微调	Full-parameter Fine-tuning
+公平性与偏见	Fairness and Bias
+公网IP	Public IP
+公钥	Public Key
+共识算法	Consensus Algorithm
+关系型	Relational
+关系型数据库	Relational Database
+具身智能	Embodied Intelligence
+内存	Memory
+内存分页	Memory Paging
+内存管理	Memory Management
+内存缓冲区	Memory Buffer
+内容分发网络	CDN
+内容安全护栏	Content Safety Guardrail
+内容审核	Content Moderation
+内容管理系统	Content Management System (CMS)
+内核	Kernel
+内核态	Kernel Mode
+内网IP	Private IP
+内置追踪	Tracing
+冒泡排序	Bubble Sort
+冲刺	Sprint
+冲突	Conflict
+决策智能	Decision Intelligence
+决策树	Decision Tree
+决策树剪枝	Decision Tree Pruning
+函数	Function
+函数参数	Parameter
+函数计算	Function Compute
+函数调用	Function Calling
+函数返回值	Return Value
+分块	Chunk
+分层可导航小世界	HNSW
+分布偏移	Distribution Shift
+分布式数据库	Distributed Database
+分布式系统	Distributed Systems
+分布式训练	Distributed Training
+分库分表	Sharding
+分支	Branch
+分词器	Tokenizer
+分页	Pagination
+分页查询	Pagination Query
+列	Column
+列表	List
+别名	alias
+前向传播	Forward Propagation
+前端框架	Frontend Framework
+前端组件	Frontend Component
+前端视图	Frontend View
+前端路由	Frontend Routing
+剪枝	Pruning
+副驾驶	Copilot
+加密	Encryption
+加密货币	Cryptocurrency
+加盐	Salting
+动作	Action
+动作空间	Action Space
+动态规划	Dynamic Programming
+包	Package
+包管理器	Package Manager
+半监督学习	Semi-supervised Learning
+半精度浮点数	FP16
+协作	Collaboration
+协调	Orchestration
+单元测试	Unit Test
+单智能体	Single-Agent
+单样本学习	One-shot Learning
+单样本提示	One-shot Prompting
+单页应用	SPA
+博弈论	Game Theory
+即时定位与地图构建（SLAM）	SLAM (Simultaneous Localization and Mapping)
+即时编译（JIT）	JIT Compiler
+卷积神经网络	CNN
+历史	History
+原子性、一致性、隔离性、持久性	ACID
+去噪扩散概率模型	DDPM
+参数	Argument
+参数规模	Parameter Count
+参数高效微调	PEFT
+双因素认证	Two-Factor Authentication
+双曲正切	Tanh
+反向代理	Reverse Proxy
+反向传播	Backpropagation
+反序列化	Deserialization
+反思	Reflection
+反思循环	Reflexion Loop
+反馈回路	Feedback Loop
+反馈循环	Feedback Loop
+发布	Release
+变分自编码器	VAE
+变换器	Transformer
+变更日志	Changelog
+变量	Variable
+句向量	Sentence Embedding
+可微分编程	Differentiable Programming
+可用区	Availability Zone
+可解释AI	Explainable AI
+可解释性	Explainability
+合并	Merge
+合并冲突	Merge Conflict
+合成数据	Synthetic Data
+同态加密	Homomorphic Encryption
+同时定位与建图	Simultaneous Localization and Mapping
+后端	Backend
+后端框架	Backend Framework
+后训练	Post-training
+后门攻击	Backdoor Attack
+向量	Vector
+向量嵌入	Vector Embedding
+向量数据库	Vector Database
+向量检索	Vector Retrieval
+向量索引	Vector Index
+向量计算	Vector Computation
+吞吐	Throughput
+启动	Boot
+告警	Alert
+命令	Command
+命令别名	Command Alias
+命令行	Command Line
+命令行终端	Command Line Terminal
+命名实体识别	Named Entity Recognition
+哈希	Hashing
+哈希算法	Hash Algorithm
+哈希表	Hash Table
+响应	Response
+响应式	Responsive
+回归测试	Regression Test
+回报	Return
+回滚	Rollback
+回调	Callback
+因果语言建模	Causal Language Modeling
+困惑度	Perplexity
+图	Graph
+图像分割	Image Segmentation
+图像到图像	Image-to-Image
+图像外扩	Outpainting
+图像字幕	Image Captioning
+图像描述	Image Captioning
+图像生成	Image Generation
+图像编辑	Image Editing
+图像补全/修复	Inpainting
+图形处理器	GPU
+图形渲染	Graphics Rendering
+图数据库	Graph Database
+图文检索	Image-Text Retrieval
+图标	Icon
+图灵测试	Turing Test
+图神经网络	GNN
+图算法	Graph Algorithms
+在线学习	Online Learning
+地域	Region
+域名	Domain Name
+域名系统	DNS
+基于人类反馈的强化学习	RLHF
+基于密度的聚类	DBSCAN
+基准测试	Benchmark
+基础模型	Foundation Model
+基础设施即服务	IaaS
+堆	Heap
+堆叠	Stacking
+壳 / 命令行	Shell
+备份	Backup
+复刻	Fork
+复杂度	Complexity
+复现	Reproduction
+外键	Foreign Key
+多 Agent 编排	Multi-Agent Orchestration
+多Agent协作	Multi-Agent Collaboration
+多Agent开发	Multi-Agent Development
+多头注意力	Multi-Head Attention
+多层感知机	MLP
+多态	Polymorphism
+多智能体	Multi-Agent
+多智能体协作	Multi-Agent Collaboration
+多智能体协作框架	Multi-Agent Collaboration Framework
+多智能体强化学习	Multi-Agent Reinforcement Learning
+多智能体系统	Multi-Agent System
+多智能体辩论	Multi-Agent Debate
+多模态	Multimodal
+多模态大模型	Multimodal Large Model
+多模态大语言模型	Multimodal LLM
+多模态学习	Multimodal Learning
+大 O 记法	Big O
+大型机	Mainframe
+大数据	Big Data
+大模型	Large Model
+大模型幻觉	LLM Hallucination
+大模型智能体	LLM Agent
+大语言模型	LLM
+大语言模型运维	LLMOps
+奖励	Reward
+奖励塑造	Reward Shaping
+奥卡姆剃刀	Occam's Razor
+委托	Handoffs
+姿态估计	Pose Estimation
+子代理	Subagent
+子目标	Subgoal
+字典	Dictionary
+字典数据结构	Dictionary Data Structure
+字段	Field
+字符串	String
+字符编码	Character Encoding
+字节	byte
+字节对编码	BPE
+存储	Storage
+学习率	Learning Rate
+守护进程	Daemon
+安全围栏	Guardrails
+安全套接层	SSL
+安全对齐	Safety Alignment
+安全护栏	Guardrails
+安全超文本传输协议	HTTPS
+实验追踪	Experiment Tracking
+客户端	Client
+宪法 AI	Constitutional AI
+容器	Container
+容器服务	Container Service
+容器编排	Container Orchestration
+容器镜像	Container Image
+容错计算	Fault-Tolerant Computing
+容错运维	Fault-tolerance Ops
+密码加盐	Salting
+密码哈希	Password Hashing
+密钥管理	Key Management
+对抗攻击	Adversarial Attacks
+对抗样本	Adversarial Examples
+对抗训练	Adversarial Training
+对数几率	Logits
+对比式裁判	Contrastive Judge
+对比语言-图像预训练	CLIP
+对称加密	Symmetric Encryption
+对话系统	Dialogue System
+对象	Object
+对象存储	Object Storage
+对象存储桶	Bucket
+对象类型	Object Type
+对齐	Alignment
+对齐问题	Alignment
+封装	Encapsulation
+小批量梯度下降	Mini-batch Gradient Descent
+小甜饼	Cookie
+少样本	few-shot
+少样本学习	Few-shot Learning
+少样本提示	Few-shot Prompting
+少量示例	Few-shot
+局域网	LAN
+层叠样式表	CSS
+层归一化	LayerNorm
+崩溃	Crash
+嵌入	Embedding
+嵌入模型	Embedding Model
+工作区	Working Directory
+工作树	worktrees
+工作流	Workflow
+工作流控制	Workflow Control
+工作流编排	Workflow Orchestration
+工具	Tool
+工具使用循环	Tool Use Loop
+工具定义	Tool Definition
+工具描述	Tool Description
+工具调用	Tool Use
+工具调用循环	Tool Calling Loop
+工具调用错误恢复	Tool Call Error Recovery
+差分隐私	Differential Privacy
+布尔	Boolean
+带宽	Bandwidth
+常量	Constant
+平台即服务	PaaS
+并发	Concurrency
+并发编程	Concurrent Programming
+并行	Parallel
+并行工具调用	Parallel Tool Calls
+并行计算	Parallel Computing
+幻觉	Hallucination
+幻觉检测	Hallucination Detection
+幻觉治理	Hallucination Governance
+幻觉缓解	Hallucination Mitigation
+广域网	WAN
+广度优先搜索	Breadth-First Search
+广度优先搜索（BFS）	Breadth-First Search (BFS)
+序列到序列	Sequence-to-Sequence
+序列化	Serialization
+库	Library
+应用	Application
+应用图标	App Icon
+应用程序	Application
+延迟	Latency
+开发工作区	Dev Workspace
+开发工作流	Development Workflow
+开发工具	Development Tool
+开发环境	Development Environment
+开发者角色转变	Developer Role Shift
+开发里程碑	Development Milestone
+开放授权	OAuth
+开源	Open Source
+开源软件	Open Source Software
+异常	Exception
+异常处理	Exception Handling
+异步	Async
+引导	Boot
+引导程序	Bootloader
+引用溯源	Citation
+张量	Tensor
+张量处理单元	TPU
+张量并行	Tensor Parallelism
+弱人工智能	Artificial Narrow Intelligence
+弱类型	Weakly Typed
+弹性伸缩	Auto Scaling
+强人工智能	Artificial General Intelligence
+强化学习	Reinforcement Learning
+强化学习奖励	Reward
+强类型	Strongly Typed
+归并排序	Merge Sort
+归纳偏置	Inductive Bias
+循环	Loop
+循环工程	Loop Engineering
+循环神经网络	RNN
+循环语句	Loop Statement
+循环迭代	Loop Iteration
+微前端	Micro Frontend
+微服务熔断	Microservice Circuit Breaker
+微调	Fine-tuning
+忠实性	Faithfulness
+快捷键	Shortcut Key
+快速排序	Quick Sort
+思维图	Graph of Thoughts
+思维树	Tree of Thoughts
+思维链	Chain-of-Thought
+性能监控	Performance Monitoring
+情感分析	Sentiment Analysis
+情景记忆	Episodic Memory
+惩罚	Penalty
+惰性求值	Lazy Evaluation
+感受野	Receptive Field
+感知	Perception
+感知机	Perceptron
+慢查询	Slow Query
+成员推断攻击	Membership Inference Attack
+成本估算	Cost Estimation
+戴明环	PDCA
+手机越狱	Phone Jailbreak
+打包	Bundling
+执行器	Executor
+扩散模型	Diffusion Model
+批大小	Batch Size
+批量学习	Batch Learning
+批量归一化	Batch Normalization
+批量梯度下降	BGD
+技术债	Technical Debt
+技能	Skill
+投机解码	Speculative Decoding
+折扣因子	Discount Factor
+护栏	Guardrails
+抽取-转换-装载	ETL
+抽取式问答	Extractive QA
+拉取请求	Pull Request
+拉尔夫循环	Ralph Loop
+持续学习	Continual Learning
+持续部署	CD
+持续集成	CI
+持续集成/持续交付	CI/CD
+指令微调	Instruction Tuning
+指数退避	Exponential Backoff
+指针变量	Pointer Variable
+按需付费	Pay-as-you-go
+挑选提交	Cherry-pick
+损失	Loss
+损失函数	Loss Function
+授权	Authorization
+授权认证	Authentication
+排序	Sorting
+排序算法	Sorting Algorithm
+探索与利用	Exploration vs Exploitation
+探针	Probes
+接口	Interface
+接口规格	API Specification
+接口请求	API Request
+控制网络	ControlNet
+推理	Inference
+推理-行动循环	ReAct Loop
+推理加速	Inference Optimization
+推理引擎	Inference Engine
+推理模型	Reasoning Model
+推荐系统	Recommender System
+掩码语言建模	Masked Language Modeling
+提交	Commit
+提交哈希	Commit hash
+提前编译（AOT）	Ahead-of-Time Compilation (AOT)
+提升	Boosting
+提升算法	Boosting Algorithm
+提示	Prompt
+提示产品化	Prompt-as-a-Product
+提示工程	Prompt Engineering
+提示模板	Prompt Template
+提示泄漏	Prompt Leakage
+提示注入	Prompt Injection
+提示词	Prompt
+提示词工程	Prompt Engineering
+提示词链式调用	Prompt Chaining
+提示链	Prompt Chaining
+插入号	Caret
+搜索	Search
+搜索引擎	Search Engine
+搜索引擎优化（SEO）	SEO (Search Engine Optimization)
+操作系统	Operating System
+操作系统内核	Kernel
+支持向量机	Support Vector Machine
+收敛	Convergence
+攻击与防御	Attack and Defense
+敏捷	Agile
+敏捷冲刺	Scrum Sprint
+敏捷开发	Agile Development
+数字签名	Digital Signature
+数字证书	Digital Certificate
+数据	Data
+数据分块	Data Chunking
+数据包	Packet
+数据卡	Data Card
+数据定义语言	DDL
+数据并行	Data Parallelism
+数据库	Database
+数据库事务	Database Transaction
+数据库优化	Database Optimization
+数据库字段	Database Field
+数据库查询	Database Query
+数据库索引	Database Index
+数据库视图	Database View
+数据库迁移	Database Migration
+数据库连接	Database Connection
+数据投毒	Data Poisoning
+数据操纵语言	DML
+数据标注	Data Annotation
+数据清洗	Data Cleaning
+数据漂移	Data Drift
+数据管道	Data Pipeline
+数据类型	Data Type
+数据结构	Data Structure
+数据迁移	Data Migration
+数据采样	Data Sampling
+数据降维	Dimensionality Reduction
+数据集	Dataset
+数据集切分	Dataset Splitting
+数据集卡片	Dataset Card
+数据飞轮	Data Flywheel
+数组	Array
+整型	Integer
+整数	Integer
+整数类型	Integer Type
+文件	File
+文件夹	Folder
+文件权限	File Permission
+文件目录	File Directory
+文件系统	File System
+文件读写	File I/O
+文件路径	File Path
+文本分块	Text Chunking
+文本分类	Text Classification
+文本摘要	Text Summarization
+文本生成	Text Generation
+文本生成推理	TGI
+文档切分	Chunking
+文档对象模型	DOM
+文档摘要	Document Summarization
+文档数据库	Document Database
+文档溯源	Document Traceability
+文生图	Text-to-Image
+文生视频	Text-to-Video
+文生音频	Text-to-Audio
+断点	Breakpoint
+断路器	Circuit Breaker
+无服务器	Serverless
+无服务器计算	Serverless Computing
+无监督学习	Unsupervised Learning
+无线局域网	WLAN
+日志	Log
+早停	Early Stopping
+时序数据库	Time Series Database
+时间复杂度	Time Complexity
+时间窗口	Time Window
+是否采样	Do Sample
+显存	Video Memory
+智慧医疗	Smart Healthcare
+智慧城市	Smart City
+智慧教育	Smart Education
+智能体	Agent
+智能体交接	Agent Handoff
+智能体工作流	Agentic Workflow
+智能体循环	Agent Loop
+智能体循环工程	Agent Loop Engineering
+智能体技能	Agent Skill
+智能体控制层	Agent Control Layer
+智能体框架	Agent Framework
+智能体检索增强生成	Agentic RAG
+智能体社会	Agent Society
+智能体编排	Agent Orchestration
+智能体间通信	Inter-Agent Communication
+智能客服	Intelligent Customer Service
+智能搜索	Intelligent Search
+智能编程	AI-Powered Programming
+智能风控	Intelligent Risk Control
+暂存区	Staging Area
+暴力破解	Brute Force
+最大输出	max_tokens
+最大输出长度	Max Output Length
+最大边际相关	MMR
+最小权限	Least Privilege
+有状态单 Agent 工作流	Stateful Single-Agent Workflow
+有界执行	Bounded Execution
+有限状态机（FSM）	Finite State Machine (FSM)
+服务器	Server
+服务熔断	Service Circuit Breaker
+服务等级协议	SLA
+服务编排	Service Orchestration
+本地模型	Local Model
+本地部署	Local Deployment
+机制可解释性	Mechanistic Interpretability
+机器人学	Robotics
+机器人流程自动化	RPA
+机器学习	Machine Learning
+机器学习模型	Machine Learning Model
+机器学习运维	MLOps
+机器感知	Machine Perception
+机器翻译	Machine Translation
+杀进程	Kill Process
+权重衰减	Weight Decay
+权限	Permission
+权限授权	Access Control
+权限边界	Permission Boundary
+条件分支	Conditional Branch
+条件语句	Conditional
+构建	Build
+架构	Architecture
+查询	Query
+查询-键-值	QKV
+查询改写	Query Rewriting
+标准输入输出	Standard Streams
+标签	Tag
+栈	Stack
+树	Tree
+核采样	Top_p
+框架	Framework
+桌面	Desktop
+梦工坊	DreamBooth
+梯度下降	Gradient Descent
+梯度提升	Gradient Boosting
+梯度检查点	Gradient Checkpointing
+梯度消失	Vanishing Gradient
+梯度爆炸	Exploding Gradient
+梯度累积	Gradient Accumulation
+检出	Checkout
+检索器	Retriever
+检索增强生成	RAG
+模仿学习	Imitation Learning
+模块	Module
+模型	Model
+模型 API	Model API
+模型上下文协议	MCP
+模型上下文协议（MCP）	Model Context Protocol (MCP)
+模型切换	Model Switch
+模型剪枝	Pruning
+模型卡	Model Card
+模型对齐	Model Alignment
+模型并行	Model Parallelism
+模型微调	Fine-tuning
+模型忠实性	Faithfulness
+模型推理	Model Inference
+模型收敛	Model Convergence
+模型服务	Model Serving
+模型泛化	Model Generalization
+模型注册表	Model Registry
+模型温度	Sampling Temperature
+模型版本	Model Version
+模型版本管理	Model Versioning
+模型监控	Model Monitoring
+模型窃取	Model Stealing
+模型蒸馏	Model Distillation
+模型训练	Model Training
+模型记忆	Model Memory
+模型评估	Model Evaluation
+模型部署	Model Deployment
+模型量化	Model Quantization
+模态融合	Modality Fusion
+欠拟合	Underfitting
+欧盟AI法案	EU AI Act
+正则化	Regularization
+死锁	Deadlock
+残差网络	ResNet
+残差连接	Residual Connection
+氛围编程	vibecoding
+氛围编程（AI 辅助直觉式编码）	Vibe Coding
+汇编语言	Assembly Language
+池化	Pooling
+沙箱	Sandbox
+治理与伦理	Governance and Ethics
+泛化	Generalization
+泛化能力	Generalization
+波浪号	Tilde
+注册表	Registry
+注意力机制	Attention Mechanism
+注释	Comment
+流式响应	Streaming
+流式输出	Streaming
+流水线并行	Pipeline Parallelism
+流程驾驭	Process Steering
+测试	Testing
+测试时计算	Test-time Compute
+测试环境	Testing Environment
+测试集	Test Set
+测试驱动开发	TDD
+浏览器	Browser
+浏览器扩展	Browser Extension
+浮点数	Float
+消息传递	Message Passing
+消息队列	Message Queue
+涌现能力	Emergent Abilities
+涌现行为	Emergent Behavior
+液态神经网络	Liquid Neural Networks
+深度Q网络	Deep Q-Network
+深度优先搜索	Depth-First Search
+深度优先搜索（DFS）	Depth-First Search (DFS)
+深度学习	Deep Learning
+混合专家	MoE
+混合专家模型	MoE
+混合云	Hybrid Cloud
+混合检索	Hybrid Search
+混合精度训练	Mixed Precision Training
+渐进式 Web 应用（PWA）	Progressive Web App (PWA)
+温度	Temperature
+渲染	Rendering
+游离的 HEAD	Detached HEAD
+源代码	Source Code
+滑动窗口	Sliding Window
+激活函数	Activation Function
+灰度发布	Canary Release
+灾难性遗忘	Catastrophic Forgetting
+点云	Point Cloud
+点对点网络	Peer-to-Peer (P2P)
+热更新	Hot Reload
+熔断器	Circuit Breaker
+爬虫	Web Crawler
+版本号	Version Number
+版本控制	Version Control
+特征	Feature
+特征工程	Feature Engineering
+特征归因	Feature Attribution
+特征提取	Feature Extraction
+特征选择	Feature Selection
+状态	State
+状态机	State Machine
+状态机图	State Machine Graph
+状态码	Status Code
+状态管理	State Management
+环境	Environment
+环境变量	Environment Variable
+生产环境	Production Environment
+生成参数	Generation Parameters
+生成器	Generator
+生成对抗网络	GAN
+生成式 AI	Generative AI
+生成式问答	Generative QA
+用户	User
+用户态	User Mode
+用户数据报协议	UDP
+用户权限	User Permission
+用户认证	User Authentication
+监控	Monitoring
+监督学习	Supervised Learning
+目录结构	Directory Structure
+目标检测	Object Detection
+直接偏好优化	DPO
+相似度	Similarity
+相似度计算	Similarity Computation
+看板	Kanban
+知识图谱	Knowledge Graph
+知识库	Knowledge Base
+知识蒸馏	Knowledge Distillation
+矩阵乘法	Matrix Multiplication
+矩阵运算	Matrix Operations
+短期记忆	Short-Term Memory
+硬件中断	Hardware Interrupt
+硬盘	Hard Disk
+确定性验证	Deterministic Verification
+示例	Few-shot
+神经元	Neuron
+神经架构搜索	NAS
+神经符号 AI	Neuro-Symbolic AI
+神经网络	Neural Network
+神经网络处理器	NPU
+神经网络量化	Neural Network Quantization
+神经辐射场	NeRF
+私钥	Private Key
+科学计算智能	AI for Science
+稀疏检索	Sparse Retrieval
+程序	Program
+程序崩溃	Program Crash
+程序日志	Application Log
+程序调试	Debugging
+稠密检索	Dense Retrieval
+稳定扩散	Stable Diffusion
+稳定排序	Stable Sort
+空值	Null
+空间复杂度	Space Complexity
+窗口	Window
+站点可靠性工程（SRE）	SRE (Site Reliability Engineering)
+竞争	Competition
+竞争学习	Competitive Learning
+端到端学习	End-to-End Learning
+端到端测试	End-to-End Test
+端口	Port
+端口映射	Port Mapping
+符号主义	Symbolicism
+第二循环元认知	Second-Loop Meta-Cognition
+策略	Policy
+策略梯度	Policy Gradient
+算法	Algorithm
+算法与数据结构	Data Structures and Algorithms
+算法复杂度	Algorithm Complexity
+算法收敛	Algorithm Convergence
+算法策略	Algorithm Strategy
+算法透明性	Algorithm Transparency
+算法问责制	Algorithmic Accountability
+管道	Pipe
+管道命令	Pipe Command
+类	Class
+类继承	Class Inheritance
+系统启动	System Startup
+系统引导	System Boot
+系统提示	System Prompt
+系统提示词	System Prompt
+系统日志	System Log
+系统权限	System Permission
+系统架构	System Architecture
+系统监控	System Monitoring
+系统调用	System Call
+系统进程	System Process
+系统透明性	System Transparency
+系统镜像	System Image
+索引	Index
+红队测试	Red Teaming
+纳什均衡	Nash Equilibrium
+线性表	Linear List
+线程	Thread
+线程执行器	Thread Executor
+线程死锁	Thread Deadlock
+组件	Component
+组件化开发	Component-Based Development
+组归一化	Group Normalization
+终端	Terminal
+终身学习	Lifelong Learning
+结构化查询语言	SQL
+结构化输出	Structured Output
+统一计算设备架构	CUDA
+统一资源定位符	URL
+继承	Inheritance
+缓冲区	Buffer
+缓冲区溢出	Buffer Overflow
+缓存	Cache
+缓存策略	Cache Policy
+编排	Orchestration
+编排引擎	Orchestration Engine
+编排者	Orchestrator
+编码	Encoding
+编码器解码器	Encoder-Decoder
+编程函数	Function
+编程参数	Parameter
+编程变量	Variable
+编程接口	API
+编程插入符	Caret
+编程模块	Module
+编程算法	Algorithm
+编程范式	Programming Paradigm
+编程语法	Programming Syntax
+编程钩子	Programming Hook
+编译	Compile
+编译器	Compiler
+编译选项	Compiler Options
+编辑器	Editor
+网关	Gateway
+网络	Network
+网络代理	Proxy
+网络会话	Network Session
+网络吞吐量	Network Throughput
+网络延迟	Network Latency
+网络探针	Network Probe
+网络端口	Network Port
+网络超时	Network Timeout
+网络连接	Network Connection
+网页抓取	Web Scraping
+网页货币化（W3C 支付流标准）	Web Monetization
+美国信息交换标准代码	ASCII
+群体智能	Collective Intelligence
+联邦学习	Federated Learning
+聚类	Clustering
+聚类分析	Clustering
+胶囊网络	Capsule Network
+脉冲神经网络	Spiking Neural Network
+脑浮点	BF16
+脚手架	Scaffold
+脚本	Script
+自主式 AI	Agentic AI
+自主性	Autonomy
+自主性程度	Autonomy Level
+自动代码生成	Automatic Code Generation
+自动生成	Auto-generation
+自动补全	Autocomplete
+自动驾驶	Autonomous Driving
+自助聚合	Bagging
+自我修复循环	Self-Repair Loop
+自我博弈	Self-Play
+自我反思	Self-Reflection
+自我批评	Self-Criticism
+自治智能体	Autonomous Agent
+自注意力	Self-Attention
+自洽性	Self-Consistency
+自洽性解码	Self-Consistency
+自然语言处理	Natural Language Processing
+自监督学习	Self-Supervised Learning
+自聚合	Self-Assembly
+自述文件	README
+范式	Normal Form
+莫拉维克悖论	Moravec's Paradox
+菜单	Menu
+蒸馏	Knowledge Distillation
+虚拟 DOM	Virtual DOM
+虚拟专用网络	VPN
+虚拟内存	Virtual Memory
+虚拟机	Virtual Machine
+蜜罐	Honeypot
+行	Row
+行为主义	Behaviorism
+行为克隆	Behavior Cloning
+表	Table
+表示学习	Representation Learning
+观测	Observation
+规划	Planning
+规划模式	Plan Mode
+规格	Specification
+规模定律	Scaling Laws
+规范驱动开发	Specification-Driven Development
+视图	View
+视觉模型	Vision Model
+视觉语言模型	VLM
+视觉问答	VQA
+视频世界模型	Video World Model
+视频理解	Video Understanding
+视频编码	Video Encoding
+角色专业化	Role Specialization
+角色分工	Role Assignment
+角色扮演	Role Playing
+角色提示	Role Prompting
+解析器	Parser
+解释	Interpret
+触发器	Trigger
+计算广告	Computational Advertising
+计算机	Computer
+计算机程序	Computer Program
+计算机网络	Computer Network
+计算机视觉	Computer Vision
+计算机进程	Process
+认知架构	Cognitive Architecture
+认证	Authentication
+训练	Training
+训练损失	Training Loss
+训练集	Training Set
+记忆	Memory
+记忆增强强化学习	MemRL
+记忆管理	Memory Management
+论文精读	Paper Intensive Reading
+设计模式	Design Pattern
+证书	Certificate
+证书过期	Certificate Expiration
+评估	Evals
+评估集	evals
+评审	Review
+词元	Token
+词嵌入	Embedding
+词性标注	Part-of-Speech Tagging
+词袋模型	Bag of Words
+语义分割	Semantic Segmentation
+语义切分	Semantic Chunking
+语义化	Semantic HTML
+语义化版本	Semantic Versioning
+语义检索	Semantic Search
+语义相似度	Semantic Similarity
+语义网	Semantic Web
+语义角色标注	Semantic Role Labeling
+语义记忆	Semantic Memory
+语法	Syntax
+语法分析	Syntax Analysis
+语言 Agent 树搜索	LATS
+语言模型	Language Model
+语音合成	Text-to-Speech
+语音模型	Speech Model
+语音识别	Automatic Speech Recognition
+请求	Request
+请求体	Request Body
+请求头	Request Header
+请求超时	Request Timeout
+读写分离	Read-Write Splitting
+课程学习	Curriculum Learning
+调度	Scheduling
+调试	Debug
+贝尔曼方程	Bellman Equation
+负责任AI	Responsible AI
+负载均衡	Load Balancer
+质量校验	Quality Verification
+贪心	Greedy Algorithm
+贪心算法	Greedy Algorithm
+贪心解码	Greedy Decoding
+超分辨率	Super Resolution
+超文本传输协议	HTTP
+超文本标记语言	HTML
+超时	Timeout
+超级人工智能	Artificial Superintelligence
+越狱	Jailbreak
+越狱提示词	Jailbreak Prompt
+跨模态对齐	Cross-modal Alignment
+跨站脚本攻击	XSS
+跨站请求伪造	CSRF
+路径	Path
+路径规划	Path Planning
+路由	Routing
+路由器	Router
+身份认证	Identity Authentication
+轮	Epoch
+软件	Software
+软件即服务	SaaS
+软件发布	Software Release
+软件构建	Software Build
+软件架构	Software Architecture
+软件框架	Software Framework
+软件规格	Software Specification
+软件部署	Software Deployment
+软件重构	Software Refactoring
+软件需求	Software Requirements
+输出解析	Output Parsing
+辩论	Debate
+边界约束	Boundary Constraints
+边缘 AI	Edge AI
+边缘计算	Edge Computing
+达利	DALL-E
+迁移	Migration
+迁移学习	Transfer Learning
+过拟合	Overfitting
+运行时	Runtime
+运行时防护	Runtime Protection
+运行环境	Runtime Environment
+近似最近邻	ANN
+近端策略优化	PPO
+返回值	Return Value
+进程	Process
+进程管理	Process Management
+进程调度	Process Scheduling
+进程间通信	Inter-Process Communication
+远程仓库	Remote Repository
+连接	Join
+连接主义	Connectionism
+连续批处理	Continuous Batching
+迭代	Iteration
+迭代算法	Iterative Algorithm
+逆强化学习	Inverse Reinforcement Learning
+选择性元认知	Selective Meta-Cognition
+选项	Option
+透明性	Transparency
+递归	Recursion
+递归切分	Recursive Chunking
+递归自我提升	Recursive Self-Improvement
+通用人工智能	AGI
+通配符	Wildcard
+遍历	Traversal
+遗传算法	Genetic Algorithm
+部分可观测马尔可夫决策过程	Partially Observable MDP
+部署	Deployment
+采样	Sampling
+采样参数	Sampling Parameters
+采样开关	Sampling Switch
+里程碑	Milestone
+重叠切分	Overlapping Chunking
+重复惩罚	Repetition Penalty
+重定向	Redirection
+重排序	Rerank
+重构	Refactoring
+重试	Retry
+重试规则	retry
+量化	Quantization
+量化交易	Quantitative Trading
+量子机器学习	Quantum Machine Learning
+量子计算	Quantum Computing
+鉴权	Authentication
+钩子	hooks
+链式法则	Chain Rule
+链表	Linked List
+锁文件	Lock file
+错误处理	Error Handling
+键值数据库	Key-Value Store
+键值缓存	KV Cache
+镜像	Image
+长期记忆	Long-Term Memory
+长短期记忆网络	LSTM
+长链推理	Long-chain Reasoning
+门控	Gating
+门控循环单元	GRU
+闭源	Closed Source
+闭环	Closed Loop
+闭环反馈	Closed-Loop Feedback
+闭环控制	Closed-Loop Control
+问答系统	Question Answering
+问责制	Accountability
+队列	Queue
+队列数据结构	Queue Data Structure
+防火墙	Firewall
+阿里云	Alibaba Cloud
+降维	Dimensionality Reduction
+降维算法	Dimensionality Reduction
+随机失活	Dropout
+随机梯度下降	SGD
+随机森林	Random Forest
+隐私保护	Privacy Protection
+隐私保护ML	Privacy-Preserving ML
+集合	Set
+集合数据结构	Set Data Structure
+集合类型	Set Type
+集成学习	Ensemble Learning
+集成开发环境	IDE
+集成测试	Integration Test
+集束搜索	Beam Search
+零信任	Zero Trust
+零冗余优化器	ZeRO
+零样本	zero-shot
+零样本学习	Zero-shot Learning
+零样本提示	Zero-shot Prompting
+需求	Requirement
+需求分析	Requirements Analysis
+静态检查	Lint
+非关系型	Non-relational
+非关系型数据库	NoSQL
+非对称加密	Asymmetric Encryption
+面向对象	Object-Oriented Programming
+面向对象封装	Encapsulation
+面向对象编程	Object-Oriented Programming
+项目里程碑	Project Milestone
+预测性维护	Predictive Maintenance
+预训练	Pretraining
+领域自适应	Domain Adaptation
+频率惩罚	Frequency Penalty
+马尔可夫决策过程	Markov Decision Process
+驾驭	Harness Layer
+驾驭工程	Harness Engineering
+验收子代理	verifier sub-agents
+验证信号优先级	Verification Signal Priority
+验证码	CAPTCHA
+高并发	High Concurrency
+高斯误差线性单元	GELU
+黑板系统	Blackboard System

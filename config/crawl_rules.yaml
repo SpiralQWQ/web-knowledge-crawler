@@ -1,0 +1,342 @@
+# ============================================================
+# 三分类采集站点配置 — crawl_all.py 使用
+# ============================================================
+# 类别说明:
+#   search = 站内搜索(有API或Playwright模拟的搜索功能)
+#   seed   = 种子采集(已知URL列表,按term匹配后下载)
+#   static = 静态下载(无搜索+无Cookie,直接HTTP GET)
+# ============================================================
+
+search_sites:
+  # --- API优先(无需登录,13个) ---
+  - name: arxiv
+    type: search
+    category: paper
+    max_results: 30
+    priority: high
+
+  - name: semanticscholar
+    type: search
+    category: paper
+    max_results: 30
+    priority: high
+
+  - name: dblp
+    type: search
+    category: paper
+    max_results: 30
+    priority: high
+
+  - name: paperswithcode
+    type: search
+    category: code
+    max_results: 30
+    priority: high
+
+  - name: aclanthology
+    type: search
+    category: paper
+    max_results: 30
+
+  - name: openreview
+    type: search
+    category: paper
+    max_results: 20
+
+  - name: huggingface
+    type: search
+    category: model
+    max_results: 20
+    priority: high
+
+  - name: kaggle
+    type: search
+    category: dataset
+    max_results: 20
+
+  - name: github_topics
+    type: search
+    category: repo
+    max_results: 30
+    priority: high
+
+  - name: hackernews
+    type: search
+    category: news
+    max_results: 20
+
+  - name: bilibili
+    type: search
+    category: video
+    max_results: 20
+    requires_cookie: true
+
+  # --- 会议论文(3个) ---
+  - name: neurips
+    type: search
+    category: paper
+    conference: NeurIPS
+    max_results: 20
+
+  - name: icml
+    type: search
+    category: paper
+    conference: ICML
+    max_results: 20
+
+  - name: iclr
+    type: search
+    category: paper
+    conference: ICLR
+    max_results: 20
+
+  # --- 社区/论坛(Playwright模拟,12个) ---
+  - name: zhihu
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+    requires_cookie: true
+
+  - name: juejin
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: csdn
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: segmentfault
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: oschina
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: v2ex
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: devto
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: medium
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: hackernoon
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: lobste.rs
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  - name: datawhale
+    type: search
+    category: community
+    method: playwright
+    max_results: 20
+
+  - name: alignmentforum
+    type: search
+    category: article
+    method: playwright
+    max_results: 20
+
+  # --- 视频(Playwright,3个) ---
+  - name: youtube
+    type: search
+    category: video
+    method: playwright
+    max_results: 20
+
+  - name: douyin
+    type: search
+    category: video
+    method: playwright
+    max_results: 20
+    requires_cookie: true
+
+  - name: xiaohongshu
+    type: search
+    category: image
+    method: playwright
+    max_results: 20
+    requires_cookie: true
+
+  # --- 学术(Playwright,3个) ---
+  - name: google_scholar
+    type: search
+    category: paper
+    method: playwright
+    max_results: 20
+
+  - name: connectedpapers
+    type: search
+    category: paper
+    method: playwright
+    max_results: 15
+
+  - name: scirate
+    type: search
+    category: paper
+    method: playwright
+    max_results: 15
+
+  # --- 代码平台(Playwright,3个) ---
+  - name: gitee
+    type: search
+    category: repo
+    method: playwright
+    max_results: 20
+
+  - name: gitlab
+    type: search
+    category: repo
+    method: playwright
+    max_results: 20
+
+  - name: leetcode
+    type: search
+    category: code
+    method: playwright
+    max_results: 20
+
+  # --- AI工具文档(Playwright,4个) ---
+  - name: cursor
+    type: search
+    category: docs
+    method: playwright
+    max_results: 20
+
+  - name: claude_code_docs
+    type: search
+    category: docs
+    method: playwright
+    max_results: 20
+
+  - name: opencode
+    type: search
+    category: docs
+    method: playwright
+    max_results: 20
+
+  - name: qoder_docs
+    type: search
+    category: docs
+    method: playwright
+    max_results: 20
+
+  # --- 课程平台(Playwright,3个) ---
+  - name: coursera
+    type: search
+    category: course
+    method: playwright
+    max_results: 20
+
+  - name: edx
+    type: search
+    category: course
+    method: playwright
+    max_results: 20
+
+  - name: khanacademy
+    type: search
+    category: course
+    method: playwright
+    max_results: 20
+
+  # --- 科技资讯(Playwright,7个) ---
+  - name: 36kr
+    type: search
+    category: news
+    method: playwright
+    max_results: 20
+
+  - name: huxiu
+    type: search
+    category: news
+    method: playwright
+    max_results: 20
+
+  - name: tmtpost
+    type: search
+    category: news
+    method: playwright
+    max_results: 20
+
+  - name: jiqizhixin
+    type: search
+    category: news
+    method: playwright
+    max_results: 20
+
+  - name: qbitai
+    type: search
+    category: news
+    method: playwright
+    max_results: 20
+
+  - name: infoq
+    type: search
+    category: news
+    method: playwright
+    max_results: 20
+
+  - name: sspai
+    type: search
+    category: news
+    method: playwright
+    max_results: 20
+
+  # --- AI平台(Playwright+API,1个) ---
+  - name: modelscope
+    type: search
+    category: model
+    method: playwright
+    max_results: 20
+
+seed_sites:
+  # 从 seed 文件匹配关键词条目
+  - name: repo_seeds
+    type: seed
+    category: repos       # → config/seeds/repo_seeds.txt
+    max_matches: 50
+
+  - name: doc_seeds
+    type: seed
+    category: docs        # → config/seeds/doc_seeds.txt
+    max_matches: 50
+
+  - name: video_keywords
+    type: seed
+    category: media       # → config/seeds/video_keywords_full.txt
+    max_matches: 30
+
+static_sites:
+  # 已知 URL 直接下载(无需搜索/无需cookie)
+  - name: static_pdfs
+    type: static
+    seed_file: config/seeds/static_pdfs.txt
+    max_matches: 100

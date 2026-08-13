@@ -1,0 +1,2 @@
+# 网页托管文档直链（PDF/DOC/PPT，每行一个 URL）
+# https://example.com/intro.pdf

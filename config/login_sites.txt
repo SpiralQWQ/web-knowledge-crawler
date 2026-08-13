@@ -1,0 +1,73 @@
+# 需登录站点清单 — 启动Edge调试模式.bat 会自动打开这些网址
+# 每行: 站点名 | 登录网址
+# 共 69 个站点
+
+B站 | https://www.bilibili.com
+YouTube | https://www.youtube.com
+抖音(App扫码) | https://www.douyin.com
+慕课网 | https://www.imooc.com
+中国大学MOOC | https://www.icourse163.org
+网易云课堂 | https://study.163.com
+极客时间 | https://time.geekbang.org
+学堂在线 | https://www.xuetangx.com
+极客学院 | https://www.jikexueyuan.com
+Coursera | https://www.coursera.org
+edX | https://www.edx.org
+可汗学院 | https://www.khanacademy.org
+51CTO | https://www.51cto.com
+知乎 | https://www.zhihu.com
+掘金 | https://juejin.cn
+CSDN | https://www.csdn.net
+博客园 | https://www.cnblogs.com
+思否SegmentFault | https://segmentfault.com
+开源中国 | https://www.oschina.net
+V2EX | https://www.v2ex.com
+CNode | https://cnodejs.org
+Lobsters | https://lobste.rs
+Hacker News | https://news.ycombinator.com
+智源社区 | https://hub.baai.ac.cn
+Stack Overflow | https://stackoverflow.com
+Dev.to | https://dev.to
+Datawhale社区 | https://datawhale.cn
+AI Alignment Forum | https://www.alignmentforum.org
+看雪论坛 | https://bbs.kanxue.com
+Medium | https://medium.com
+微信公众号 | https://mp.weixin.qq.com
+HackerNoon | https://hackernoon.com
+少数派 | https://sspai.com
+Hugging Face | https://huggingface.co
+Kaggle | https://www.kaggle.com
+ModelScope魔搭 | https://modelscope.cn
+LiblibAI | https://www.liblib.art
+智谱GLM | https://open.bigmodel.cn
+Kimi月之暗面 | https://platform.moonshot.cn
+OpenRouter | https://openrouter.ai
+通义千问 | https://tongyi.aliyun.com
+阿里云开发者 | https://developer.aliyun.com
+飞桨AI Studio | https://aistudio.baidu.com
+阿里云天池 | https://tianchi.aliyun.com
+Weights & Biases | https://wandb.ai
+Roboflow | https://universe.roboflow.com
+GitHub | https://github.com
+Gitee | https://gitee.com
+LeetCode力扣 | https://leetcode.cn
+Overleaf | https://www.overleaf.com
+36氪 | https://36kr.com
+虎嗅 | https://www.huxiu.com
+钛媒体 | https://www.tmtpost.com
+机器之心 | https://www.jiqizhixin.com
+量子位 | https://www.qbitai.com
+InfoQ中文 | https://www.infoq.cn
+Iconfont图标库 | https://www.iconfont.cn
+Flaticon | https://www.flaticon.com
+The Noun Project | https://thenounproject.com
+SoundCloud | https://soundcloud.com
+The Changelog | https://changelog.com
+Semantic Scholar | https://www.semanticscholar.org
+Connected Papers | https://www.connectedpapers.com
+LMSYS Arena | https://lmarena.ai
+TryHackMe | https://tryhackme.com
+Google Docs | https://docs.google.com
+小红书 | https://www.xiaohongshu.com
+腾讯WorkBuddy | https://www.codebuddy.cn
+Qoder通义灵码 | https://qoder.com.cn

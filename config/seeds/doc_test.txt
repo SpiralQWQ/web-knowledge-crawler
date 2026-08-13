@@ -1,0 +1,3 @@
+# 文档采集小批量测试（Google Docs 导出 + arXiv 真实论文 PDF）
+https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit
+https://arxiv.org/pdf/1706.03762

@@ -1,0 +1,6 @@
+# knowledge-collector 主包依赖（网页引擎 Crawl4AI 走独立 venv，见 config/collector.yaml）
+PyYAML>=6.0
+requests>=2.31
+python-dotenv>=1.0
+
+# 可选：RSSHub 监测 / 后续解析阶段再按需加（MinerU 走独立 venv）

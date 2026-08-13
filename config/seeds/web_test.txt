@@ -1,0 +1,3 @@
+# 网页采集小批量测试（谷歌 Agentic Design Patterns 400 页书 + Cloud 架构文档）
+https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit
+https://docs.cloud.google.com/architecture/choose-design-pattern-agentic-ai-system

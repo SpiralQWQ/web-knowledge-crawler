@@ -1,0 +1,5 @@
+# arXiv 搜索词（每行一个查询表达式）
+# 参考 arXiv API：http://export.arxiv.org/api/query?search_query=...
+# all:"large language model"
+# all:"retrieval augmented generation" AND cat:cs.CL
+# cat:cs.AI AND submittedDate:[202401010000 TO 202412312359]

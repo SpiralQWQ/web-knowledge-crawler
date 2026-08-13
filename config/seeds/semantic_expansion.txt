@@ -1,0 +1,2738 @@
+# 全量词汇 v7（2740 个）	Vuetify	Vuetify（Vue UI 组件库）	Livewire（Laravel 全栈框架）	Vue	Visual Question Answering
+Puppet Configuration Management	Reasoning Model	Requirements Engineering	Repetition Penalty	Training Convergence	Model Deployment
+Helm Kubernetes Package Manager	Helm（Kubernetes 包管理器）	Homebrew Package Manager	Package Manager	Package Dependency	Harness Layer
+Kubernetes Kind	Kubernetes	Kind（Kubernetes 本地集群工具）	Keras	Jetpack Compose	Subgoal
+OLM Operator Lifecycle Manager	OLM（Operator Lifecycle Manager，Kubernetes 算子生命周期管理器）	Operating System Process	Agentic Software Development Lifecycle	Nucleus Sampling	Helm Kubernetes Package Manager
+.gitignore	Git Branch	Git Commit	GitOps	Git add	Git Merge
+3D Generation	3D渲染	3D生成	Image Generation	VRAM	大模型
+3D渲染	3D生成	3D Generation	图形渲染	视觉模型	Three.js（WebGL 3D 渲染库）
+3D生成	3D渲染	图像生成	3D Generation	图像分割	大模型
+A/B Testing	A/B测试	Turing Test	Test Set	Testing Environment	Unit Testing
+A/B测试	A/B Testing	单元测试	基准测试	测试环境	测试集
+A2C	BF16	BGD	DML	gRPC	PCA
+A3C	A2C
+Access Control	Media Access Control Address	DELETE	Version Control	Linked List	Single Page Application
+Accountable AI	AI Accountability	ACID	Explainable AI	Data Card	Data Throughput
+ACID	Encoding	Accountable AI	PCA	Ridge Regularization	Angular
+Action Recognition	Named Entity Recognition	Automatic Speech Recognition	Action Space	React Component	Regularization
+Action Space	Action Recognition	Application Development	Actor Model	Training Set	Predictive Maintenance
+Activation Function	Swish Activation Function	Loss Function	Function Calling	Penalty Function	Function Argument
+Actor Model	Speech Model	Model Stealing	Model Training	Embedding Model	Model Versioning
+Actor 并发模型	模型并行	Actor Model	并发编程	Actuator	模型部署
+Actor-Critic	Advantage Actor-Critic	Asynchronous Advantage Actor-Critic	Self-Criticism	Cognitive Architecture	Multi-Agent Debate
+Actuator	Actor Model	Activation Function	Actor 并发模型	Agentic RAG	Penalty Function
+Advantage Actor-Critic	Asynchronous Advantage Actor-Critic	Actor-Critic	Cognitive Architecture	Self-Criticism	Concurrency
+Adversarial Attack and Defense	Adversarial Attacks	Deadlock Prevention	Dense Retrieval	Adversarial Examples	Deadlock Detection
+Adversarial Attacks	Adversarial Attack and Defense	Adversarial Examples	Generative Adversarial Network	Adversarial Training	Serial Port
+Adversarial Examples	Adversarial Attacks	Generative Adversarial Network	Adversarial Training	Adversarial Attack and Defense	Result Reproduction
+Adversarial Training	Pre-training	Distributed Training	Post-training	Training Convergence	Training Set
+AG2	AGI	Agno	Agile Software Development	H2 Database	A2C
+Agent	Agent Society	AgentVerse	Agentic AI	Agent Orchestration	Agentic Development
+Agent Development Kit	Agentic Development	Agent Framework	AgentVerse	Agent Tools	Multi-Agent Development
+Agent Fleet Economics	Agent Loop	Agent Orchestration	Stateful Single-Agent Workflow	AI Agent Ecosystem	Agent Harness
+Agent Framework	Agent 框架	Agent Development Kit	AgentVerse	Agent 编排	Agent Tools
+Agent Handoffs	Agent Harness	AGENTS.md	Agent Loop	Agent Orchestration	Agentic RAG
+Agent Harness	Agent Handoffs	Agent Society	Agent Orchestration	Agent Skill	Agent Loop
+Agent in DevOps	Agent Orchestration	Agent Loop	Agentic RAG	AGENTS.md	Agent Society
+Agent Loop	AGENTS.md	Agent Skill	Agent 编排	Agentic RAG	Agent Orchestration
+Agent Orchestration	Agent Society	Multi-Agent Orchestration	Orchestrator Agent	Agent Skill	Agentic AI
+Agent Role Playing	Agent Skill	Agent Loop	Agent Orchestration	Agentic RAG	Agent Society
+Agent Security	AgentVerse	Agent Society	Agent Tools	Agent安全	Agentic Development
+Agent Skill	AI Agent Skill	Agent Orchestration	Agent Society	Agent Loop	Agent Role Playing
+Agent Society	Agent Orchestration	Agent	AgentVerse	Agent Skill	Agentic Development
+Agent Tools	AgentVerse	Agent Framework	Agent Development Kit	Agent	Agent Security
+Agent Workflow	Agentic Workflow	Stateful Single-Agent Workflow	Agent Society	Agentic AI	Agent Loop
+Agent 框架	Agent Framework	Agent 编排	Agent编排层	AgentVerse	Agent Tools
+Agent 编排	Agent编排层	多 Agent 编排	Agent 框架	Agent Framework	AGENTS.md
+Agent 软件开发生命周期	Agent 编排	多Agent开发	Agent 框架	Agent编排层	Agent Development Kit
+Agentic AI	Agentic Workflow	Agent Society	Agentic Development	Agentic RAG	Agent Orchestration
+Agentic Development	Multi-Agent Development	Agent Development Kit	AgentVerse	Agent Society	Agentic AI
+Agentic RAG	Agentic AI	Agent Orchestration	Agent Loop	Agentic Development	Agent Skill
+Agentic SDLC	AgentVerse	Semantic Memory	Data Storage	Agent Tools	Storage System
+Agentic Software Development Lifecycle	Agentic Development	Agent Development Kit	Spec-Driven Development	Modality Fusion	Specification-Driven Development
+Agentic Workflow	Agent Workflow	Agentic AI	Stateful Single-Agent Workflow	Agent Society	Agentic Development
+AGENTS.md	Agent 编排	Agent Loop	Agent Tools	Agentic RAG	Agent Framework
+AgentVerse	Agent	Agent Society	Agent Framework	Agent Tools	Agentic Development
+Agent安全	Agent Security	Agent Tools	Agent 编排	AGENTS.md	Agent 框架
+Agent编排层	Agent 编排	多 Agent 编排	Agent 框架	Agent Framework	多Agent开发
+AGI	Agno	AG2	BGD	ASI	Angular
+Agile Methodology	Agile Sprint	Encapsulation	Explainability	Agile Software Development	Sorting Algorithms
+Agile Software Development	Spec-Driven Development	Software Program	Software Component	Software Deployment	Application Development
+Agile Sprint	Sprint Deliverable	Agile Software Development	Agile Methodology	Algorithm Transparency	Rerank
+Agno	AGI	AG2	Async	Angular	Agile Software Development
+Ahead-of-Time Compilation (AOT)	提前编译（AOT）	One-shot Prompting	Breadth-First Search (BFS)	Breadth-First Search	Compile Time
+AI	生成式 AI	边缘 AI	Edge AI	AI技能	可解释AI
+AI Accountability	Accountable AI	Constitutional AI	ACID	AI Governance	AI Alignment
+AI Agent Ecosystem	AI Agent 生态	Agent Fleet Economics	Agentic AI	AI Governance	Agent Orchestration
+AI Agent Skill	Agent Skill	Agentic AI	Agentic Development	Agent Orchestration	Agentic RAG
+AI Agent 生态	Agentic AI	生成式 AI	AI 安全级联	AI子目标	AI 治理监管
+AI Alignment	Value Alignment	AI Interaction Design	AI Ethics	Constitutional AI	AI Accountability
+AI Autonomy	自主式 AI	Autonomous Agent	Autocomplete	Autonomy Level	AI交互设计
+AI Chip	AI Ethics	AI 芯片	AIGC	AI 安全级联	Colossal-AI
+AI Coding Assistant	Explainable AI	Responsible AI	AI Interaction Design	Constitutional AI	AI Product Manager
+AI Ethics	AI Chip	AI Planning	AI for Science	AIGC	AI Alignment
+AI for Science	AI伦理	AI Ethics	AI 芯片	AI Planning	AI Product Manager
+AI Governance	AI Governance & Regulation	Governance and Ethics	AI Accountability	AI Product Manager	Agentic AI
+AI Governance & Regulation	AI Governance	Governance and Ethics	Trust Region Policy Optimization	Recommender System	Policy Gradient
+AI Guardrails	Gradle	边缘 AI	AI Safety Cascade	Symbolic AI	AI 安全级联
+AI Hallucination	Hallucination Mitigation	Hallucination Detection	Colossal-AI	AI Chip	Hallucination Governance
+AI Interaction Design	AI-Generated Content	AI-Powered Programming	AI Planning	AI交互设计	AI Product Manager
+AI Planning	AI子目标	AI Interaction Design	AI Ethics	Explainable AI	AI Agent 生态
+AI Product Manager	AI产品经理	AI Interaction Design	AI 芯片	AI Planning	AI for Science
+AI Safety Cascade	Safety Alignment	Thread Safety	Dependency Parsing	AI Guardrails	Adversarial Attack and Defense
+AI Self-Improvement	Recursive Self-Improvement	Self-Attention	Self-Reflection	Self-Consistency	Self-Refine
+AI Watermarking	AI水印	AI Agent Ecosystem	AI Accountability	AI Hallucination	池化
+AI Winter	AI 寒冬	AI 安全级联	AI Chip	AI	AI Ethics
+AI 会议纪要	AI 芯片	AI 安全级联	AI交互设计	AI产品经理	AI子目标
+AI 反馈强化学习	人类反馈强化学习	Reinforcement Learning from AI Feedback	氛围编程（AI 辅助直觉式编码）	多智能体强化学习	AI交互设计
+AI 安全级联	AI Agent 生态	AI 治理监管	AI产品经理	AI子目标	AI伦理
+AI 寒冬	AI Winter	边缘 AI	AI 安全级联	AI 治理监管	AI幻觉
+AI 治理监管	AI治理	AI 安全级联	AI伦理	AI Agent 生态	AI产品经理
+AI 自我改进	自主式 AI	AI交互设计	AI 反馈强化学习	AI幻觉	AI Self-Improvement
+AI 芯片	AI产品经理	AI交互设计	AI编程助手	AI伦理	AI for Science
+AI-Generated Content	AI Interaction Design	Generative AI	AI-Powered Programming	Constitutional AI	Explainable AI
+AI-Powered Programming	AI Interaction Design	AI-Generated Content	生成式 AI	Reflective Programming	Code Review AI
+AIGC	AI Ethics	AI Chip	AI-Generated Content	AI 安全级联	生成式 AI
+AI交互设计	AI产品经理	AI 芯片	AI编程助手	AI Interaction Design	AI伦理
+AI产品经理	AI Product Manager	AI 芯片	AI伦理	AI交互设计	AI子目标
+AI伦理	AI产品经理	AI治理	AI 治理监管	AI 芯片	AI for Science
+AI子目标	AI Planning	AI产品经理	AI Agent 生态	AI 安全级联	AI技能
+AI对齐	AI角色扮演	边缘 AI	AI子目标	AI技能	AI护栏
+AI幻觉	幻觉检测	AI交互设计	大模型幻觉	氛围编程（AI 辅助直觉式编码）	AI 自我改进
+AI技能	AI编程助手	AI 芯片	AI子目标	AI	AI交互设计
+AI护栏	AI 安全级联	AI子目标	AI 治理监管	AI产品经理	生成式 AI
+AI水印	边缘 AI	生成式 AI	AI生成内容	Pydantic AI	Colossal-AI
+AI治理	AI 治理监管	AI伦理	AI Agent 生态	AI技能	AI子目标
+AI生成内容	生成式 AI	AI-Generated Content	AI Agent 生态	Explainable AI	Constitutional AI
+AI编程助手	AI 芯片	AI交互设计	AI技能	AI角色扮演	AI产品经理
+AI角色扮演	AI编程助手	AI技能	AI对齐	AI交互设计	AI子目标
+AJAX	JSON	HTTPS	JavaScript	WebSocket	GET
+Alert System	Monitoring Alert	Recommender System	DELETE	Backup System	Storage System
+Algorithm	Greedy Algorithm	Sorting Algorithms	Sorting Algorithm	Dijkstra's Algorithm	Algorithm Transparency
+Algorithm Transparency	Sorting Algorithms	Algorithm	Dijkstra's Algorithm	Rerank	Graph Algorithms
+Alibaba Cloud	ASI	XAI	Hybrid Cloud	PaaS	Algorithm
+AlphaFold	AlphaZero	Playwright	Robot Framework	Angular	Async
+AlphaGo	AI
+AlphaZero	AlphaFold	Neuron Model	Edge AI	NebulaGraph	Reciprocal Rank Fusion
+Android	Android Studio	OS	Framework	Mobile App	手机越狱
+Android Studio	Android	Visual Studio Code	Framework	Visual Studio	开发工具
+Angular	Regularization	Encoding	Gradle	ArrayList	Ansible
+ANI	XAI	ASI	Nim	Tanh	AGI
+ANN	Callback	Scrum	Evals	Backend	Backend Framework
+Ansible	Constant Variable	Angular	Variable Scope	Explainability	Discount Factor
+Apache Airflow	Apache Spark	Apache Cassandra	Google Cloud	MySQL	Webpack
+Apache Cassandra	Apache Spark	Apache Airflow	YouTube Data API v3	OpenBSD	PyCharm（Python 集成开发环境）
+Apache Spark	Apache Airflow	Apache Cassandra	MySQL	Hadoop	Google Cloud
+API Gateway	API Response	API Specification	API 网关	Gateway	Model API
+API Request	REST API	Pull Request	API Response	API Specification	Request Body
+API Response	API Specification	API Gateway	API 网关	API Request	REST API
+API Specification	API Response	API Gateway	API接口	API Request	API 网关
+API 网关	API Response	API Gateway	API接口	API Specification	API Request
+Apify	API Gateway	API Response	API 网关	API Specification	MLflow
+Apify（网页爬取与自动化平台）	Netlify（静态网站托管/Serverless 平台）	Puppeteer（Node.js 浏览器自动化库）	Gulp（前端自动化构建工具）	Playwright（浏览器自动化/E2E 测试框架）	FastAPI（Python 异步 Web 框架）
+API接口	API Specification	API 网关	API Response	API Request	API Gateway
+App Icon	UI Icon	应用图标	Mobile App	Appwrite	Option Type
+Application Development	Agent Development Kit	Agentic Development	Agile Software Development	Release Management	Model Version
+Application Monitoring	System Monitoring	Model Monitoring	Monitoring Alert	Predictive Maintenance	Stateful Single-Agent Workflow
+Approximate Nearest Neighbor	NebulaGraph	Artificial Neuron	K-Nearest Neighbors (KNN)	Optical Character Recognition	NestJS
+Appwrite	Playwright	App Icon	Mobile App	Model Context Protocol	应用图标
+APT Package Manager	apt-get	Software Package	Package Manager	Homebrew Package Manager	ssh-keygen
+apt-get	APT Package Manager	ssh-keygen	GET	SSL	ssh
+Array	ArrayList	Angular	Terraform	Function Argument	ACID
+ArrayList	Array	Angular	Browser Extension	Linear List	Function Argument
+Artificial General Intelligence	Artificial Intelligence	Collective Intelligence	Artificial Narrow Intelligence	Swarm Intelligence	Decision Intelligence
+Artificial Intelligence	Artificial General Intelligence	Artificial Narrow Intelligence	Collective Intelligence	Swarm Intelligence	Decision Intelligence
+Artificial Narrow Intelligence	Artificial Intelligence	Artificial General Intelligence	Swarm Intelligence	Collective Intelligence	Artificial Neuron
+Artificial Neural Network	Neural Network	Graph Neural Network	Recurrent Neural Network	Convolutional Neural Network	Artificial Neuron
+Artificial Neuron	Artificial Neural Network	Artificial Narrow Intelligence	Approximate Nearest Neighbor	Artificial Superintelligence	Curriculum Learning
+Artificial Superintelligence	Semi-supervised Learning	Artificial Neuron	Supervised Learning	Super Resolution	Artificial Narrow Intelligence
+ASCII	ASI	Chinchilla Language Model	Assembly Language	Tauri	AGI
+ASI	ASCII	AGI	XAI	ANI	Tanh
+ASR	IDE	Scrum	Framework	Software	Azure
+Assembly Language	Interpreted Language	Masked Language Modeling	Large Language Model	Causal Language Modeling	Semantic Versioning
+Asymmetric Encryption	Symmetric Encryption	Encryption	Homomorphic Encryption	Dependency Injection	Explainability
+Async	async/await	NoSQL	Syntax	BGD	DQN
+async/await	Async	PostgreSQL	async/await（异步编程）	Crawl4AI	Constitutional AI
+async/await（异步编程）	变分自编码器	程序异常	async/await	FastAPI（Python 异步 Web 框架）	并发编程
+Asynchronous Advantage Actor-Critic	Advantage Actor-Critic	Actor-Critic	Dependency Injection	Bounded Execution	Cognitive Architecture
+Attention Mechanism	Gating Mechanism	Mechanistic Interpretability	Predictive Maintenance	Explainability	Certificate Expiration
+Authentication	CORS Origin	MegEngine	Encoding	Cosine Similarity	Occam's Razor
+Authorization	Verification Signal Priority	Deterministic Verification	Generalization	Feature Attribution	Regularization
+Auto Scaling	Autocomplete	Auto-generation	Automatic Speech Recognition	Build Automation	Autonomous Agent
+Auto-generation	Auto Scaling	Autocomplete	Build Automation	Autonomy Level	Model Serving
+Autocomplete	Auto Scaling	Autonomous Agent	Automatic Speech Recognition	Auto-generation	Autonomy Level
+AutoGen	Autonomous Driving	Autocomplete	Autonomous Agent	Auto Scaling	Auto-generation
+Automatic Speech Recognition	Auto Scaling	Build Automation	Action Recognition	Autocomplete	Autonomous Agent
+Autonomous Agent	Autocomplete	Auto Scaling	Autonomous Driving	Variational Autoencoder	Automatic Speech Recognition
+Autonomous Driving	Autonomous Agent	AutoGen	Autocomplete	Auto Scaling	Automatic Speech Recognition
+Autonomy Level	Autocomplete	Auto Scaling	Auto-generation	Build Automation	Autonomous Driving
+Availability Zone	Explainability	Observation Space	Staging Area	Certificate Expiration	Gateway
+AWS	Azure	Server	IDE	Docker	Redis
+AWS API Gateway	AWS API 网关	Serverless	AWS	OpenAI Agents SDK	Gateway
+AWS API 网关	AWS API Gateway	AWS	数据库连接	云服务器	OpenAI Agents SDK
+axios	Async	XAI	DQN	Angular	AGI
+Azure	AWS	IDE	SaaS	Scrum	Framework
+Babel Compiler	Bellman Equation	Compiler	Babel（JavaScript编译器）	JIT Compiler	LayerNorm
+Babel（JavaScript编译器）	JavaScript Bundling	Erlang（并发函数式编程语言）	Babel Compiler	Moleculer（Node.js 微服务框架）	ECMAScript（JavaScript 语言标准）
+Backdoor Attack	Backpropagation	Backend	Backend for Frontend (BFF)	Exponential Backoff	Backup System
+Backend	Backend Framework	Backup System	Backdoor Attack	Backend for Frontend (BFF)	Backpropagation
+Backend for Frontend (BFF)	Backend for Frontend（面向前端的后端模式，BFF）	Backdoor Attack	Backend	Exponential Backoff	Backpropagation
+Backend for Frontend（面向前端的后端模式，BFF）	Backend for Frontend (BFF)	Backend Framework	Backdoor Attack	Backpropagation	Frontend Mentor（前端练习平台）
+Backend Framework	Frontend Framework	Backend	Gated Recurrent Unit	Robot Framework	Agent Framework
+Backpropagation	Exponential Backoff	Backdoor Attack	Backup System	Forward Propagation	Prompt Leakage
+Backup System	Data Backup	Backpropagation	Backend	Reward Function	Exponential Backoff
+Bag of Words	Bagging	Password Hashing	词袋模型	Package Dependency	Single Page Application
+Bagging	Bag of Words	Package Dependency	State Reset	Prompt Caching	Backpropagation
+Bash	Chunking	RAG	RAG Chunking	Tanh	MoE
+Batch Gradient Descent	Mini-batch Gradient Descent	Gradient Descent	Stochastic Gradient Descent	Batch Normalization	Gradient Explosion
+Batch Learning	Batch Normalization	Ensemble Learning	Batch Size	Unsupervised Learning	Learning Rate
+Batch Normalization	Batch Size	Batch Gradient Descent	Batch Learning	Continuous Batching	Denoising Diffusion Probabilistic Model
+Batch Size	Batch Normalization	Continuous Batching	Batch Learning	Big Data	Batch Gradient Descent
+Beam Search	Semantic Search	Hybrid Search	Depth-First Search	Breadth-First Search	BERT
+Behavior Cloning	Clojure	CLIP	Pooling Layer	Tool Calling Loop	ReAct Loop
+Behaviorism	vibecoding	Vuetify	Activation Function	Constitutional AI	Solidity
+Bellman Equation	Babel Compiler	Module Bundler	贝尔曼方程	NebulaGraph	PyTorch
+Benchmark	NebulaGraph	BERT	Encoding	Model Stealing	Embedding Model
+BERT	Rerank	Whisper	Nostr	Beam Search	MoE
+BF16	BGD	RLHF	FP16	BM25	DQN
+bfloat16	Crawl4AI	BF16	POV-Ray	BoW	BGD
+BGD	BF16	DQN	gRPC	RLHF	DML
+Bias-Variance Tradeoff	Gradient Accumulation	Quantitative Trading	Random Variable	Constant Variable	Permission Boundary
+Big Data	Big O	Data Type	Batch Size	BigQuery（云数据仓库）	Data Structure
+Big O	Big Data	BigQuery	大模型	批大小	Megatron-LM
+BigQuery	Big O	Latency	Lazy Evaluation	Prompt	Prompt Leakage
+BigQuery（云数据仓库）	云数据库	Hadoop（大数据分布式处理框架）	数据库视图	数据包	Data Storage
+Binary Code	Binary File	Binary Search	Code Style	Code Library	Code Migration
+Binary File	Binary Code	Binary Search	Binary Tree	File System	Log File
+Binary Search	Binary File	Binary Code	Binary Tree	Semantic Search	Hybrid Search
+Binary Tree	Binary File	Binary Search	Binary Code	Tree Data Structure	Tree of Thoughts
+Bit Manipulation	Bitwise Operation	String Manipulation	Digital Signature	Data Fetching	Chain Rule
+Bitwise Operation	Bit Manipulation	Bounded Execution	Permission Boundary	Chain Rule	SentencePiece
+Blackboard System	黑板系统	NebulaGraph	Named Pipe	Compiler Design	Model Card
+BLEU	ROUGE	Kubernetes	Rerank	Subgoal	Browser
+BM25	BF16	BGD	PCA	DQN	NoSQL
+BOINC	Pulumi	BGD	Chunking	Rerank	Kubernetes Kind
+BOINC（伯克利分布式计算平台）	NebulaGraph（分布式图数据库）	分布式数据库	Kind（Kubernetes 本地集群工具）	分布式系统	BOINC
+Boolean	BOINC	Pulumi	BoW	Pooling Layer	Solana
+Boosting	Boosting提升算法	Modality Fusion	Vector	Release Management	Model Stealing
+Boosting提升算法	提升算法	Boosting	迭代算法	Modality Fusion	降维算法
+Boot Process	Bootloader	Backup System	Boosting	Debug	File Path
+Bootloader	Boot Process	Backup System	Module Bundler	Boosting	Model Evaluation
+Boundary Constraints	Training Set	Training Convergence	Distributed Training	Post-training	Training Loss
+Bounded Execution	Recursive Chunking	Recursion	Trace Debugging	Executor	Dropout Regularization
+BoW	Branch and Bound	BOINC	RAG	BERT	Rerank
+BPE	BGD	CoT	gRPC	DML	JDBC
+Brain Floating Point	Floating Point	Branch and Bound	Prompt Chaining	Chain of Thought	Chain Rule
+Branch and Bound	Brain Floating Point	BoW	Beam Search	Bounded Execution	Module Bundler
+Breadth-First Search	Depth-First Search	Breadth-First Search (BFS)	Beam Search	Hybrid Search	Semantic Search
+Breadth-First Search (BFS)	Depth-First Search (DFS)	Breadth-First Search	广度优先搜索（BFS）	Depth-First Search	深度优先搜索（DFS）
+Breakpoint	Circuit Breaker	Red Teaming	Sharding	BoW	Hot Reload
+Browser	Browser Extension	Browser Cookie	Latency	CrewAI	BLEU
+Browser Cookie	Browser Extension	Browser	Data Export	Prompt缓存	Express.js
+Browser Extension	Browser	Browser Cookie	Frontend Framework	Exception	ArrayList
+Brute Force	Terraform	Weight Decay	Command Line	Command Line Argument	Training Set
+Bubble Sort	Stable Sort	Bucket Sort	Merge Sort	Explainability	Sorting Algorithms
+Bucket Sort	Bubble Sort	S3 Bucket	Stable Sort	Merge Sort	Kubernetes Kind
+Buffer	Batch Learning	Network Throughput	System Prompt	Prompt Chaining	Backend
+Bug	Bug Reproduction	Debug	Build System	Exception	OOP
+Bug Reproduction	Bug	Trace Debugging	Denoising Diffusion Probabilistic Model	Result Reproduction	Error Handling
+Build Automation	Auto Scaling	Automatic Speech Recognition	Auto-generation	Autocomplete	Build System
+Build System	Software Program	System Architecture	Software Library	Distributed Systems	Build Automation
+Bulma	Gulp	Pulumi	Tauri	BLEU	GRU
+Bulma（CSS 框架）	Flask（Python Web 框架）	Laravel（PHP Web 框架）	CodeIgniter（PHP Web 框架）	JavaScript Bundling	Nette（PHP Web 框架）
+byte	Vite	Byte Pair Encoding	Elixir	Gateway	Nostr
+Byte Pair Encoding	Encoding	Positional Encoding	Constant Variable	Encapsulation	Constant Folding
+C#	C语言指针	C#（编程语言）	CUDA	Nette	curl Command
+C#（编程语言）	C语言指针	F#（.NET 函数式编程语言）	Visual Basic（编程语言）	Ruby（编程语言）	Swift（编程语言）
+Cache	KV Cache	Server	CDN	Dataset	Data Card
+Callback	Function Calling	Tool Calling	System Call	Tool Calling Loop	SHAP
+Canary Release	Release Management	Binary Code	Binary Search	Extractive QA	Generative QA
+Canvas (HTML5)	HTML5 画布（Canvas API）	Phaser（HTML5 2D 游戏框架）	图形渲染	Flash Attention	前端视图
+Capsule Network	Residual Network	Citation Network	Network Packet	Network Probe	Network Throughput
+CAPTCHA	Prompt Caching	Cassandra	Fetch API	Chunking	BGD
+Caret	Health Check	State Management	React	AgentVerse	spaCy
+Cassandra	CAPTCHA	Keras	CUDA	ROUGE	Solana
+Catastrophic Forgetting	Bucket Sort	Overlapping Chunking	Two-Factor Authentication	Agile Methodology	Stable Diffusion
+Causal Language Modeling	Masked Language Modeling	Large Language Model	Language Model	Interpreted Language	Assembly Language
+CDN	URL	Cache	Server	KV Cache	IPv6
+Certificate Expiration	TLS Certificate	Instruction Tuning	Feature Attribution	Predictive Maintenance	Verification Signal Priority
+Chain of Thought	Chain-of-Thought	Prompt Chaining	Chain Rule	Long-chain Reasoning	Homomorphic Encryption
+Chain Rule	Chain of Thought	Prompt Chaining	Chain-of-Thought	Long-chain Reasoning	Explainability
+Chain-of-Thought	Chain of Thought	Prompt Chaining	Chain Rule	Homomorphic Encryption	Long-chain Reasoning
+Changelog	Transformer	变更日志	Value Function	Transformer模型	Exception
+ChatGPT	CoT	TTS	BGD	Copilot	Automatic Speech Recognition
+Cherry-pick	Overlapping Chunking	Puppeteer	Jetpack Compose	Wildcard Matching	Chain Rule
+Chinchilla Language Model	Chunking	Causal Language Modeling	Masked Language Modeling	Chinchilla Scaling Law	RAG Chunking
+Chinchilla Scaling Law	Chinchilla 定律	Scaling Laws	Chinchilla Language Model	Lasso Regularization	Discount Factor
+Chinchilla 定律	Chinchilla Scaling Law	Chinchilla Language Model	Discount Factor	Gradient Accumulation	Optical Character Recognition
+Chinese Room	中文房间	Time Series Database	Version Number	Single Page Application	Text Generation
+chmod	Homomorphic Encryption	Chunking	Clojure	CLM	Epoch
+Chunking	RAG Chunking	Semantic Chunking	Overlapping Chunking	Rerank	Chinchilla Language Model
+CI/CD	CI/CD工作流	Vercel	公钥	Image Segmentation	DALL-E
+CI/CD工作流	CI/CD	开发工作流	工作流编排	工作流控制	智能体工作流
+Circuit Breaker	Breakpoint	Semantic Chunking	Prompt Chaining	Bounded Execution	Recursive Chunking
+Citation Analysis	Citation Network	Principal Component Analysis	Residual Network	Encapsulation	Ansible
+Citation Network	Citation Analysis	Network Probe	Residual Network	Capsule Network	Network Packet
+Class Diagram	Float Data Type	Discord.js	Directory Structure	Diffusion Model	curl Command
+Class Field	Text Classification	OOP Class	Data Structure	Option Type	Domain Name
+Claude Code	Code Migration	Code Scaffolding	Code Generation	Code Comments	Code Style
+Client-Server	Serverless	Server	Cloud Server	HTTP Client	Web Application
+CLIP	CLM	Clojure	Rerank	Preact	Stack
+CLM	CLIP	Clojure	LSTM	MLOps	Nim
+Clojure	CLM	CLIP	Rerank	Crawl4AI	Seq2Seq
+Closed Loop	For Loop	PRAR Loop	Self-Repair Loop	While Loop	Reflexion Loop
+Closed Source	Open Source	Source Code	Single Page Application	Closed Loop	Stable Sort
+Cloud Computing	Cloud Server	Cloud Provider	Cloud Database	云服务器	云数据库
+Cloud Database	Cloud Server	Database Field	Database	Database Table	Database Migration
+Cloud Provider	Cloud Server	Cloud Computing	Cloud Database	Cloud Run	云服务器
+Cloud Run	Cloud Server	Cloud Provider	Hybrid Cloud	Cloud Computing	Point Cloud
+Cloud Server	Cloud Database	Cloud Provider	Cloud Computing	Server	云服务器
+Clustering	Zustand	Drupal	Dropout Layer	Prompt Leakage	Gated Recurrent Unit
+CNN	ISP	Bug	ImageNet	Network Timeout	Callback
+Code Comments	Code Review	Code Style	Code Library	Code Editor	Code Migration
+Code Editor	Code Review	Code Library	Code Comments	Code Style	Source Code
+Code Generation	Code Generator	Code Library	Code Style	Code Migration	Code Review
+Code Generator	Code Generation	Code Library	VS Code Extension	Code Style	Code Scaffolding
+Code Library	Code Editor	Code Comments	Code Style	Source Code	Code Review
+Code Migration	Code Library	Code Comments	Code Style	Code Generation	Code Scaffolding
+Code Review	Code Comments	Code Editor	Code Review AI	Code Library	Code Style
+Code Review AI	Code Review	Code Generator	Code Style	Code Generation	Code Editor
+Code Scaffolding	Code Migration	CodeIgniter	Code Generator	Code Generation	Code Library
+Code Style	Code Comments	Code Library	Code Review	Code Editor	Code Migration
+CodeIgniter	CodeIgniter（PHP Web 框架）	Code Scaffolding	Code Generator	Code Style	Code Migration
+CodeIgniter（PHP Web 框架）	CodeIgniter	Laravel（PHP Web 框架）	Nette（PHP Web 框架）	Moleculer（Node.js 微服务框架）	NestJS（Node.js 后端框架）
+Cognitive Architecture	Master-Slave Architecture	Role Assignment	System Architecture	Neural Architecture Search	Certificate Expiration
+Collaborative Filtering	Frequency Penalty	Multi-Agent Collaboration Framework	Convergence Rate	Parameter-Efficient Fine-tuning	Multi-Agent Collaboration
+Collective Intelligence	Artificial Intelligence	Swarm Intelligence	Artificial General Intelligence	Embodied Intelligence	Decision Intelligence
+Colossal-AI	Constitutional AI	Neuro-Symbolic AI	Pydantic AI	AI Hallucination	Explainable AI
+Command Alias	Command History	Command Line Argument	Command Line	Command Pattern	Command Line Option
+Command History	Command Line	Command Alias	Command Line Argument	Command Pattern	Command Line Option
+Command Line	Command Line Argument	Command Line Terminal	Command History	Command Line Option	Command Pattern
+Command Line Argument	Command Line Option	Command Line	Command Line Terminal	Command History	Command Alias
+Command Line Option	Command Line Argument	Command Line	Command Line Terminal	Command Pattern	Option Type
+Command Line Terminal	Command Line Argument	Command Line	Command Line Option	Terminal Emulator	Command Pattern
+Command Pattern	Command Line	Command Line Option	Command Line Argument	Command History	Command Alias
+Comment Analysis	Sentiment Analysis	Principal Component Analysis	Repository	Angular	Citation Analysis
+Commit hash	Hash Table	Hashing	Password Hashing	Haskell	Hash Algorithm
+Commit Message	Message Passing	Exception	Pull Request	Event Loop	REPL
+Common Lisp	Lisp	Common Lisp（Lisp 方言）	Network Packet	Public Key	Network Probe
+Common Lisp（Lisp 方言）	Common Lisp	Lisp	Whisper（语音识别模型）	超文本标记语言	Causal Language Modeling
+Compile Time	Time Complexity	Recursive Chunking	Short-Term Memory	Test-time Compute	Stable Diffusion
+Compiler	Compiler Design	JIT Compiler	Nette	Data Pipeline	Robot Framework
+Compiler Design	Compiler	Responsive Design	Design Pattern	Responsive Web Design	Model Stealing
+Computational Advertising	Computational Complexity	Parallel Computing	Computer Perception	Output Parsing	Computer Network
+Computational Complexity	Computer Perception	Computer Network	Parallel Computing	Computer	Function Compute
+Computer	Computer Program	Computer Network	Computer Vision	Computer Memory	Computer Perception
+Computer Memory	Computer Program	Computer	Computer Network	Semantic Memory	Computer Vision
+Computer Network	Computer	Computer Program	Computer Vision	Computer Perception	Computer Memory
+Computer Perception	Computer Program	Computer Network	Computer	Computer Vision	Computational Complexity
+Computer Program	Computer	Computer Network	Computer Vision	Computer Memory	Computer Perception
+Computer Vision	Computer	Computer Network	Computer Program	Computer Perception	Computer Memory
+Concurrency	Convergence Rate	Constant Folding	Deterministic Verification	Role Assignment	Frequency Penalty
+Conditional Branch	Conditional Probability	Conditional Statement	Constant Variable	Concurrency	Constant Folding
+Conditional Probability	Conditional Branch	Conditional Statement	Constant Folding	Constant Variable	Distributed Systems
+Conditional Statement	Conditional Branch	Conditional Probability	Verification Signal Priority	Deterministic Verification	Constant Folding
+Connectionism	Residual Connection	Network Packet	Continuous Integration	Network Port	MCP connectors
+Consensus Algorithm	Sorting Algorithms	Sorting Algorithm	Graph Algorithms	Genetic Algorithm	Greedy Algorithm
+Constant Folding	Constant Variable	Frequency Penalty	Full-parameter Fine-tuning	Discount Factor	Permission Boundary
+Constant Variable	Constant Folding	Random Variable	Variable Scope	Sequence-to-Sequence	Ansible
+Constitutional AI	Explainable AI	Responsible AI	Colossal-AI	Cursor AI Editor	生成式 AI
+Container	Container Service	Constant Variable	Sampling Parameters	Constant Folding	Pagination
+Container Registry	Container Service	Model Registry	Container	localStorage	Requirements Engineering
+Container Service	Container Registry	Container	Observation Space	Clustering	Transaction Management
+Content Management System (CMS)	Content Moderation	内容管理系统	System Architecture	System Monitoring	MVC (Model-View-Controller)
+Content Moderation	Media Access Control Address	Content Management System (CMS)	Video Memory	Long-Term Memory	Data Export
+Context Engineering	Context Layer	Model Context Protocol	In-Context Learning	Context Window	Context Menu
+Context Layer	Context Engineering	Context Window	Model Context Protocol	Context Menu	Continuous Integration
+Context Menu	Context Window	Context Layer	Model Context Protocol	Context Engineering	Text Classification
+Context Window	Context Menu	Context Layer	Model Context Protocol	Context Engineering	Window Function
+Contextual Compression	Context Layer	Exception	Context Engineering	Continuous Integration	Model Context Protocol
+Continual Learning	Online Learning	Representation Learning	Ensemble Learning	Supervised Learning	Unsupervised Learning
+Continuous Batching	Continuous Integration	Batch Gradient Descent	Mini-batch Gradient Descent	Batch Size	Batch Normalization
+Continuous Delivery	Forward Propagation	Continuous Integration	Conditional Statement	Residual Connection	Long-chain Reasoning
+Continuous Integration	Residual Connection	Continuous Batching	Constant Variable	Context Engineering	Context Layer
+Contrastive Judge	Conditional Statement	Constant Variable	Query Rewriting	Jetpack Compose	Knowledge Distillation
+Contrastive Language-Image Pre-training	Distributed Training	Mixed Precision Training	Pre-training	Training Convergence	Quantization Aware Training
+ControlNet	控制网络	Workflow Control	Access Control	Media Access Control Address	Model-View-Controller
+Convergence Rate	Concurrency	Constant Variable	Training Convergence	Frequency Penalty	Constant Folding
+Convolutional Neural Network	Neural Network	Recurrent Neural Network	Artificial Neural Network	Graph Neural Network	Spiking Neural Network
+Copilot	CoT	Automatic Speech Recognition	Load Balancing	Model Serving	Dropout Layer
+CORS	CoT	CORS Origin	Routing	NoSQL	Logits
+CORS Origin	CORS	Authentication	Orchestrator Agent	MegEngine	Ridge Regularization
+Cosine Similarity	Semantic Similarity	Cost Estimation	Authentication	Packet Switching	PyCharm
+Cost Estimation	Cost Function	Cosine Similarity	Instruction Tuning	Forward Propagation	Repetition Penalty
+Cost Function	Value Function	Cost Estimation	Loss Function	Function Argument	Penalty Function
+CoT	CORS	TRPO	Encoding	Rerank	TTS
+CPU Scheduling	Process Scheduling	Intelligent Risk Control	Intelligent Search	Intelligent Customer Service	内核态
+Crash Dump	LAMP Stack	Program Crash	Circuit Breaker	Stacking Ensemble	Weight Decay
+Crawl4AI	RLHF	CrewAI	DQN	BGD	ResNet
+CrewAI	Crawl4AI	Keras	Browser	CUDA	Kubernetes
+Cross Entropy	Cross Validation	Cross-Origin Resource Sharing	Cross-Encoder Reranking	Reverse Proxy	Distributed Tracing
+Cross Validation	Cross Entropy	Cross-Origin Resource Sharing	Cross-modal Alignment	Distributed Tracing	Model Switch
+Cross-Encoder Reranking	Variational Autoencoder	Code Scaffolding	Code Migration	Rerank	Cross-Origin Resource Sharing
+Cross-modal Alignment	Full-parameter Fine-tuning	Cross Validation	Cross-Origin Resource Sharing	Value Alignment	Cross-Encoder Reranking
+Cross-Origin Resource Sharing	Cross-Encoder Reranking	Cross Validation	Cross Entropy	Permission Boundary	Parameter-Efficient Fine-tuning
+Cryptocurrency	Cryptographic Salt	灾难性遗忘	Heap	LeakyReLU	LLM Temperature
+Cryptographic Salt	Cryptocurrency	灾难性遗忘	Gradle	Heap	LAMP Stack
+CSRF	RRF	NeRF	TTS	Chunking	RL
+CSS	JavaScript	HTML	DOM	HTML Tag	Code Style
+Ctrl+C	Ctrl+R	快捷键	DELETE	外键	主键
+Ctrl+R	Ctrl+C	快捷键	DELETE	外键	主键
+CUDA	cuDNN	DQN	Kubernetes	PCA	BGD
+CUDA 深度神经网络库	MegEngine（旷视深度学习框架）	PyTorch（深度学习框架）	人工神经网络	MLX（Apple 机器学习框架）	Curriculum Learning
+cuDNN	CUDA	GNN	DBSCAN	DQN	libcurl
+curl Command	Command Line Argument	File Permission	REPL	Bounded Execution	Command Line Option
+Curriculum Learning	Ensemble Learning	Unsupervised Learning	Representation Learning	Multimodal Learning	Few-shot Learning
+Cursor AI Editor	Constitutional AI	Code Review AI	Robot Framework	JIT Compiler	Recursive Chunking
+C语言指针	C#（编程语言）	C#	F#（.NET 函数式编程语言）	编程语法	编程范式
+Daemon Process	Process Scheduling	Unix Daemon	Process Fork	Module Export	Kill Process
+DALL-E	vLLM	Scala	MoE	Colossal-AI	LeakyReLU
+Data Annotation	Set Data Structure	Data Volume	Data Throughput	Data Export	Data Structure
+Data Backup	Backup System	Dataset	Data Card	Data Storage	Data Type
+Data Card	Dataset	Data Type	Data Structure	Data Storage	Data Export
+Data Cleaning	数据清洗	Data Volume	Data Storage	Data Label	Set Data Structure
+Data Drift	Data Card	Data Storage	Dataset	Data Throughput	Data Backup
+Data Export	Data Type	Data Throughput	Data Card	Data Label	Dataset
+Data Fetching	Float Data Type	Dataset Splitting	Data Type	Data Throughput	Fetch API
+Data Flywheel	Float Data Type	Data Fetching	Data Export	Data Throughput	Data Parallelism
+Data Label	Data Storage	Data Structure	Data Export	Data Structures	Data Volume
+Data Parallelism	Model Parallelism	Parallel Processing	Pipeline Parallelism	Data Structures	Data Throughput
+Data Pipeline	Data Label	Compiler	Compiler Design	Simultaneous Localization and Mapping	Data Export
+Data Poisoning	Data Label	Set Data Structure	Data Storage	Data Parallelism	Database Migration
+Data Storage	Data Volume	Dataset	Set Data Structure	Storage System	Data Type
+Data Structure	Set Data Structure	Data Structures	Graph Data Structure	Data Card	Data Type
+Data Structures	Data Structure	Set Data Structure	Graph Data Structure	Data Label	Data Storage
+Data Throughput	Data Export	Network Throughput	Data Card	Data Volume	Data Storage
+Data Type	String Data Type	Data Export	Data Card	Dataset	Float Data Type
+Data Volume	Data Storage	Data Type	Data Export	Data Label	Dataset
+Database	Database Field	Database View	Database Table	Cloud Database	Database Index
+Database Column	Database Table	Database Migration	Database Index	Database Transaction	Database Cursor
+Database Cursor	Database Table	Database View	Database Column	Database Migration	Database Index
+Database Field	Database View	Database Table	Database Migration	Database Index	Database
+Database Index	Database Table	Database View	Database Migration	Database Field	Database Column
+Database Migration	Database Index	Database Field	Database Trigger	Database Transaction	Database Column
+Database Optimization	Database Transaction	Database Migration	Database Trigger	Database Index	Database Query
+Database Query	Database Transaction	Database View	Database Trigger	Database Table	Database Migration
+Database Rollback	Database Row	Database Column	Database Transaction	Database Optimization	Database Migration
+Database Row	Database Rollback	Database Migration	Database Transaction	Database View	Database Column
+Database Table	Database View	Database Field	Database Index	Database Column	Database Cursor
+Database Transaction	Database Trigger	Database Migration	Database Optimization	Database Column	Database Index
+Database Trigger	Database Migration	Database Transaction	Distributed Database	Database Query	Database Optimization
+Database View	Database Field	Database Table	Database Index	Database Cursor	Database Migration
+Dataset	Data Card	Data Type	Data Storage	Data Export	Data Backup
+Dataset Splitting	Float Data Type	Set Data Structure	Frequency Penalty	Data Parallelism	Dataset
+DBSCAN	libcurl	NoSQL	cuDNN	HAProxy	BGD
+DDL	DDPG	DDPM	内存	RAM	内存交换
+DDPG	DDL	DDPM	KV 缓存	内存	KV Cache
+DDPM	DDPG	DDL	DBSCAN	KV Cache	MLflow
+Deadlock Detection	Deadlock Prevention	Adversarial Attack and Defense	Closed Loop	Shortcut Key	Lock file
+Deadlock Prevention	Deadlock Detection	Adversarial Attack and Defense	Frontend Routing	Reward Shaping	Hybrid Retrieval
+Debian	Scala	SLA	GRU	HyDE	RAG
+Debug	Trace Debugging	Code Review	Status Code	REPL	Agent Loop
+Decision Intelligence	Artificial Intelligence	Collective Intelligence	Artificial General Intelligence	Decision Tree	Swarm Intelligence
+Decision Tree	Decision Intelligence	决策树	Tree Data Structure	Markov Decision Process	Binary Tree
+Deep Deterministic Policy Gradient	Policy Gradient	Proximal Policy Optimization	AI Governance & Regulation	Trust Region Policy Optimization	Deserialization
+Deep Learning	DeepSpeed	深度学习	Machine Learning Model	Machine Learning	Deep Q-Network
+Deep Q-Network	DeepSpeed	Deep Learning	深度Q网络	Q-Function	网络探针
+DeepSpeed	Deep Learning	Deep Q-Network	深度学习	AI-Powered Programming	PyTorch（深度学习框架）
+DELETE	Ctrl+C	Ctrl+R	System Call	快捷键	Access Control
+Denoising Diffusion Probabilistic Model	Diffusion Model	Stable Diffusion	Differentiable Programming	Distributed Systems	Dialogue System
+Dense Retrieval	Adversarial Attack and Defense	Verification Signal Priority	Certificate Expiration	Frontend Routing	Deterministic Verification
+Dependency Injection	Prompt Injection	Dropout Regularization	Dependency Parsing	Frontend Routing	Bounded Execution
+Dependency Parsing	Dependency Injection	Parser	Dropout Regularization	Prompt Chaining	Constant Folding
+Depth-First Search	Breadth-First Search	Hybrid Search	Depth-First Search (DFS)	Semantic Search	Beam Search
+Depth-First Search (DFS)	Breadth-First Search (BFS)	Depth-First Search	深度优先搜索（DFS）	Breadth-First Search	广度优先搜索（BFS）
+Deserialization	Ridge Regularization	Regularization	Emergent Abilities	Permission Boundary	Ridge Regression
+Design Pattern	Compiler Design	Responsive Design	Model Parameter	Model Versioning	Model Stealing
+Desktop Application	Desktop Environment	Object Storage	Recommender System	Tool Description	Object Detection
+Desktop Environment	Desktop Application	Environment Variable	Environment Variables	Development Environment	Frontend Routing
+Detached HEAD	Constant Folding	Distributed Tracing	Least Privilege	游离的 HEAD	Task Scheduling
+Deterministic Verification	Constant Folding	Feature Attribution	Role Assignment	Concurrency	Constant Variable
+Developer Role Shift	Distribution Shift	Role Prompting	Command Line Option	Reciprocal Rank Fusion	Loss Function
+Development Environment	Environment Variable	Production Environment	Environment Variables	Desktop Environment	Agentic Development
+Dialogue System	Directory Structure	Distributed Systems	Denoising Diffusion Probabilistic Model	Recommender System	Discount Factor
+Dictionary Data Structure	Dictionary Learning	Directory Structure	Graph Data Structure	Data Structure	Data Structures
+Dictionary Learning	Dictionary Data Structure	Ensemble Learning	Representation Learning	Directory Structure	Dialogue System
+Differentiable Programming	Diffusion Model	Denoising Diffusion Probabilistic Model	Stable Diffusion	Reflective Programming	Discount Factor
+Differential Privacy	Stable Diffusion	Diffusion Model	Privacy Protection	Distributed Systems	Adversarial Attack and Defense
+Diffusion Model	Stable Diffusion	Denoising Diffusion Probabilistic Model	Differentiable Programming	Discount Factor	Rectified Linear Unit
+Digital Signature	Verification Signal Priority	Image Generation	Set Data Structure	Data Type	Time Series Database
+Dijkstra's Algorithm	Algorithm	Sorting Algorithms	Greedy Algorithm	Sorting Algorithm	Algorithm Transparency
+Dijkstra最短路径算法	Discord.js	Dijkstra's Algorithm	Diffusion Model	Differentiable Programming	Model Context Protocol (MCP)
+Dimensionality Reduction	Instruction Tuning	Reciprocal Rank Fusion	Permission Boundary	Stable Diffusion	Recursion
+Direct Preference Optimization	Inference Optimization	Proximal Policy Optimization	Predictive Maintenance	Denoising Diffusion Probabilistic Model	Membership Inference Attack
+Directory Structure	Dialogue System	Dictionary Data Structure	Graph Data Structure	Data Structures	Distributed Systems
+Discord.js	Discount Factor	Discord.js（Node.js Discord 机器人开发库）	Denoising Diffusion Probabilistic Model	Diffusion Model	AGENTS.md
+Discord.js（Node.js Discord 机器人开发库）	Puppeteer（Node.js 浏览器自动化库）	Node.js	Discord.js	Moleculer（Node.js 微服务框架）	Node.js（JavaScript 运行时）
+Discount Factor	Diffusion Model	Fault Tolerance	Denoising Diffusion Probabilistic Model	Stable Diffusion	Constant Folding
+Distributed Database	Relational Database	Database Migration	Database Table	Database Trigger	Database Transaction
+Distributed Systems	Dialogue System	Distributed Database	Denoising Diffusion Probabilistic Model	Recommender System	Directory Structure
+Distributed Tracing	Instruction Tuning	Reciprocal Rank Fusion	Model Transparency	Distributed Systems	Gated Recurrent Unit
+Distributed Training	Training Convergence	Post-training	Training Set	Adversarial Training	Pre-training
+Distribution Shift	Developer Role Shift	Variable Scope	Citation Network	Command Line Option	Option Type
+Django	RAG Chunking	双曲正切	Tanh	Bash	MCP
+DML	BGD	LSTM	PCA	BF16	RL
+DNS	ISP	VPN	CDN	Domain Name	Ping
+Docker	dockerode	Docker容器	Docker Compose	Ubuntu	Docker Swarm
+Docker Compose	Docker容器	Docker Registry	Docker Swarm	dockerode	Docker Volume
+Docker Registry	Docker Compose	Docker Swarm	dockerode	Docker Volume	Docker容器
+Docker Swarm	Docker Compose	Docker Registry	Docker容器	Docker Volume	dockerode
+Docker Volume	Docker Compose	dockerode	Docker容器	Docker Swarm	Docker Registry
+dockerode	Docker容器	Docker	Docker Compose	Docker Volume	Docker Swarm
+Docker容器	dockerode	Docker Compose	Docker Swarm	Docker Volume	Docker
+Document Database	文档数据库	Document Traceability	Document Summarization	Log File	Database Table
+Document Summarization	Document Traceability	Text Summarization	Document Database	Text Generation	Context Menu
+Document Traceability	Document Summarization	Document Database	Inverted File	Recommender System	Dense Retrieval
+DOM	虚拟 DOM	Virtual DOM	JavaScript	App Icon	CSS
+Domain Adaptation	Receptive Field	Domain-Specific Language	Action Recognition	Predictive Maintenance	Forward Propagation
+Domain Name	Domain-Specific Language	域名	域名系统	Domain Adaptation	Class Field
+Domain-Specific Language	Domain Name	Interpreted Language	Receptive Field	Domain Adaptation	Language Agent Tree Search
+DORA Metrics	DORA 指标（DevOps 效能度量）	Occam's Razor	Evaluation Metrics	Lasso Regularization	Role Specialization
+DORA 指标（DevOps 效能度量）	METEOR评估指标	DORA Metrics	Lasso Regularization	Explainability	Random Variable
+DQN	BGD	Seq2Seq	RLHF	CUDA	cuDNN
+DreamBooth	Project Milestone	AI Hallucination	Misskey	AlphaFold	Solidity
+Dropout Layer	Loop Layer	Pooling Layer	Terraform	Dropout Regularization	Frontend Routing
+Dropout Regularization	Regularization	Dependency Injection	Ridge Regularization	Frontend Routing	Lasso Regularization
+Drupal	Tuple	Clustering	Dropout Regularization	Role Prompting	Backup System
+Drupal（开源内容管理系统）	内容管理系统	Zustand（React 状态管理库）	PostgreSQL（开源关系型数据库）	Content Management System (CMS)	Streamlit（数据应用框架）
+Dynamic Programming	Reflective Programming	Differentiable Programming	Programming Script	AI-Powered Programming	Speculative Decoding
+Early Stopping	Stop Sequence	Frontend Routing	Closed Loop	Sharding	Deadlock Prevention
+Eclipse Vert.x	Eclipse Vert.x（JVM 响应式应用框架）	Option Type	Agent Development Kit	Browser Extension	测试驱动开发
+Eclipse Vert.x（JVM 响应式应用框架）	Eclipse Vert.x	Groovy（JVM 脚本语言）	JDBC（Java 数据库连接标准）	Playwright（浏览器自动化/E2E 测试框架）	Jetpack Compose（Android 声明式 UI 工具包）
+ECMAScript	ECMAScript（JavaScript 语言标准）	TypeScript	Variable Scope	Discord.js	Deterministic Verification
+ECMAScript（JavaScript 语言标准）	JavaScript Promise	JavaScript Bundling	ECMAScript	Node.js（JavaScript 运行时）	JavaScript
+Edge AI	Edge Computing	AI	Generative AI	边缘 AI	Responsible AI
+Edge Computing	Edge AI	Computer Vision	Computer Network	Computer	Computer Program
+Electron	Boosting	Edge AI	AlphaZero	Elixir	Development Environment
+Electron（跨平台桌面应用框架）	Flutter（跨平台移动 UI 框架）	多智能体协作框架	Tauri（Rust 桌面应用框架）	智能体框架	Vercel（前端部署平台）
+Elixir	spaCy	HyDE	MoE	VAE	Keras
+Elixir（函数式编程语言）	Erlang（并发函数式编程语言）	OCaml（函数式编程语言）	编程函数	F#（.NET 函数式编程语言）	函数计算
+Embedding	Sentence Embedding	Embedding Model	Middleware	BERT	Sampling
+Embedding Model	Speech Model	Model Deployment	Model Stealing	Embedding	Reasoning Model
+Embodied Intelligence	Swarm Intelligence	Collective Intelligence	Artificial Intelligence	Artificial General Intelligence	Artificial Narrow Intelligence
+Emergent Abilities	Emergent Behavior	Deserialization	Sentence Embedding	Denoising Diffusion Probabilistic Model	Distributed Systems
+Emergent Behavior	Emergent Abilities	Subagent	Sentence Embedding	Behaviorism	Embedding
+Encapsulation	Encryption	Encoding	Byte Pair Encoding	Explainability	Prompt Chaining
+Encoder-Decoder	Code Scaffolding	VS Code Extension	CodeIgniter	Cross-Encoder Reranking	Code Generator
+Encoding	Byte Pair Encoding	vibecoding	Encapsulation	Vibe Coding	Positional Encoding
+Encryption	Symmetric Encryption	Asymmetric Encryption	Homomorphic Encryption	Encapsulation	Explainability
+End-to-End Learning	End-to-End Test	Unsupervised Learning	Ensemble Learning	Supervised Learning	Representation Learning
+End-to-End Test	End-to-End Learning	Turing Test	Integration Test	Regression Test	Test Set
+Ensemble Learning	Representation Learning	Unsupervised Learning	Curriculum Learning	Supervised Learning	Multimodal Learning
+Environment Variable	Environment Variables	Development Environment	Desktop Environment	Constant Variable	Encapsulation
+Environment Variables	Environment Variable	Desktop Environment	Development Environment	环境变量	Constant Variable
+Episodic Memory	Semantic Memory	Memory Swapping	Computer Memory	Long-Term Memory	Set Data Structure
+Epoch	chmod	HyDE	Homomorphic Encryption	PPO	Clojure
+Epsilon-Greedy	Greedy Algorithm	Greedy Decoding	Angular	Elixir	Kubernetes
+Erlang	RAG	Angular	LangChain	RAG Evaluation	DBSCAN
+Erlang（并发函数式编程语言）	Elixir（函数式编程语言）	Babel（JavaScript编译器）	并发编程	Express（Node.js Web 框架）	编程函数
+Error Handling	Gaussian Error Linear Unit	Tool Call Error Recovery	Bug Reproduction	Bounded Execution	错误处理
+ETL	AI Ethics	BPE	DML	DALL-E	RL
+EU AI Act	Constitutional AI	Colossal-AI	AI Ethics	AI Hallucination	AI Chip
+Evals	RAG Evaluation	Elixir	Lazy Evaluation	MoE	Scala
+Evaluation Metrics	Model Evaluation	RAG Evaluation	Lazy Evaluation	Reasoning Model	Explainability
+Event Loop	Event Trigger	Exception	Event-Driven	Loss Function	PRAR Loop
+Event Trigger	Regression Test	Event Loop	Ridge Regression	Event-Driven	Turing Test
+Event-Driven	Specification-Driven Development	Spec-Driven Development	Event Loop	Event Trigger	Feature Vector
+Exception	Prompt Injection	Explainability	Regression Test	Module Export	Extractive QA
+Executor	Bounded Execution	Plan-and-Execute	Recursion	curl Command	Recursive Chunking
+Experiment Tracking	Sentiment Analysis	Turing Test	Trace Debugging	Regression Test	Stacking Ensemble
+Explainability	Sampling	Explainable AI	Exception	Dropout Regularization	Denoising Diffusion Probabilistic Model
+Explainable AI	Constitutional AI	Responsible AI	生成式 AI	Explainability	Generative AI
+Exploding Gradient	Gradient Explosion	Gradient Accumulation	Gradient Descent	Stochastic Gradient Descent	React Component
+Exploration vs Exploitation	Explainability	VS Code Extension	Sentence Embedding	Certificate Expiration	SHapley Additive exPlanations
+Exponential Backoff	Backpropagation	Backup System	Backend for Frontend (BFF)	Backdoor Attack	Backend
+Express	Express.js	Cache	FastText	Message Passing	JSON
+Express.js	Express（Node.js Web 框架）	Express	JSON	FastText	TypeScript
+Express（Node.js Web 框架）	Express.js	Nette（PHP Web 框架）	NestJS（Node.js 后端框架）	Node.js（JavaScript 运行时）	Node.js
+Extractive QA	Generative QA	Exception	Module Export	Variable Scope	Certificate Expiration
+F#	C#	RL	Code Style	FP16	Reward Function
+F#（.NET 函数式编程语言）	C#（编程语言）	C语言指针	OCaml（函数式编程语言）	Elixir（函数式编程语言）	编程函数
+FabricMC	Discount Factor	PCA	Subgoal	BGD	Module Bundler
+FabricMC（Minecraft 模组加载框架）	Moleculer（Node.js 微服务框架）	Model Context Protocol (MCP)	MicroPython（嵌入式 Python）	FabricMC	Playwright（浏览器自动化/E2E 测试框架）
+Fairness and Bias	Faithfulness Evaluation	Faithfulness Metric	Constant Variable	Dependency Parsing	Byte Pair Encoding
+Faithfulness Evaluation	Faithfulness Metric	Fairness and Bias	Evaluation Metrics	Constant Variable	Explainability
+Faithfulness Metric	Faithfulness Evaluation	Fairness and Bias	Constant Variable	Fault Tolerance	Iterative Method
+FastAPI	FastText	Faster R-CNN	FastAPI（Python 异步 Web 框架）	Capsule Network	Flask
+FastAPI（Python 异步 Web 框架）	PyCharm（Python 集成开发环境）	Flask（Python Web 框架）	NumPy（Python 科学计算库）	MicroPython（嵌入式 Python）	Moleculer（Node.js 微服务框架）
+Faster R-CNN	FastText	FastAPI	Breadth-First Search	Multilayer Perceptron	Depth-First Search
+FastText	FastAPI	Faster R-CNN	Express.js	Express	Context Engineering
+Fault Tolerance	Discount Factor	Stable Diffusion	Gated Recurrent Unit	Frontend Routing	Diffusion Model
+Feature Attribution	Feature Selection	Feature Engineering	Feature Vector	Verification Signal Priority	Named Entity Recognition
+Feature Engineering	Feature Selection	Feature Attribution	Feature Vector	Requirements Engineering	Predictive Maintenance
+Feature Selection	Feature Engineering	Feature Attribution	Feature Vector	Option Type	Predictive Maintenance
+Feature Vector	Vector	Feature Attribution	Vector Index	Feature Engineering	Vector Database
+Federated Learning	Unsupervised Learning	Continual Learning	Representation Learning	Ensemble Learning	Learning Rate
+Feedback Loop	Reflexion Loop	Backend	Transaction Rollback	Reward Function	反馈回路
+Fetch API	REST API	CAPTCHA	Chunking	Regression Test	Role Prompting
+few-shot	Few-shot Prompting	Few-shot Learning	One-shot Prompting	Fetch API	t-SNE
+Few-shot Learning	Unsupervised Learning	One-shot Learning	few-shot	Semi-supervised Learning	Representation Learning
+Few-shot Prompting	few-shot	One-shot Prompting	Role Prompting	Zero-shot Prompting	Prompt Chaining
+File Folder	File System	File Path	File Permission	Inverted File	Log File
+File I/O	I/O Redirection	File System	Log File	File Permission	Inverted File
+File Path	File System	Log File	File Folder	File Permission	Binary File
+File Permission	File Folder	Inverted File	File System	Permission Boundary	File Path
+File System	File Path	Log File	File Folder	Inverted File	File Permission
+Fine-tuning	t-SNE	Instruction Tuning	Parameter-Efficient Fine-tuning	Full-parameter Fine-tuning	Distributed Tracing
+Finite State Machine (FSM)	有限状态机（FSM）	State Machine Graph	Machine Perception	Machine Translation	Multi-Agent Orchestration
+Firebase	Firebase（Google 后端即服务平台）	Firewall	Git Conflict	AWS API Gateway	AJAX
+Firebase（Google 后端即服务平台）	Firebase	Apify（网页爬取与自动化平台）	AWS API 网关	Sandstorm（自托管 Web 应用平台）	Eclipse Vert.x（JVM 响应式应用框架）
+Firewall	Firebase	Swap Space	Heap	防火墙	Reflexion
+Flash Attention	Image Segmentation	Option Type	Browser Extension	Content Moderation	HTML5 画布（Canvas API）
+Flask	Laravel	Gradle	Flask（Python Web 框架）	GRU	Keras
+Flask（Python Web 框架）	Laravel（PHP Web 框架）	FastAPI（Python 异步 Web 框架）	PyTorch（深度学习框架）	PyCharm（Python 集成开发环境）	Bulma（CSS 框架）
+Float Data Type	Data Type	Data Export	Graph Data Structure	String Data Type	Data Throughput
+Floating Point	Brain Floating Point	Loop Layer	Float Data Type	Flutter	Distributed Tracing
+Flutter	ReLU	Rerank	Pulumi	GELU	BigQuery
+Flutter（跨平台移动 UI 框架）	Electron（跨平台桌面应用框架）	Phaser（HTML5 2D 游戏框架）	Ghidra（逆向工程框架）	Vuetify（Vue UI 组件库）	Flask（Python Web 框架）
+For Loop	While Loop	PRAR Loop	Closed Loop	Loop Layer	Tool Use Loop
+Foreign Key	Primary Key	Shortcut Key	Key-Value Store	Key Management	Code Library
+Fortran	Fortran（编程语言）	Traversal	Process Fork	Interrupt	TensorFlow
+Fortran（编程语言）	Fortran	Kotlin（编程语言）	C#（编程语言）	Scala（编程语言）	编程语法
+Forward Propagation	Reward Function	Reward Shaping	Reward Modeling	Backpropagation	Continuous Delivery
+Foundation Model	Software	Embedding Model	AgentVerse	Model Version	Continual Learning
+FP16	BF16	Syntax	FSDP	RL	BGD
+Framework	Agent Framework	Software	Robot Framework	OS	Software Release
+Frequency Penalty	Regularization Penalty	Repetition Penalty	Constant Folding	Penalty Function	Discount Factor
+Frontend Framework	Backend Framework	Robot Framework	Browser Extension	Variable Scope	Option Type
+Frontend Masters	Master-Slave Architecture	Frontend Mentor	Frontend Masters（前端学习平台）	Recursive Chunking	Frontend Routing
+Frontend Masters（前端学习平台）	Frontend Mentor（前端练习平台）	Vercel（前端部署平台）	Gulp（前端自动化构建工具）	前端组件	Frontend Masters
+Frontend Mentor	Frontend Masters	Frontend Routing	Sampling Parameters	Orchestrator Agent	Recommender System
+Frontend Mentor（前端练习平台）	Frontend Masters（前端学习平台）	前端视图	Vercel（前端部署平台）	Gulp（前端自动化构建工具）	前端组件
+Frontend Routing	Routing	Dropout Regularization	Dependency Injection	Role Assignment	Role Prompting
+FSDP	BGD	FP16	BF16	FabricMC	DQN
+Full-parameter Fine-tuning	Parameter-Efficient Fine-tuning	Parameter Count	Sampling Parameters	Constant Folding	Model Parameter
+Fully Sharded Data Parallel	Data Throughput	Discount Factor	Data Parallelism	Float Data Type	Stable Diffusion
+Function Argument	Loss Function	Penalty Function	Activation Function	Function Calling	Cost Function
+Function Calling	Activation Function	Loss Function	Swish Activation Function	Function Compute	Function Argument
+Function Compute	Function Calling	Loss Function	Activation Function	Function Argument	Computer Program
+Game Theory	Information Theory	Computational Complexity	Computer	Operating System	Bitwise Operation
+GAN	GAN Generator	RAG	Gulp	RAG Chunking	Tanh
+GAN Generator	Generative QA	GAN	Generation Parameters	Code Generator	Retrieval-Augmented Generation
+Gated Recurrent Unit	Rectified Linear Unit	Distributed Systems	Recursion	Backend Framework	Distributed Tracing
+Gateway	Vite	API Gateway	Availability Zone	Container	AWS API Gateway
+Gating Mechanism	Attention Mechanism	Role Prompting	Retry Mechanism	Mechanistic Interpretability	Process Scheduling
+Gaussian Error Linear Unit	Error Handling	Tool Call Error Recovery	高斯误差线性单元	Diffusion Model	Rectified Linear Unit
+GCC	GCC（GNU编译器套件）	JDBC	IPC	RLHF	FSDP
+GCC（GNU编译器套件）	GCC	C#（编程语言）	Visual Studio Code（代码编辑器）	Babel（JavaScript编译器）	RISC-V（开源指令集架构）
+GELU	Flutter	ReLU	GRU	LeakyReLU	SLA
+Generalization	Authorization	Artificial General Intelligence	Group Normalization	Semantic Similarity	Verification Signal Priority
+Generation Parameters	Sampling Parameters	Parameter Count	Model Parameter	Variable Scope	Hyperparameter
+Generative Adversarial Network	Adversarial Examples	Adversarial Attacks	Residual Network	Generation Parameters	Residual Connection
+Generative AI	Explainable AI	AI-Generated Content	Responsible AI	Generative QA	Edge AI
+Generative QA	Extractive QA	GAN Generator	Generative AI	Generative Adversarial Network	Fetch API
+Genetic Algorithm	Consensus Algorithm	Artificial Neuron	Iterative Algorithm	Artificial Neural Network	Graph Algorithms
+GET	React	DELETE	AJAX	SHAP	Preact
+Ghidra	GRU	RAG	Gradle	GNN	Array
+Ghidra（逆向工程框架）	Gradle（自动化构建工具）	PyTorch（深度学习框架）	Flutter（跨平台移动 UI 框架）	Tauri（Rust 桌面应用框架）	Gulp（前端自动化构建工具）
+Git add	Git Tag	Git push	Git HEAD	Git Checkout	Git Commit
+Git Branch	Git Master Branch	Git Commit	Git add	Git Checkout	Git clone
+Git Checkout	Git add	Git init	Git Stash	Git Tag	Git push
+Git clone	Git Hooks	Git Branch	Git Reset	Git HEAD	GitOps
+Git Commit	Git Branch	Git add	Git Merge	Git Stash	Git Conflict
+Git Conflict	Git Commit	Git Stash	Git Merge	Git Checkout	Git Branch
+Git Fork	Git init	Git Branch	Git Stash	Git Reset	GitOps
+Git HEAD	Git add	Git Tag	Git History	Git Reset	Git Stash
+Git History	Git Tag	Git add	Git HEAD	Git历史	Git Commit
+Git Hooks	Git clone	Git Branch	Git Reset	Git HEAD	Git Merge
+Git init	Git Fork	Git Checkout	Git Stash	Git add	Git Branch
+Git Master Branch	Git Branch	Git HEAD	Git Commit	Git Stash	Git clone
+Git Merge	Git Stash	Git Commit	Git add	Git Branch	Git Reset
+Git pull	Git Fork	Git Stash	Git Commit	Git Reset	Git push
+Git push	Git add	Git Checkout	GitLab	Git Tag	Git Reset
+Git Reset	Git add	Git HEAD	Git Checkout	Git push	Git Revert
+Git Revert	Git Reset	Git Conflict	Git Checkout	Git init	Git Fork
+Git Stash	Git Merge	Git Checkout	Git Commit	Git init	Git Branch
+Git Tag	Git add	Git HEAD	Git标签	Git History	Git Checkout
+Gitee	GitLab	Git add	Git HEAD	GitOps	Git Branch
+GitHub	GitHub Issue	GitLab	Git HEAD	AWS	Server
+GitHub Copilot	GitHub Milestone	GitHub复刻	JIT Compiler	GitOps	Git Commit
+GitHub Issue	GitHub	GitHub Milestone	GitHub Copilot	Git Commit	Git HEAD
+GitHub Milestone	GitHub Copilot	GitHub复刻	Project Milestone	Git Commit	Module Bundler
+GitHub复刻	GitHub Milestone	GitHub Copilot	复刻仓库	NestJS	React
+GitLab	Gitee	Git push	Git add	Git HEAD	Git仓库
+GitOps	Git Branch	Git init	Git clone	Gitee	Git Fork
+GitOps（基于 Git 的云原生运维模式）	GitOps	Gitee	Git合并	git提交	Git Conflict
+Git仓库	Git储藏	GitLab	git提交	git分支	Git Branch
+Git储藏	Git仓库	Git add	Git暂存区	Git Branch	Git Commit
+git分支	Git标签	Git别名	Git Tag	Git仓库	Git合并
+Git别名	Git Checkout	git分支	Git init	Git History	GitOps
+Git历史	Git History	Git别名	GitOps	Git Commit	Git Stash
+Git合并	git分支	GitOps	GitLab	Gitee	Git Commit
+git提交	Git Checkout	Git Commit	Git Reset	GitOps	Git仓库
+Git暂存区	Git储藏	Git仓库	Git Checkout	Git Reset	Git add
+Git标签	Git Tag	git分支	Git add	Git别名	Git HEAD
+Git检出	Git Checkout	Git别名	git提交	Git init	Git Stash
+GloVe	Groovy	Latency	Browser	CrewAI	Laravel
+GNN	GRU	cuDNN	Zig	Nim	RAG
+Google ADK	Google Sheets	Google Drive	Google Cloud	Semantic Search	Hybrid Search
+Google Cloud	Google Drive	Google Cloud（谷歌云平台）	Cloud Server	Cloud Database	Google ADK
+Google Cloud（谷歌云平台）	Google Cloud	Google Drive（谷歌云盘）	Microsoft Azure（微软云平台）	Cloud Server	Cloud Computing
+Google Drive	Google Cloud	Google Drive（谷歌云盘）	Google ADK	Google Sheets	KV Cache
+Google Drive（谷歌云盘）	Google Drive	Google Cloud（谷歌云平台）	Google Cloud	云数据库	BigQuery（云数据仓库）
+Google Sheets	Google ADK	Google Sheets（谷歌表格）	Google Drive	Semantic Search	Google Cloud
+Google Sheets（谷歌表格）	Google Sheets	NebulaGraph（分布式图数据库）	Google Cloud	Google ADK	数据库索引
+Governance and Ethics	AI Governance & Regulation	AI Governance	Local Deployment	Trust Region Policy Optimization	Policy Network
+GPT	FSDP	MCP	Git Tag	TGI	TCP Port
+GPU	Azure	AWS	Nginx	Model Switch	Unity
+Gradient Accumulation	Exploding Gradient	Gradient Explosion	Gradient Descent	Permission Boundary	Mini-batch Gradient Descent
+Gradient Checkpointing	Gradient Explosion	Frontend Routing	Gradient Descent	Exploding Gradient	Predictive Maintenance
+Gradient Descent	Gradient Explosion	Batch Gradient Descent	Exploding Gradient	Stochastic Gradient Descent	Mini-batch Gradient Descent
+Gradient Explosion	Exploding Gradient	Gradient Accumulation	Gradient Descent	Mini-batch Gradient Descent	React Component
+Gradle	GRU	Gradient Descent	Traversal	Angular	Exploding Gradient
+Gradle（自动化构建工具）	Gulp（前端自动化构建工具）	Robot Framework（通用自动化测试框架）	Ghidra（逆向工程框架）	gRPC（高性能远程过程调用框架）	PyTorch（深度学习框架）
+Graph Algorithms	Graph of Thoughts	Graph Data Structure	GraphQL	Sorting Algorithms	Graph Database
+Graph Data Structure	Data Structures	Data Structure	Set Data Structure	Graph Database	Directory Structure
+Graph Database	Database Migration	Graph Data Structure	GraphQL	Distributed Database	Relational Database
+Graph Neural Network	Neural Network	Artificial Neural Network	Neural Radiance Field	Recurrent Neural Network	Neural Architecture Search
+Graph of Thoughts	Graph Algorithms	Full-parameter Fine-tuning	Graph Data Structure	Parameter-Efficient Fine-tuning	Knowledge Graph
+GraphQL	Graph Database	Graph Data Structure	Graph Algorithms	NoSQL	NebulaGraph
+Greedy Algorithm	Algorithm	Greedy Decoding	Sorting Algorithms	Sorting Algorithm	Dijkstra's Algorithm
+Greedy Decoding	Speculative Decoding	Greedy Algorithm	Ridge Regression	Trace Debugging	Sharding
+Groovy	GloVe	GRU	Gradle	ReWOO	Gulp
+Groovy（JVM 脚本语言）	Eclipse Vert.x（JVM 响应式应用框架）	LLVM（编译器基础设施）	JDBC（Java 数据库连接标准）	Flask（Python Web 框架）	Gulp（前端自动化构建工具）
+Group Normalization	Regularization	Multi-Agent Collaboration Framework	Distributed Systems	Multi-Agent Collaboration	Ridge Regularization
+gRPC	TRPO	BGD	RLHF	DQN	RL
+gRPC（高性能远程过程调用框架）	Gulp（前端自动化构建工具）	Gradle（自动化构建工具）	MVC (Model-View-Controller)	组件化开发	RISC-V（开源指令集架构）
+GRU	RAG	Gradle	GNN	Scala	Gulp
+Gulp	Bulma	GRU	Gradle	DQN	RAG
+Gulp（前端自动化构建工具）	Gradle（自动化构建工具）	gRPC（高性能远程过程调用框架）	PyTorch（深度学习框架）	Apify（网页爬取与自动化平台）	Flask（Python Web 框架）
+H2 Database	Database	Database Table	H2 数据库	Dataset	Database View
+H2 数据库	数据库	数据集	图数据库	H2 Database	数据分块
+Hadoop	MySQL	Redis	AWS	Docker	Hadoop（大数据分布式处理框架）
+Hadoop（大数据分布式处理框架）	BigQuery（云数据仓库）	云数据库	分布式数据库	Hadoop	Streamlit（数据应用框架）
+Hallucination Detection	Hallucination Governance	Hallucination Mitigation	AI Hallucination	Master-Slave Architecture	Harness Layer
+Hallucination Governance	Hallucination Detection	Hallucination Mitigation	AI Hallucination	AI Governance & Regulation	Master-Slave Architecture
+Hallucination Mitigation	Hallucination Detection	Hallucination Governance	AI Hallucination	Recursive Chunking	Master-Slave Architecture
+HAProxy	Proxy	libcurl	DBSCAN	XGBoost	DQN
+Hard Disk	Stable Diffusion	Debug	Task Decomposition	硬盘	Task Planning
+Harness Layer	LayerNorm	Agent Harness	Nostr	BERT	Dropout Layer
+Hash Algorithm	Hash Table	Commit hash	Haskell	Algorithm	Hashing
+Hash Table	Commit hash	Hashing	Hash Algorithm	Haskell	Password Hashing
+Hashing	Haskell	Password Hashing	Commit hash	Hash Table	AgentVerse
+Haskell	Hashing	Commit hash	Hash Table	Password Hashing	Whisper
+Health Check	Caret	Agent Security	Smart Healthcare	Policy Network	Software
+Heap	SHAP	SLAM	BoW	OOP	LeakyReLU
+Helm（Kubernetes 包管理器）	Helm Kubernetes Package Manager	Kind（Kubernetes 本地集群工具）	OLM（Operator Lifecycle Manager，Kubernetes 算子生命周期管理器）	spaCy（自然语言处理库）	包管理器
+Hermes LLM	Nous Research Hermes	LLM	LLM Agent	Router	TensorRT-LLM
+Heroku	Heroku（云 PaaS 平台）	Heap	RAG	NeRF	K-Means
+Heroku（云 PaaS 平台）	Heroku	云厂商	云服务器	BigQuery（云数据仓库）	XGBoost（梯度提升树库）
+Hierarchical Navigable Small World	Micro Frontend	Variable Scope	Constant Variable	Artificial Superintelligence	Merge Conflict
+HNSW	JWT	HyDE	RLHF	Erlang	cuDNN
+Homebrew	Homebrew Package Manager	Browser	spaCy	REST API	Network Probe
+Homebrew Package Manager	Package Manager	Helm Kubernetes Package Manager	Homebrew	Package Dependency	Backend Framework
+Homomorphic Encryption	Asymmetric Encryption	Encryption	Symmetric Encryption	chmod	Chain-of-Thought
+Honeypot	LLMOps	MicroPython	Homebrew	Cosine Similarity	Kubernetes
+Hot Module Replacement	Hot Reload	Overlapping Chunking	Stable Sort	Sampling	Reciprocal Rank Fusion
+Hot Reload	Hot Module Replacement	Recursion	ReLU	Rerank	Weakly Typed
+HTML	HTML Tag	HTTP	Semantic HTML	URL	JSON
+HTML Tag	HTML标签	Semantic HTML	HTML	Text Classification	Code Style
+HTML5 画布（Canvas API）	Canvas (HTML5)	Phaser（HTML5 2D 游戏框架）	前端视图	Three.js（WebGL 3D 渲染库）	App Icon
+HTML标签	HTML Tag	HTML	phpMyAdmin	Semantic HTML	Git标签
+HTTP	HTTPS	HTTP Client	HTTP POST	HTTP Request	HTTP PUT
+HTTP Client	HTTP Request	HTTP	HTTP Session	HTTP POST	HTTPS
+HTTP Cookie	HTTP POST	HTTP Request	HTTP Session	HTTP Client	HTTP
+HTTP POST	HTTP Request	HTTP Cookie	HTTP Session	HTTP Client	HTTP PUT
+HTTP PUT	HTTP Request	HTTP POST	HTTP Client	HTTP Session	HTTP
+HTTP Redirect	I/O Redirection	Nette	HTTP PUT	HTTP Client	HTTP Session
+HTTP Request	HTTP POST	HTTP Session	HTTP Client	HTTP Cookie	HTTP PUT
+HTTP Response	Repository	Remote Repository	HTTP Request	HTTP Redirect	HTTP PUT
+HTTP Session	HTTP Request	HTTP POST	HTTP Client	HTTP Cookie	HTTP PUT
+HTTPS	HTTP	HTTP Client	JSON	AJAX	HTTP POST
+HTTP响应	响应式	HTTP请求	HTTP Client	流式响应	响应时间
+HTTP请求	HTTP Request	接口请求	HTTP Client	请求体	HTTP响应
+Human-AI Collaboration	Multi-Agent Collaboration	Multi-Agent Collaboration Framework	AI Coding Assistant	Recurrent Neural Network	Colossal-AI
+Human-in-the-Loop	For Loop	Self-Repair Loop	While Loop	Human-AI Collaboration	PRAR Loop
+Hybrid Cloud	Hybrid Retrieval	Cloud Run	Hybrid Search	Point Cloud	Loop Layer
+Hybrid Retrieval	Hybrid Search	Dropout Regularization	Information Retrieval	Ridge Regression	Hybrid Cloud
+Hybrid Search	Semantic Search	Depth-First Search	Hybrid Retrieval	Beam Search	Breadth-First Search
+HyDE	Latency	Solana	HAProxy	DQN	Elixir
+Hyperparameter	Parameter Count	Sampling Parameters	Model Parameter	Generation Parameters	Full-parameter Fine-tuning
+Hypothetical Document Embeddings	Sentence Embedding	Optical Character Recognition	Document Summarization	Embedding	Uniform Manifold Approximation and Projection
+I/O Redirection	HTTP Redirect	File I/O	Ridge Regression	VS Code Extension	Cursor AI Editor
+IaaS	File I/O	UDP	JWT	Alibaba Cloud	AI Ethics
+IDE	Scrum	Framework	Azure	OS	ssh
+IDE工作区	IDE	测试驱动开发	VS Code 扩展	编程接口	集成测试
+Image Captioning	Image Segmentation	Image Processing	Image Generation	Image-Text Retrieval	Image-to-Image
+Image Editing	Image Processing	Image Captioning	Image Segmentation	ImageNet	Image-Text Retrieval
+Image Generation	Image Segmentation	Image Processing	Image-to-Image	Image Captioning	Code Generation
+Image Processing	Image Segmentation	Image Captioning	Image Generation	Image Editing	ImageNet
+Image Segmentation	Image Generation	Image Processing	Image-to-Image	Image Captioning	Option Type
+Image-Text Retrieval	Image Captioning	Text-to-Image	Information Retrieval	Image Segmentation	Text-to-Speech
+Image-to-Image	Image Segmentation	Image Generation	Image Processing	Image Captioning	ImageNet
+ImageNet	Image Processing	ImageNet（图像数据集）	Image Captioning	Image-to-Image	Image Generation
+ImageNet（图像数据集）	图数据库	ImageNet	Image Generation	Image Segmentation	NebulaGraph（分布式图数据库）
+Imitation Learning	Representation Learning	Ensemble Learning	Continual Learning	Unsupervised Learning	Transfer Learning
+In-Context Learning	Context Engineering	Continual Learning	Model Context Protocol	Context Layer	Ensemble Learning
+Inductive Bias	React Component	Variable Scope	Residual Network	Semantic Role Labeling	Reasoning Model
+Inference	Inference Engine	Membership Inference Attack	Repo	Inference Optimization	Text Generation Inference
+Inference Engine	Inference	Inference Optimization	Membership Inference Attack	Text Generation Inference	Continuous Integration
+Inference Optimization	Direct Preference Optimization	Inference Engine	Inference	Membership Inference Attack	Proximal Policy Optimization
+Information Retrieval	Retriever	Hybrid Retrieval	Feature Attribution	Exception	Certificate Expiration
+Information Theory	Game Theory	Information Retrieval	信息论	Data Structures	Set Data Structure
+Inheritance	Container	State Reset	State Management	Parameter Count	Frequency Penalty
+Inpainting	Outpainting	Artificial Superintelligence	Encoding	Byte Pair Encoding	Sampling Parameters
+Instruction Tuning	Fine-tuning	Regularization	Distributed Tracing	Certificate Expiration	Parameter-Efficient Fine-tuning
+INT8	Interrupt	Interpreter	Integer	Interface	Interpretability
+Integer	Interface	Interrupt	Integration Test	Interpreter	Code Generator
+Integration Test	Turing Test	Regression Test	Constant Folding	Integer	Interface
+Intelligent Customer Service	Intelligent Search	Intelligent Risk Control	CPU Scheduling	Artificial Intelligence	Swarm Intelligence
+Intelligent Risk Control	Intelligent Search	Intelligent Customer Service	CPU Scheduling	Collective Intelligence	Artificial Intelligence
+Intelligent Search	Intelligent Customer Service	Intelligent Risk Control	CPU Scheduling	Collective Intelligence	Artificial Intelligence
+Inter-Agent Communication	Inter-Process Communication	Multi-Agent Collaboration	Agent Orchestration	Interface	Multi-Agent Orchestration
+Inter-Process Communication	Inter-Agent Communication	Interface	Continuous Integration	Interpreted Language	Interpretability
+Interface	User Interface	Interpreter	Interrupt	Interpretability	Integer
+Internet Protocol Address	Web Application	Web Components	HTTP Cookie	HTTP Request	Media Access Control Address
+Interpretability	Mechanistic Interpretability	Interpreter	Interface	Explainability	Interrupt
+Interpreted Language	Assembly Language	Interpreter	Masked Language Modeling	Causal Language Modeling	Large Language Model
+Interpreter	Interpretability	Interface	Interrupt	Interpreted Language	Mechanistic Interpretability
+Interrupt	Interpreter	Interface	Integer	NestJS	Object Storage
+Inverse Reinforcement Learning	Reinforcement Learning	Multi-Agent Reinforcement Learning	Reinforcement Learning from Human Feedback	Unsupervised Learning	Self-Supervised Learning
+Inverted File	File System	File Permission	File Folder	Log File	Recommender System
+IPC	IPv4	内网IP	IPFS	公网IP	GCC
+IPFS	IPv4	IPFS（星际文件系统）	IP地址	内网IP	IPC
+IPFS（星际文件系统）	IPFS	NetBox（IPAM/DCIM 网络基础设施管理工具）	UEFI（统一可扩展固件接口）	IPv4	内网IP
+IPv4	IPC	IPFS	内网IP	IP地址	IPv6
+IPv6	URL	IPv4	CDN	VPN	IPFS
+IP地址	IPv4	内网IP	IPFS	公网IP	URL
+Iris	Elixir	RLAIF	Evals	Iris（Go Web 框架）	Keras
+Iris（Go Web 框架）	Flask（Python Web 框架）	Nette（PHP Web 框架）	Livewire（Laravel 全栈框架）	Laravel（PHP Web 框架）	RISC-V（开源指令集架构）
+ISP	DNS	CDN	Server	VPN	URL
+Issue Tracker	Event Trigger	Trace Debugging	Weakly Typed	Distributed Systems	Distributed Tracing
+Iterative Algorithm	Iterative Method	Sorting Algorithm	Sorting Algorithms	Mechanistic Interpretability	Interpretability
+Iterative Method	Iterative Algorithm	Mechanistic Interpretability	Gating Mechanism	Permission Boundary	Faithfulness Metric
+IVF向量索引	向量索引	向量检索	句向量	Vuetify	向量数据库
+Jailbreak	Wails	Availability Zone	JWT	Information Retrieval	Prompt Leakage
+JavaFX	JavaScript	VS Code 扩展	Swing（Java 图形界面工具包）	编程范式	PHP
+JavaScript	JavaScript Promise	JavaScript Bundling	AJAX	Node.js	ECMAScript（JavaScript 语言标准）
+JavaScript Bundling	JavaScript Promise	JavaScript	ECMAScript（JavaScript 语言标准）	Node.js（JavaScript 运行时）	Babel（JavaScript编译器）
+JavaScript Promise	JavaScript Bundling	JavaScript	ECMAScript（JavaScript 语言标准）	Node.js（JavaScript 运行时）	Promise Object
+JDBC	JDBC（Java 数据库连接标准）	GCC	JWT	DBSCAN	BGD
+JDBC（Java 数据库连接标准）	Groovy（JVM 脚本语言）	Eclipse Vert.x（JVM 响应式应用框架）	JDBC	RISC-V（开源指令集架构）	数据库连接
+Jenkins	JWT	MCP	Erlang	SVM	JIT Compiler
+Jetpack Compose	Kubernetes	Kubernetes Kind	JIT Compiler	Browser Extension	Overlapping Chunking
+Jetpack Compose（Android 声明式 UI 工具包）	Eclipse Vert.x（JVM 响应式应用框架）	Playwright（浏览器自动化/E2E 测试框架）	Swing（Java 图形界面工具包）	Jetpack Compose	Vuetify（Vue UI 组件库）
+JIT Compiler	Compiler	Jetpack Compose	PyTorch	Chunking	Nette
+Join Operation	Operating System	Operating System Process	Pagination	MegEngine	Gating Mechanism
+JSON	JSON Mode	AJAX	JSON模式	HTTPS	JSON Web Token
+JSON Mode	JSON模式	JSON	JSON Web Token	Data Type	Float Data Type
+JSON Schema	Scala	JSON Mode	Semantic HTML	NestJS	VS Code 扩展
+JSON Web Token	JSON Mode	JSON模式	JSON	Request Body	Tokenizer
+JSON模式	JSON Mode	JSON Web Token	JSON	Agent 框架	模型 API
+Julia	Evals	MariaDB	Elixir	LoRA	Ollama
+JWT	Jenkins	SVM	BGD	Zsh	WLAN
+K 均值聚类	聚类分析	聚类	基于密度的聚类	Kind（Kubernetes 本地集群工具）	集合类型
+K-Means	RAG	Keras	BoW	Gulp	RAG Chunking
+K-Nearest Neighbors (KNN)	Approximate Nearest Neighbor	NebulaGraph	Kind（Kubernetes 本地集群工具）	Spiking Neural Network	Neuro-Symbolic AI
+Kaggle Competition	Permission Boundary	Role Prompting	LAMP Stack	Ridge Regression	Regression Test
+Kanban	RAG	Kotlin	GRU	Scala	GAN
+Keras	Kubernetes	Kubernetes Kind	GRU	Parser	Angular
+Kernel	Kernel Mode	KV Cache	Robot Framework	GRU	Nhost
+Kernel Mode	Kernel	Code Review AI	内核态	Backend Framework	Agent Development Kit
+Key Management	Key-Value Store	Foreign Key	Primary Key	Public Key	Query-Key-Value
+Key-Value Store	Query-Key-Value	Foreign Key	Password Hashing	Key Management	Primary Key
+Kill Process	Operating System Process	Process Scheduling	Training Set	Sampling	Gated Recurrent Unit
+Kind（Kubernetes 本地集群工具）	Kubernetes Kind	Kubernetes	Helm（Kubernetes 包管理器）	NebulaGraph（分布式图数据库）	XGBoost（梯度提升树库）
+Knowledge Base	Knowledge Graph	Knowledge Distillation	Assembly Language	Set Data Structure	Tool Use
+Knowledge Distillation	Knowledge Base	Knowledge Graph	Query Rewriting	Denoising Diffusion Probabilistic Model	Assembly Language
+Knowledge Graph	Knowledge Base	Knowledge Distillation	Graph Data Structure	Graph of Thoughts	知识图谱
+Kotlin	ReWOO	Nostr	Traefik	Rerank	Scala
+Kotlin（编程语言）	Ruby（编程语言）	Scala（编程语言）	Fortran（编程语言）	C#（编程语言）	编程接口
+Kubernetes	Kubernetes Kind	Keras	Kind（Kubernetes 本地集群工具）	Jetpack Compose	Subgoal
+KV Cache	KV 缓存	Cache	Rebase	Agentic SDLC	MLflow
+KV 缓存	KV Cache	缓存	键值缓存	Prompt缓存	内存缓冲区
+K近邻算法	近似最近邻	K 均值聚类	图算法	t-分布随机邻域嵌入	Dijkstra最短路径算法
+L1 Regularization	L2 Regularization	Regularization	Lasso Regularization	Ridge Regularization	React Component
+L1 正则化	L2 正则化	L1 Regularization	正则化	L2 Regularization	PRAR 循环
+L2 Regularization	L1 Regularization	Regularization	Lasso Regularization	Ridge Regularization	Dropout Regularization
+L2 正则化	L1 正则化	L2 Regularization	正则化	L1 Regularization	修正线性单元
+Label Smoothing	Boosting	Mixture of Experts	Semantic Role Labeling	Mixture-of-Experts	Action Space
+LAMP Stack	Stack	Prompt Template	Stacking Ensemble	Model Stacking	Loop Layer
+LAMP 技术栈	Laravel（PHP Web 框架）	Prompt	Prompt Template	LAMP Stack	Flask（Python Web 框架）
+LAN	WAN	LangGraph	Latency	RAG	Rerank
+LangChain	libcurl	Langflow	HAProxy	DQN	Erlang
+Langflow	LangGraph	LangChain	Angular	libcurl	Erlang
+LangGraph	Langflow	RLAIF	GraphQL	NebulaGraph	LangChain
+Language Agent Tree Search	语言 Agent 树搜索	Tree Data Structure	Agent Framework	Binary Search	AgentVerse
+Language Model	Large Language Model	Vision-Language Model	Masked Language Modeling	Causal Language Modeling	Model Version
+Laravel	Latency	Loop Layer	Dropout Layer	Flask	RLAIF
+Laravel（PHP Web 框架）	Flask（Python Web 框架）	Nette（PHP Web 框架）	CodeIgniter（PHP Web 框架）	Livewire（Laravel 全栈框架）	PHP（服务端脚本语言）
+Large Language Model	Language Model	Masked Language Modeling	Vision-Language Model	Causal Language Modeling	Assembly Language
+Large Model	Multimodal Large Model	Model Serving	Speech Model	Model Evaluation	Large Language Model
+Lasso Regression	Lasso Regularization	Ridge Regression	Regression Test	ReWOO	Regularization
+Lasso Regularization	Lasso Regression	Regularization	L2 Regularization	Dropout Regularization	L1 Regularization
+Latency	Laravel	Lazy Evaluation	HyDE	Prompt Leakage	Routing
+Latent Dirichlet Allocation	Latency	Exploding Gradient	Gradient Explosion	Stochastic Gradient Descent	Mini-batch Gradient Descent
+Layer Normalization	LayerNorm	Loop Layer	Pooling Layer	Group Normalization	Dropout Layer
+LayerNorm	Harness Layer	Layer Normalization	RLAIF	Dropout Layer	Loop Layer
+Lazy Evaluation	RAG Evaluation	Loop Layer	Latency	Model Evaluation	Distributed Tracing
+LeakyReLU	Rerank	Prompt Leakage	ReWOO	Terraform	RAG
+Learning Rate	Machine Learning Model	Machine Learning	Representation Learning	Online Learning	Ensemble Learning
+Least Privilege	Dropout Regularization	Role Prompting	PRAR Loop	Role Specialization	Prompt Leakage
+LeetCode	LeetCode（算法刷题平台）	Xcode	Rebase	KV Cache	Encoder-Decoder
+LeetCode（算法刷题平台）	LeetCode	Encoder-Decoder	算法策略	提升算法	编程算法
+Lexical Scope	Variable Scope	Residual Network	Optical Character Recognition	Pipeline Parallelism	Scaling Laws
+libcurl	HAProxy	DBSCAN	Rerank	LangChain	DQN
+Lifelong Learning	Ensemble Learning	Agentic Software Development Lifecycle	Continual Learning	Representation Learning	Curriculum Learning
+LIME XAI	XAI	Retry Logic	Pagination	权限边界	axios
+Linear List	Linked List	Rectified Linear Unit	ArrayList	Float Data Type	Variable Scope
+Linked List	Linear List	Residual Connection	Network Packet	Variable Scope	Graph Data Structure
+Lint	Scala	Kotlin	Preact	Rerank	cuDNN
+Liquid Neural Networks	Neural Network	Graph Neural Network	Artificial Neural Network	Recurrent Neural Network	Convolutional Neural Network
+Lisp	Common Lisp	libcurl	Rerank	Proxy	Prompt Leakage
+Livewire	Callback	Livewire（Laravel 全栈框架）	Network Probe	AI Hallucination	Preact
+Livewire（Laravel 全栈框架）	Laravel（PHP Web 框架）	Next.js（React 全栈 Web 框架）	Livewire	OpenTelemetry（可观测性/遥测框架）	智能体框架
+llama.cpp	LLVM	LLM Agent	TensorRT-LLM	LLM Debate	LLM
+LlamaIndex Workflows	Workflow Orchestrator	Workflow Orchestration	Workflow Engine	llama.cpp	Workflow Control
+LLM	LLM Agent	LLMOps	LLVM	LLM Debate	LLM裁判
+LLM Agent	LLVM	LLM	LLM裁判	TensorRT-LLM	Multimodal LLM
+LLM Debate	LLM裁判	LLM	LLM Agent	TensorRT-LLM	LLVM
+LLM Temperature	TensorRT-LLM	Sampling Temperature	Prompt Template	Role Prompting	Multimodal LLM
+LLM Token Economy	LLM Token 经济	Embedding Model	Gated Recurrent Unit	LLM Temperature	Requirements Engineering
+LLM Token 经济	LLM Token Economy	LLM Agent	TensorRT-LLM	LLM Temperature	Multimodal LLM
+LLMOps	LLM	Multimodal LLM	LLM Agent	LLVM	TensorRT-LLM
+LLM裁判	LLM Debate	LLM Agent	LLM	LLVM	TensorRT-LLM
+LLVM	LLM Agent	SVM	LLM	LLVM（编译器基础设施）	llama.cpp
+LLVM（编译器基础设施）	LLVM	Groovy（JVM 脚本语言）	LLM Agent	Terraform（基础设施即代码工具）	Eclipse Vert.x（JVM 响应式应用框架）
+Load Balancer	Loop Layer	Gated Recurrent Unit	Dropout Layer	Constant Folding	While Loop
+Load Balancing	Loop Layer	Dropout Layer	Distributed Tracing	Loop Engineering	Load Balancer
+Local Deployment	Software Deployment	Model Deployment	Local Interpretable Model-agnostic Explanations	Deterministic Verification	Observation Space
+Local Interpretable Model-agnostic Explanations	Part-of-Speech Tagging	Simultaneous Localization and Mapping	Deterministic Verification	Uniform Manifold Approximation and Projection	Dialogue System
+Local Model	localStorage	Model Card	Model API	Distribution Shift	Model Registry
+localhost	Nhost	localStorage	IPFS	URL	File Path
+localStorage	Storage System	Data Storage	Dataset	Distributed Database	Object Storage
+Lock file	锁文件	File System	Log File	Closed Loop	DELETE
+Log Analysis	Logits	Retry Logic	Log File	Float Data Type	Dialogue System
+Log File	File Path	File System	Inverted File	Binary File	File Folder
+Logits	Log Analysis	CORS	CORS Origin	Kotlin	Nette
+Long Short-Term Memory	Short-Term Memory	Long-Term Memory	Shortcut Key	Compile Time	Time Complexity
+Long-chain Reasoning	Chain of Thought	Chain-of-Thought	Query Rewriting	Chain Rule	Prompt Chaining
+Long-Term Memory	Long Short-Term Memory	Short-Term Memory	Semantic Memory	Computer Memory	Episodic Memory
+Loop Engineering	Loop Layer	Prompt Engineering	Requirements Engineering	Process Scheduling	Dropout Layer
+Loop Layer	Dropout Layer	Loop Engineering	For Loop	Pooling Layer	Load Balancer
+LoRA	Solana	Ollama	QLoRA	Laravel	SLA
+Loss Function	Activation Function	Function Argument	Swish Activation Function	Function Calling	Penalty Function
+Low-Rank Adaptation	Reciprocal Rank Fusion	Zero-shot Prompting	Few-shot Prompting	Role Prompting	Stable Diffusion
+LSTM	MLOps	TensorRT-LLM	LLM Agent	DML	Rerank
+Machine Learning	Machine Learning Model	Machine Learning Competition	Quantum Machine Learning	Learning Rate	Online Learning
+Machine Learning Competition	Machine Learning Model	Machine Learning	Quantum Machine Learning	Machine Perception	Machine Translation
+Machine Learning Model	Machine Learning	Machine Learning Competition	Quantum Machine Learning	Learning Rate	Online Learning
+Machine Perception	Machine Translation	State Machine Graph	Machine Learning Competition	Quantum Machine Learning	Machine Learning
+Machine Translation	Machine Perception	State Machine Graph	Machine Learning Competition	State Machine	Model Evaluation
+macOS	OS	MAC地址	OSRM	Framework	Xcode（苹果IDE）
+MAC地址	macOS	Xcode（苹果IDE）	IP地址	URL	Xcode
+Main Entry Point	Main Function	Retry Mechanism	Option Type	REST API	Interrupt
+Main Function	Main Entry Point	Loss Function	代码构建	Function Argument	Function Calling
+Mainframe	Main Function	代码构建	ControlNet	Private IP	Text Classification
+Man-in-the-Middle	Middleware
+MariaDB	MARL	Ollama	Julia	libcurl	Alibaba Cloud
+Markov Decision Process	Decision Tree	Kill Process	Decision Intelligence	Command History	Command Pattern
+MARL	MoE	ROUGE	RL	SLA	Ollama
+Masked Language Modeling	Causal Language Modeling	Large Language Model	Language Model	Assembly Language	Interpreted Language
+Master-Slave Architecture	Cognitive Architecture	System Architecture	Neural Architecture Search	Software Architecture	Frontend Masters
+Max Pooling	NumPy	max_tokens	Model Parameter	大模型	Prompt
+max_tokens	Tokenizer	Token	Max Pooling	Prompt Template	JSON Web Token
+Maximal Marginal Relevance	Maximum Marginal Relevance	Pagination	Max Pooling	Super Resolution	MARL
+Maximum Marginal Relevance	Maximal Marginal Relevance	Pagination	Reciprocal Rank Fusion	Random Variable	Role Prompting
+MCP	MCP 连接器	MCP connectors	LLM Agent	Nostr	Jenkins
+MCP connectors	MCP 连接器	模型上下文协议（MCP）	Model Context Protocol (MCP)	Residual Connection	MCP
+MCP 连接器	MCP connectors	模型上下文协议（MCP）	Model Context Protocol (MCP)	MCP	网络端口
+MDP	Partially Observable MDP	MCP	Prompt缓存	Prompt	Agentic SDLC
+Mechanistic Interpretability	Interpretability	Interpreter	Attention Mechanism	Gating Mechanism	Explainability
+Media Access Control Address	Access Control	Content Moderation	Data Export	Internet Protocol Address	User Mode
+Meeting Minutes	Recursive Chunking	Compile Time	Recursion	Retry Mechanism	Hallucination Mitigation
+Megatron-LM	n-gram	Big O	BigQuery	强类型	Cross Entropy
+MegEngine	Pagination	Authentication	Nostr	CORS Origin	Latency
+MegEngine（旷视深度学习框架）	PyTorch（深度学习框架）	MLX（Apple 机器学习框架）	XGBoost（梯度提升树库）	CUDA 深度神经网络库	Playwright（浏览器自动化/E2E 测试框架）
+Membership Inference Attack	Inference	Inference Engine	Inference Optimization	Direct Preference Optimization	Container
+Memory Management	Semantic Memory	Storage System	Computer Memory	Data Storage	Process Management
+Memory Swapping	Semantic Memory	Episodic Memory	Long-Term Memory	Short-Term Memory	Memory Management
+MemRL	Perl	MegEngine	MoE	Occam's Razor	LLM Agent
+Menu Bar	Context Menu	右键菜单	DELETE	Binary File	Content Moderation
+Merge Conflict	Reflexion	Frontend Routing	Reflexion Loop	Reciprocal Rank Fusion	Distributed Tracing
+Merge Sort	Stable Sort	Bubble Sort	Quick Sort	Merge Conflict	Closed Source
+Message Passing	Commit Message	Exception	Password Salting	Password Hashing	Express
+Meta Learning	Selective Meta-Cognition	Batch Learning	Multimodal Learning	Curriculum Learning	Machine Learning
+METEOR评估指标	RAG评估	目标检测	DORA 指标（DevOps 效能度量）	评估集	Requirements Engineering
+Micro Frontend	Hierarchical Navigable Small World	MicroPython	Modality Fusion	Browser Extension	Variable Scope
+MicroPython	Micro Frontend	MicroPython（嵌入式 Python）	Hierarchical Navigable Small World	Honeypot	NumPy
+MicroPython（嵌入式 Python）	NumPy（Python 科学计算库）	PyCharm（Python 集成开发环境）	Numba（Python 即时编译库）	FastAPI（Python 异步 Web 框架）	MicroPython
+Microsoft Azure（微软云平台）	Google Cloud（谷歌云平台）	Visual Studio（微软集成开发环境）	Cloud Provider	云数据库	Cloud Server
+Microsoft SQL Server	SQL Table	SQLite	SQL Column	SQL Alias	SQL
+Middleware	Role Prompting	Embedding	Project Milestone	Midjourney	ACID
+Midjourney	Middleware	Nostr	MegEngine	Rerank	CSRF
+Mini-batch Gradient Descent	Batch Gradient Descent	Gradient Descent	Gradient Explosion	Exploding Gradient	Gradient Accumulation
+Misskey	Misskey（开源去中心化微博客平台）	Project Milestone	Middleware	Jetpack Compose	Pulumi
+Misskey（开源去中心化微博客平台）	Misskey	Playwright（浏览器自动化/E2E 测试框架）	Moleculer（Node.js 微服务框架）	PyCharm（Python 集成开发环境）	Kind（Kubernetes 本地集群工具）
+Mixed Precision Training	Distributed Training	Model Training	Training Set	Adversarial Training	Training Convergence
+Mixture of Experts	Mixture-of-Experts	Mixed Precision Training	Turing Test	Constant Variable	Gradient Explosion
+Mixture-of-Experts	Mixture of Experts	Mixed Precision Training	Mini-batch Gradient Descent	Constant Variable	Gradient Explosion
+mkdir	RL	Nostr	TGI	DML	Latency
+ML	MLX	MLflow	MLP	MLOps	WAN
+MLflow	MLOps	libcurl	KV Cache	MLX	MLflow（机器学习生命周期管理平台）
+MLflow（机器学习生命周期管理平台）	MLX（Apple 机器学习框架）	MLflow	Workflow Orchestration	Workflow Orchestrator	CUDA 深度神经网络库
+MLOps	LSTM	Prompt	Prompt Leakage	BGD	MLflow
+MLP	MLX	ML	MLflow
+MLX	ML	MLOps	MLP	MLflow	LSTM
+MLX（Apple 机器学习框架）	MLflow（机器学习生命周期管理平台）	MegEngine（旷视深度学习框架）	PyTorch（深度学习框架）	CUDA 深度神经网络库	Xcode（苹果IDE）
+Mobile App	App Icon	Appwrite	Android	Agent	Framework
+Modality Fusion	Reciprocal Rank Fusion	Constant Variable	Agentic Software Development Lifecycle	Multimodal Large Model	Micro Frontend
+Model API	Model Version	Model Card	Model Deployment	模型 API	Model Versioning
+Model Card	Model Switch	Model API	Model Serving	Model Stealing	Model Version
+Model Context Protocol	Model Context Protocol (MCP)	Context Layer	Context Engineering	Context Window	Context Menu
+Model Context Protocol (MCP)	Model Context Protocol	模型上下文协议（MCP）	MCP connectors	Full-parameter Fine-tuning	Constant Folding
+Model Deployment	Model Stealing	Model Versioning	Speech Model	Embedding Model	Model Evaluation
+Model Evaluation	Model Deployment	Model Versioning	Speech Model	Model Stealing	Model Quantization
+Model Monitoring	System Monitoring	Model-View-Controller	Model Stealing	Model Pruning	Application Monitoring
+Model Parallelism	Parallel Processing	Pipeline Parallelism	Data Parallelism	Tensor Parallelism	Reasoning Model
+Model Parameter	Parameter Count	Sampling Parameters	Full-parameter Fine-tuning	Model Probing	Hyperparameter
+Model Probing	Model Serving	Model Stealing	Speech Model	Model Evaluation	Model Card
+Model Pruning	Model Stealing	Model Deployment	Model Versioning	Model Serving	Model Card
+Model Quantization	Model Evaluation	Quantitative Trading	Model Deployment	Model Stealing	Product Quantization
+Model Registry	Model Deployment	Reasoning Model	Embedding Model	Model Pruning	Model Transparency
+Model Serving	Model Card	Model Stealing	Model Deployment	Model Probing	Speech Model
+Model Stacking	Stacking Ensemble	Stack	LAMP Stack	Model Stealing	Gated Recurrent Unit
+Model Stealing	Speech Model	Model Deployment	Model Versioning	Model Pruning	Model Serving
+Model Switch	Model Card	Speech Model	Model Evaluation	Model Stealing	Model Serving
+Model Training	Actor Model	Model Deployment	Distributed Training	Mixed Precision Training	Training Set
+Model Transparency	Model Deployment	Model Serving	Model Evaluation	Model Stealing	Embedding Model
+Model Version	Model Versioning	Model API	Model Deployment	Model Card	Model Stealing
+Model Versioning	Model Version	Model Stealing	Model Deployment	Model Evaluation	Model Pruning
+Model-View-Controller	MVC (Model-View-Controller)	Model Monitoring	Model Stealing	Model Parameter	模型监控
+Module Bundler	Module Export	Robot Framework	RAG Evaluation	Option Type	Prompt
+Module Export	Module Bundler	Option Type	Data Export	Exception	Extractive QA
+MoE	Nim	Moleculer	NeRF	ReWOO	BERT
+Moleculer	MoE	Moleculer（Node.js 微服务框架）	BOINC	Module Bundler	MLOps
+Moleculer（Node.js 微服务框架）	Puppeteer（Node.js 浏览器自动化库）	Next.js（React 全栈 Web 框架）	Discord.js（Node.js Discord 机器人开发库）	CodeIgniter（PHP Web 框架）	NestJS（Node.js 后端框架）
+MongoDB	Moleculer	Encoding	MoE	POMDP	Algorithm
+Monitoring Alert	System Monitoring	Application Monitoring	Alert System	Model Monitoring	Frontend Routing
+Moravec's Paradox	Moleculer	Occam's Razor	MoE	Laravel	Cassandra
+Multi-Agent	Multi-Agent System	Multi-Agent Development	Multi-Agent Orchestration	Multi-Agent Collaboration Framework	Multi-Agent Collaboration
+Multi-Agent Collaboration	Multi-Agent Collaboration Framework	Multi-Agent Orchestration	Multi-Agent System	Multi-Agent	Multi-Agent Debate
+Multi-Agent Collaboration Framework	Multi-Agent Collaboration	Multi-Agent Orchestration	Multi-Agent	Multi-Agent System	Multi-Agent Development
+Multi-Agent Debate	Multi-Agent Orchestration	Multi-Agent Collaboration Framework	Multi-Agent Collaboration	Multi-Agent System	Multi-Agent
+Multi-Agent Development	Multi-Agent	Multi-Agent System	Agentic Development	Multi-Agent Orchestration	Multi-Agent Collaboration Framework
+Multi-Agent Orchestration	Multi-Agent Collaboration	Multi-Agent System	Multi-Agent Collaboration Framework	Multi-Agent	Agent Orchestration
+Multi-Agent Reinforcement Learning	Reinforcement Learning	Inverse Reinforcement Learning	Multi-Agent Collaboration Framework	Multimodal Learning	Self-Supervised Learning
+Multi-Agent System	Multi-Agent	Multi-Agent Orchestration	Multi-Agent Development	Multi-Agent Collaboration Framework	Multi-Agent Collaboration
+Multi-Head Attention	Multi-Agent Development	Multimodal Large Model	Detached HEAD	Multi-Agent	Multilayer Perceptron
+Multilayer Perceptron	Perceptron	Multi-Agent Collaboration Framework	Constant Variable	RAG Evaluation	Lazy Evaluation
+Multimodal	Multimodal Learning	Multimodal LLM	Multimodal Large Model	Multithreading	Multi-Agent
+Multimodal Large Model	Large Model	Multimodal	Model Evaluation	Modality Fusion	Multimodal LLM
+Multimodal Learning	Multimodal	Ensemble Learning	Supervised Learning	Multi-Agent Reinforcement Learning	Semi-supervised Learning
+Multimodal LLM	TensorRT-LLM	LLM Agent	Multimodal	LLM	Multimodal Large Model
+Multithreading	Multimodal	Multi-Agent	Encoding	Sampling	Multi-Agent Collaboration Framework
+MVC (Model-View-Controller)	Model-View-Controller	MVC模式	gRPC（高性能远程过程调用框架）	前端框架	后端框架
+MVC模式	MVC (Model-View-Controller)	前端视图	视频编码	OpenCV（计算机视觉库）	设计模式
+MySQL	Hadoop	Redis	Database	Oracle Database	Nginx
+n-gram	Agentic SDLC	Nim	NebulaGraph	GraphQL	gRPC
+Named Entity Recognition	Action Recognition	Feature Attribution	Role Assignment	Positional Encoding	Certificate Expiration
+Named Pipe	Compiler	Data Pipeline	JIT Compiler	Sampling	Robot Framework
+Nash Equilibrium	Seq2Seq	X.509 Certificate	LIME XAI	Ansible	Role Assignment
+Natural Language Processing	自然语言处理	Masked Language Modeling	Causal Language Modeling	Large Language Model	Contrastive Language-Image Pre-training
+NebulaGraph	NebulaGraph（分布式图数据库）	NestJS	Neuron Model	Neural Architecture Search	Approximate Nearest Neighbor
+NebulaGraph（分布式图数据库）	NebulaGraph	分布式数据库	分布式系统	图数据库	BOINC（伯克利分布式计算平台）
+Neo4j	Neo4j（图数据库）	NestJS	强类型	Edge AI	Neuron Model
+Neo4j（图数据库）	Neo4j	NebulaGraph（分布式图数据库）	语言 Agent 树搜索	H2 数据库	数据库视图
+NER	Neuron Model	NeRF	NestJS	NebulaGraph	Code Generator
+NeRF	RRF	CSRF	Nim	MoE	NER
+NestJS	NestJS（Node.js 后端框架）	NebulaGraph	Interrupt	Nette	REST API
+NestJS（Node.js 后端框架）	Next.js（React 全栈 Web 框架）	NestJS	Node.js	Puppeteer（Node.js 浏览器自动化库）	Moleculer（Node.js 微服务框架）
+NetBox	Nette	Netlify	HTTP Client	NetBox（IPAM/DCIM 网络基础设施管理工具）	Framework
+NetBox（IPAM/DCIM 网络基础设施管理工具）	Netlify（静态网站托管/Serverless 平台）	NetBox	网络端口	网络连接	Playwright（浏览器自动化/E2E 测试框架）
+Netlify	Nette	NetBox	libcurl	vibecoding	Netlify（静态网站托管/Serverless 平台）
+Netlify（静态网站托管/Serverless 平台）	NetBox（IPAM/DCIM 网络基础设施管理工具）	Apify（网页爬取与自动化平台）	Netlify	Nette（PHP Web 框架）	NetBox
+Nette	NetBox	Netlify	NestJS	vibecoding	HTTP Client
+Nette（PHP Web 框架）	Laravel（PHP Web 框架）	CodeIgniter（PHP Web 框架）	PHP（服务端脚本语言）	Express（Node.js Web 框架）	Netlify（静态网站托管/Serverless 平台）
+Network Bandwidth	Network Packet	Linked List	Network Probe	Network Throughput	Livewire（Laravel 全栈框架）
+Network Packet	Network Port	Network Throughput	Network Probe	Packet Switching	Linked List
+Network Port	Network Packet	Network Timeout	Network Probe	Network Throughput	网关
+Network Probe	Network Throughput	Network Packet	Citation Network	Capsule Network	Network Pruning
+Network Pruning	Network Probe	Residual Network	Citation Network	Capsule Network	Receptive Field
+Network Throughput	Data Throughput	Network Packet	Network Probe	Network Timeout	Capsule Network
+Network Timeout	Network Port	Network Throughput	Network Packet	Network Probe	Time Complexity
+Neural Architecture Search	Neural Network	Graph Neural Network	Artificial Neural Network	Neural Radiance Field	NebulaGraph
+Neural Network	Artificial Neural Network	Recurrent Neural Network	Graph Neural Network	Neural Radiance Field	Convolutional Neural Network
+Neural Network Training	Graph Neural Network	Artificial Neural Network	Neural Network	Training Convergence	Model Training
+Neural Radiance Field	Neural Network	Graph Neural Network	Neural Architecture Search	Spiking Neural Network	Recurrent Neural Network
+Neuro-Symbolic AI	Symbolic AI	Colossal-AI	Constitutional AI	Pydantic AI	Approximate Nearest Neighbor
+Neuron Model	Model Stealing	Embedding Model	Actor Model	NebulaGraph	Speech Model
+Next.js	Next.js（React 全栈 Web 框架）	Node.js	NestJS	Programming Script	Source Code
+Next.js（React 全栈 Web 框架）	NestJS（Node.js 后端框架）	Node.js	Next.js	Preact（轻量级 React 替代框架）	Moleculer（Node.js 微服务框架）
+Nextcloud	OpenClaw	Rebase	阿里云	Next.js	Server
+Nginx	AWS	Redis	MySQL	Docker	GitHub
+Nhost	localhost	SVM	Kernel	HTTP Client	KV Cache
+Nhost（开源后端即服务 BaaS）	Sandstorm（自托管 Web 应用平台）	Nhost	GitHub复刻	LLVM（编译器基础设施）	代码沙箱
+Nim	MoE	NeRF	RAG	GNN	CLM
+NLP	RNN	Nim	NeRF	MoE	DQN
+Node.js	Node.js（JavaScript 运行时）	Next.js（React 全栈 Web 框架）	Discord.js（Node.js Discord 机器人开发库）	NestJS（Node.js 后端框架）	Puppeteer（Node.js 浏览器自动化库）
+Node.js（JavaScript 运行时）	Node.js	JavaScript Promise	JavaScript Bundling	Next.js（React 全栈 Web 框架）	Discord.js（Node.js Discord 机器人开发库）
+Non-relational	NoneType	Receptive Field	Conditional Branch	Constant Folding	Multi-Agent Collaboration Framework
+NoneType	Non-relational	Encoding	Variable Scope	PyCharm	Constant Variable
+Normal Form	Variable Scope	Group Normalization	Role Prompting	Code Style	Gating Mechanism
+NoSQL	Nostr	DBSCAN	GraphQL	PostgreSQL	Prompt
+Nostr	NoSQL	Rerank	BERT	Kotlin	Chunking
+Nostr（去中心化社交协议）	Nostr	Web3（去中心化互联网）	Group Normalization	用户数据报协议	Multi-Agent Collaboration Framework
+Not Only SQL	SQL Table	SQL Column	Assembly Language	SQL Alias	Password Hashing
+Nous Research Hermes	Hermes LLM	Git Master Branch	Frontend Masters	Nostr	NoSQL
+NPU	RAG	gRPC	BGD	TRPO	CoT
+Nucleus Sampling	OLM Operator Lifecycle Manager	Neuron Model	Agentic Software Development Lifecycle	Model Evaluation	Autonomous Agent
+Null	Value Function	Return Value	Code Style	Code Comments	ZeRO
+Numba	NumPy	BOINC	Kanban	Pulumi	Nim
+Numba（Python 即时编译库）	NumPy（Python 科学计算库）	PyCharm（Python 集成开发环境）	MicroPython（嵌入式 Python）	FastAPI（Python 异步 Web 框架）	Groovy（JVM 脚本语言）
+NumPy	Numba	Prompt	POMDP	TPU	Max Pooling
+NumPy（Python 科学计算库）	Numba（Python 即时编译库）	PyCharm（Python 集成开发环境）	MicroPython（嵌入式 Python）	PyTorch（深度学习框架）	SciPy（科学计算库）
+NVIDIA Container Toolkit	NVIDIA 容器工具包	Agentic SDLC	Intelligent Customer Service	Long-Term Memory	Support Vector Machine
+NVIDIA 容器工具包	NVIDIA Container Toolkit	容器服务	软件容器	容器镜像	Agentic SDLC
+OAuth	Routing	Latency	GRU	Tree of Thoughts	CORS
+Object Detection	Object Storage	Object-Oriented Programming	Object-Oriented Polymorphism	Promise Object	Option Type
+Object Storage	Object Detection	Data Storage	Storage System	Object-Oriented Programming	Data Type
+Object-Oriented Polymorphism	Object-Oriented Programming	Object Detection	Object Storage	Constant Variable	Promise Object
+Object-Oriented Programming	Object Detection	Object-Oriented Polymorphism	Object Storage	Promise Object	Objective-C
+Objective-C	Object-Oriented Programming	Object Detection	Promise Object	OOP Object	C#（编程语言）
+Observation Space	Space Complexity	Retrieval-Augmented Generation	Browser Extension	Availability Zone	Container Service
+OCaml	Syntax	DQN	SVM	PCA	DML
+OCaml（函数式编程语言）	Elixir（函数式编程语言）	F#（.NET 函数式编程语言）	编程函数	Erlang（并发函数式编程语言）	C#（编程语言）
+Occam's Razor	MegEngine	Random Variable	Authentication	Reciprocal Rank Fusion	Lasso Regularization
+OCR	PCA	Xcode	OCaml	Browser	XSS
+Ollama	Solana	LoRA	SLA	SLAM	RRF
+OLM（Operator Lifecycle Manager，Kubernetes 算子生命周期管理器）	OLM Operator Lifecycle Manager	Helm Kubernetes Package Manager	Helm（Kubernetes 包管理器）	Parallel Processing	Agentic Software Development Lifecycle
+One-shot Learning	Few-shot Learning	Zero-shot Learning	Ensemble Learning	Supervised Learning	Representation Learning
+One-shot Prompting	Few-shot Prompting	Zero-shot Prompting	Role Prompting	Prompt Chaining	Prompt Leakage
+Online Learning	Continual Learning	Supervised Learning	Machine Learning Model	Imitation Learning	Machine Learning
+OOP	OOP Polymorphism	OOP Object	SHAP	OOP Class	PEFT
+OOP Class	OOP Object	OOP	Class Field	Code Style	React
+OOP Object	OOP	Object-Oriented Programming	Promise Object	Object Detection	OOP Polymorphism
+OOP Polymorphism	OOP	OOP Object	PyTorch	POMDP	Object-Oriented Polymorphism
+Open Source	Closed Source	Source Code	OpenBSD	OpenClaw	OpenCV
+OpenAI Agents SDK	Agent Development Kit	Agent编排层	Agent Framework	AGENTS.md	OpenBSD
+OpenBSD	OpenClaw	OpenAI Agents SDK	OpenCV	OpenFaaS	OpenGL
+OpenClaw	OpenCV	OpenFaaS	OpenBSD	Open Source	OpenGL
+OpenCV	OpenClaw	OpenCV（计算机视觉库）	OpenFaaS	OpenBSD	OpenGL
+OpenCV（计算机视觉库）	OpenCV	OpenClaw	OpenGL（跨平台图形渲染 API）	视觉语言模型	RISC-V（开源指令集架构）
+OpenFaaS	OpenClaw	OpenCV	OpenBSD	OpenTelemetry	Open Source
+OpenGL	OpenGL（跨平台图形渲染 API）	OpenBSD	OpenCV	OpenClaw	OpenFaaS
+OpenGL（跨平台图形渲染 API）	OpenGL	OpenCV（计算机视觉库）	OpenTelemetry（可观测性/遥测框架）	Three.js（WebGL 3D 渲染库）	OpenBSD
+OpenTelemetry	OpenTelemetry（可观测性/遥测框架）	OpenBSD	NetBox	Open Source	OpenFaaS
+OpenTelemetry（可观测性/遥测框架）	OpenTelemetry	Playwright（浏览器自动化/E2E 测试框架）	Livewire（Laravel 全栈框架）	MegEngine（旷视深度学习框架）	NetBox（IPAM/DCIM 网络基础设施管理工具）
+Operating System	Operating System Process	Join Operation	System Call	Kill Process	Command History
+Operating System Process	Operating System	System Call	Kill Process	Distributed Systems	Command History
+Optical Character Recognition	Pipeline Parallelism	Constant Folding	Mechanistic Interpretability	Constant Variable	Permission Boundary
+Optimizer	Option Type	AlphaZero	Lexical Scope	PyTorch	Compiler
+Option Type	Module Export	Float Data Type	TypeScript	Model Context Protocol	Variable Scope
+Oracle Database	Oracle 数据库	Database Table	Database View	Database	Database Index
+Oracle 数据库	Oracle Database	数据库	云数据库	数据库索引	Redis（内存键值数据库）
+Orchestrator Agent	Agent Orchestration	Multi-Agent Orchestration	Agentic RAG	Agent Skill	Agent Handoffs
+ORM	LSTM	MoE	RAG	BERT	Nim
+OS	OSRM	Framework	macOS	IDE	Android
+OSRM	OS	OSRM（开源路由引擎）	Framework	Proxy	System Call
+OSRM（开源路由引擎）	OSRM	开源软件	Playwright（浏览器自动化/E2E 测试框架）	OpenTelemetry（可观测性/遥测框架）	Misskey（开源去中心化微博客平台）
+Outpainting	Inpainting	Output Parsing	Encoding	Fortran	Structured Output
+Output Parsing	Structured Output	Outpainting	Test-time Compute	Function Compute	Computational Complexity
+Overfitting	Underfitting	Load Balancer	Runtime	Long-Term Memory	Gating Mechanism
+Overlapping Chunking	Chunking	Recursive Chunking	Prompt Chaining	Constant Folding	Semantic Chunking
+P-D-E-R 闭环	Model-View-Controller	闭环控制	闭环反馈	t-分布随机邻域嵌入	Option Type
+PaaS	Parser	Keras	XAI	SLA	Alibaba Cloud
+Package Dependency	Package Manager	Bagging	Helm Kubernetes Package Manager	Homebrew Package Manager	Shortcut Key
+Package Manager	Homebrew Package Manager	Software Package	Package Dependency	Helm Kubernetes Package Manager	Release Management
+Packet Switching	Network Packet	Cosine Similarity	Linked List	Constant Variable	Jetpack Compose
+PageRank	Rerank	PageRank算法	ResNet	Cross-Encoder Reranking	Transformer
+PageRank算法	PageRank	图算法	降维算法	序列化	算法策略
+Pagination	MegEngine	Constant Folding	Encoding	Concurrency	Parameter Count
+Paper Reading	Paper Review	Read-Write Splitting	Assembly Language	Transfer Learning	论文精读
+Paper Review	Paper Reading	Feature Engineering	Turing Test	Feature Vector	Code Review
+Parallel Computing	Parallel Processing	Computational Complexity	Computer Perception	Computer	Quantum Computing
+Parallel Processing	Parallel Computing	Model Parallelism	Pipeline Parallelism	Data Parallelism	Tensor Parallelism
+Parallel Tool Calls	Tool Calling	Tool Calling Loop	Swish Activation Function	Command Line Option	Speculative Decoding
+Parameter Count	Model Parameter	Sampling Parameters	Hyperparameter	Generation Parameters	Full-parameter Fine-tuning
+Parameter-Efficient Fine-tuning	Full-parameter Fine-tuning	Fine-tuning	Instruction Tuning	Certificate Expiration	Constant Folding
+Parser	PaaS	PyTorch	Dependency Parsing	Keras	Routing
+Part-of-Speech Tagging	Local Interpretable Model-agnostic Explanations	Constant Folding	Speculative Decoding	Optical Character Recognition	Feature Attribution
+Partially Observable MDP	Module Export	Prompt Injection	Data Export	Denoising Diffusion Probabilistic Model	Stable Sort
+Password Hashing	Password Salting	Hashing	Commit hash	Cross-Encoder Reranking	Query-Key-Value
+Password Salting	Password Hashing	Message Passing	Fetch API	Query-Key-Value	Shortcut Key
+Pathfinding	Constant Folding	Video Understanding	Conditional Probability	Differential Privacy	JSON Mode
+Pay-as-you-go	Password Hashing	按需付费	Tool Calling	Tool Calling Loop	Beam Search
+PCA	DML	BGD	DQN	BF16	CUDA
+PDCA	PCA	CAPTCHA	MCP	DML	Unix Pipe
+Peer-to-Peer (P2P)	Human-AI Collaboration	PyTorch（深度学习框架）	Tuple	Permission Boundary	Capsule Network
+PEFT	Perl	NeRF	PyTorch	Prompt	GRU
+Penalty Function	Regularization Penalty	Function Argument	Activation Function	Loss Function	Repetition Penalty
+Perceptron	Multilayer Perceptron	Zephyr RTOS	PEFT	Pydantic AI	Semaphore
+Perl	MemRL	PEFT	BERT	RRF	Elixir
+Perl（编程语言）	Ruby（编程语言）	Kotlin（编程语言）	C#（编程语言）	Scala（编程语言）	Perl
+Permission Boundary	Constant Folding	Role Prompting	Constant Variable	File Permission	Gradient Accumulation
+Perplexity	Permission Boundary	Variable Scope	Explainability	Constant Variable	Constant Folding
+Phaser	Encapsulation	PyCharm	Prompt Chaining	Agile Methodology	Citation Analysis
+Phaser（HTML5 2D 游戏框架）	Flutter（跨平台移动 UI 框架）	Playwright（浏览器自动化/E2E 测试框架）	HTML5 画布（Canvas API）	Moleculer（Node.js 微服务框架）	Tauri（Rust 桌面应用框架）
+PHP	phpMyAdmin	PHP（服务端脚本语言）	JavaFX	MySQL	JavaScript
+phpMyAdmin	PHP	PHP（服务端脚本语言）	phpMyAdmin（MySQL 管理工具）	HTTP Session	MySQL
+phpMyAdmin（MySQL 管理工具）	phpMyAdmin	PHP（服务端脚本语言）	PostgreSQL（开源关系型数据库）	Oracle 数据库	MySQL
+PHP（服务端脚本语言）	Nette（PHP Web 框架）	Laravel（PHP Web 框架）	脚本 编程	phpMyAdmin	Socket.IO（实时 Web 通信库）
+Ping	VPN	OS	Network Port	Proxy	IDE
+Pipeline Parallelism	Tensor Parallelism	Model Parallelism	Parallel Processing	Data Parallelism	Optical Character Recognition
+Plan Mode	AI Planning	Build System	Embedding Model	Model Versioning	Agent Development Kit
+Plan-and-Execute	Bounded Execution	Recursive Chunking	Executor	Command Line Option	Spec-Driven Development
+Playwright	Appwrite	HAProxy	cuDNN	Rerank	libcurl
+Playwright（浏览器自动化/E2E 测试框架）	Puppeteer（Node.js 浏览器自动化库）	Robot Framework（通用自动化测试框架）	OpenTelemetry（可观测性/遥测框架）	集成测试	Eclipse Vert.x（JVM 响应式应用框架）
+Point Cloud	Cloud Server	Citation Network	Hybrid Cloud	Cloud Run	Server
+Policy Gradient	Deep Deterministic Policy Gradient	Policy Network	Trust Region Policy Optimization	Action Recognition	Exploding Gradient
+Policy Network	Policy Gradient	Network Packet	Network Port	Data Structures	State Management
+POMDP	PPO	Prompt	DQN	PyCharm	PyTorch
+Pooling Layer	Loop Layer	Dropout Layer	Constant Folding	Lasso Regularization	Permission Boundary
+Port Mapping	Constant Variable	Portainer	Option Type	Network Port	Module Export
+Portainer	Port Mapping	Serial Port	Agent Loop	Terraform	PRAR Loop
+Pose Estimation	Model Pruning	Constant Variable	Option Type	Model Stealing	Image Segmentation
+Positional Encoding	Role Assignment	Byte Pair Encoding	Encoding	Constant Folding	Named Entity Recognition
+Post-training	Pre-training	Distributed Training	Adversarial Training	Training Set	Training Convergence
+PostgreSQL	Postman	NoSQL	PostgreSQL（开源关系型数据库）	DBSCAN	JSON
+PostgreSQL（开源关系型数据库）	PostgreSQL	关系型数据库	Redis（内存键值数据库）	Drupal（开源内容管理系统）	Puppeteer（Node.js 浏览器自动化库）
+Postman	PostgreSQL	DBSCAN	Postman（API 测试/调试工具）	Sampling	PageRank
+Postman（API 测试/调试工具）	Postman	Playwright（浏览器自动化/E2E 测试框架）	PostgreSQL（开源关系型数据库）	Puppeteer（Node.js 浏览器自动化库）	PyCharm（Python 集成开发环境）
+POV-Ray	POMDP	Multilayer Perceptron	视频编码	POV-Ray（光线追踪渲染器）	Video Understanding
+POV-Ray（光线追踪渲染器）	POV-Ray	Neo4j（图数据库）	MVC (Model-View-Controller)	神经辐射场	Faster R-CNN
+PPML	PPO	TinyML	蜜罐	Proxy	spaCy
+PPO	POMDP	PyTorch	Prompt	Pulumi	MLOps
+PRAR Loop	For Loop	ReAct Loop	While Loop	Loop Layer	Tool Calling Loop
+PRAR 循环	工具调用循环	工具使用循环	PRAR Loop	智能体循环	循环语句
+Pre-training	Post-training	Adversarial Training	Distributed Training	Training Set	Quantization Aware Training
+Preact	React	React Component	ReAct Loop	Prettier	Predictive Maintenance
+Preact（轻量级 React 替代框架）	Next.js（React 全栈 Web 框架）	智能体框架	Flutter（跨平台移动 UI 框架）	ReAct Loop	React Component
+Predictive Maintenance	React Component	Certificate Expiration	Attention Mechanism	Action Recognition	Instruction Tuning
+Pretraining	Role Assignment	Retriever	Predictive Maintenance	Extractive QA	Ansible
+Prettier	Preact	Dataset Splitting	Routing	Role Prompting	Prettier（代码格式化工具）
+Prettier（代码格式化工具）	CodeIgniter（PHP Web 框架）	Visual Studio Code（代码编辑器）	文档对象模型	假设性文档嵌入	Agent编排层
+Primary Key	Foreign Key	Query-Key-Value	Turing Test	Regression Test	Fetch API
+Principal Component Analysis	Citation Analysis	Sentiment Analysis	React Component	Denoising Diffusion Probabilistic Model	Frequency Penalty
+Privacy Protection	Privacy-Preserving ML	Differential Privacy	Dense Retrieval	隐私保护	Agent Security
+Privacy-Preserving ML	Privacy Protection	Differential Privacy	隐私保护ML	隐私保护	私钥
+Private IP	Public IP	Private Key	Public Key	Main Function	User Mode
+Private Key	Public Key	Private IP	Public IP	私钥	Git Tag
+Process Fork	Daemon Process	Process Scheduling	Git Fork	Fortran	Process Management
+Process Management	Memory Management	Process Scheduling	Operating System Process	Release Management	Image Processing
+Process Scheduling	Task Scheduling	Gating Mechanism	Prompt Engineering	Daemon Process	Kill Process
+Product Quantization	Model Quantization	Quantitative Trading	Production Environment	Refactoring	Repetition Penalty
+Production Environment	Development Environment	Product Quantization	Environment Variable	Agentic Software Development Lifecycle	Environment Variables
+Program Crash	Extractive QA	Reflective Programming	Regression Test	CrewAI	Crash Dump
+Programming Script	Source Code	Frontend Framework	Reflective Programming	Object-Oriented Programming	模型 API
+Progressive Web App (PWA)	渐进式 Web 应用（PWA）	Wails（Go 跨平台桌面应用框架）	Responsive Web Design	Playwright（浏览器自动化/E2E 测试框架）	Web Components
+Project Milestone	Project Scaffold	GitHub Milestone	Middleware	Mini-batch Gradient Descent	Lazy Evaluation
+Project Scaffold	Project Milestone	Variable Scope	Frontend Framework	Code Scaffolding	Reflective Programming
+Promise Object	Object Detection	Object-Oriented Programming	Robot Framework	Object Storage	OOP Object
+Prompt	Prompt Template	Prompt Leakage	Role Prompting	System Prompt	Prompt Injection
+Prompt Caching	Prompt Template	Prompt Leakage	Prompt	Role Prompting	Prompt Chaining
+Prompt Chaining	Prompt Injection	Chain of Thought	Few-shot Prompting	Chain Rule	Role Prompting
+Prompt Engineering	Prompt Template	Prompt	Requirements Engineering	Loop Engineering	Prompt Caching
+Prompt Injection	Dependency Injection	Prompt Template	Prompt Chaining	Prompt	Prompt Leakage
+Prompt Leakage	Prompt	Prompt Template	Prompt Caching	Role Prompting	Prompt Injection
+Prompt Template	Prompt	Prompt Injection	Prompt Leakage	Prompt Caching	Role Prompting
+Prompt-as-a-Product	Prompt Caching	Few-shot Prompting	Prompt Engineering	Prompt Leakage	Prompt Injection
+Prompt缓存	键值缓存	缓存	System Prompt	Prompt Template	Prompt
+Proximal Policy Optimization	Trust Region Policy Optimization	Direct Preference Optimization	Inference Optimization	Uniform Manifold Approximation and Projection	Deep Deterministic Policy Gradient
+Proxy	HAProxy	Reverse Proxy	Prompt	Network Probe	Framework
+Public IP	Private IP	Public Key	Private Key	公网IP	HTTP Client
+Public Key	Public IP	Private Key	Private IP	REST API	Source Code
+Pull Request	Request Body	Request Timeout	API Request	Request Header	HTTP Request
+Pulumi	BOINC	Bulma	Flutter	BLEU	Tauri
+Puppet（配置管理工具）	Puppeteer（Node.js 浏览器自动化库）	包管理器	Puppet Configuration Management	Kind（Kubernetes 本地集群工具）	Puppeteer
+Puppeteer	Jetpack Compose	Cherry-pick	Kubernetes	Overlapping Chunking	Puppet（配置管理工具）
+Puppeteer（Node.js 浏览器自动化库）	Moleculer（Node.js 微服务框架）	Discord.js（Node.js Discord 机器人开发库）	Next.js（React 全栈 Web 框架）	Node.js	Playwright（浏览器自动化/E2E 测试框架）
+PyCharm	PyTorch	Encapsulation	CAPTCHA	Prompt	POMDP
+PyCharm（Python 集成开发环境）	NumPy（Python 科学计算库）	PyTorch（深度学习框架）	FastAPI（Python 异步 Web 框架）	Flask（Python Web 框架）	MicroPython（嵌入式 Python）
+Pydantic AI	Colossal-AI	Constitutional AI	PyTorch	Symbolic AI	Neuro-Symbolic AI
+Python Module	PyCharm（Python 集成开发环境）	Python字典	MicroPython（嵌入式 Python）	NumPy（Python 科学计算库）	Numba（Python 即时编译库）
+Python None	Python Module	NoneType	NumPy（Python 科学计算库）	PyCharm（Python 集成开发环境）	FastAPI（Python 异步 Web 框架）
+Python字典	Python Module	NumPy（Python 科学计算库）	PyCharm（Python 集成开发环境）	MicroPython（嵌入式 Python）	字典数据结构
+PyTorch	PyCharm	Parser	Prompt	JIT Compiler	Angular
+PyTorch（深度学习框架）	MegEngine（旷视深度学习框架）	PyCharm（Python 集成开发环境）	Flask（Python Web 框架）	Gulp（前端自动化构建工具）	NumPy（Python 科学计算库）
+Q-Function	Q函数	Q-Learning	Activation Function	Penalty Function	Swish Activation Function
+Q-Learning	Supervised Learning	Semi-supervised Learning	Self-Supervised Learning	Ensemble Learning	Online Learning
+QKV	Q-Function	RLHF	NPU	提示链	DQN
+QLoRA	LoRA	Solana	Ollama	Keras	Clojure
+Quality Verification	Verification Signal Priority	Integration Test	Software Specification	Dense Retrieval	Feature Attribution
+Quantitative Trading	Model Quantization	Repetition Penalty	Regularization Penalty	Product Quantization	Frequency Penalty
+Quantization Aware Training	Distributed Training	Training Convergence	Adversarial Training	Pre-training	Model Training
+Quantum Computing	Quantum Machine Learning	Computer	Computer Perception	Parallel Computing	Computational Complexity
+Quantum Machine Learning	Machine Learning	Quantum Computing	Machine Learning Competition	Machine Learning Model	State Machine Graph
+Quarkus	Actuator	Gradle	NumPy	Keras	QLoRA
+Query Rewriting	Question Answering	Slow Query	Query-Key-Value	Knowledge Distillation	Visual Question Answering
+Query-Key-Value	Key-Value Store	Query Rewriting	Primary Key	Password Hashing	Shortcut Key
+Question Answering	Visual Question Answering	Query Rewriting	Queue	SQL Query	Slow Query
+Queue	Vuetify	Question Answering	Query Rewriting	Vue	DQN
+Quick Sort	Merge Sort	Stable Sort	Bubble Sort	Shortcut Key	Compile Time
+Q函数	Q-Function	函数计算	代价函数	函数参数	函数调用
+RAG	Rerank	GRU	RAG Evaluation	RAG Chunking	BGD
+RAG Chunking	Chunking	Semantic Chunking	RAG	Overlapping Chunking	GAN
+RAG Evaluation	Lazy Evaluation	Evaluation Metrics	Rerank	RAG	Prompt Leakage
+RAG评估	RAG Evaluation	评估集	模型评估	RAG	大模型评估
+RAM	内存	内存缓冲区	Cache	存储系统	内存分页
+Random Forest	随机森林	Binary Tree	Tree of Thoughts	Laravel	Gradle
+Random Variable	Constant Variable	Variable Scope	Constant Folding	Reciprocal Rank Fusion	RAG Evaluation
+React	Preact	React Component	ReAct Loop	REPL	Repo
+React Component	ReAct Loop	React	Regularization	Preact	Predictive Maintenance
+React Hooks	React Hooks（React 钩子）	ReAct Loop	React Component	Routing	Overlapping Chunking
+React Hooks（React 钩子）	事件钩子	React Hooks	编程钩子	Brain Floating Point	Optical Character Recognition
+ReAct Loop	React Component	React	PRAR Loop	Reflexion Loop	Dropout Regularization
+Read-Write Splitting	Sentence Embedding	Sampling	Paper Reading	Query Rewriting	Text-to-Speech
+README	键值缓存	KV Cache	Content Moderation	Password Hashing	Browser Cookie
+Reasoning Model	Embedding Model	Model Deployment	Speech Model	Actor Model	Model Stealing
+Rebase	REPL	Git Reset	React	KV Cache	Data Backup
+Receptive Field	Domain Adaptation	Staging Area	Frontend Framework	Exception	Variable Scope
+Reciprocal Rank Fusion	Modality Fusion	Role Prompting	Distributed Tracing	Random Variable	Weakly Typed
+Recommender System	Distributed Systems	Dialogue System	Inverted File	Frontend Framework	Deterministic Verification
+Rectified Linear Unit	Linear List	Gated Recurrent Unit	Diffusion Model	Constant Folding	Command Line Option
+Recurrent Neural Network	Neural Network	Artificial Neural Network	Graph Neural Network	Convolutional Neural Network	Spiking Neural Network
+Recursion	Recursive Chunking	Bounded Execution	Gated Recurrent Unit	Recursive Self-Improvement	Reflexion
+Recursive Chunking	Recursion	Bounded Execution	Overlapping Chunking	Recursive Self-Improvement	Compile Time
+Recursive Self-Improvement	Self-Reflection	Self-Repair Loop	AI Self-Improvement	Recursion	Self-Attention
+Red Teaming	红队测试	Breakpoint	Training Set	Hot Reload	HTTP Redirect
+Redis	Docker	MySQL	Hadoop	AWS	IDE
+Redis（内存键值数据库）	Oracle 数据库	BigQuery（云数据仓库）	PostgreSQL（开源关系型数据库）	键值数据库	Database Trigger
+Refactoring	Discount Factor	Regularization	Vector Index	Gated Recurrent Unit	Prompt Chaining
+Reflective Programming	Dynamic Programming	Reflexion	Differentiable Programming	AI-Powered Programming	React Component
+Reflexion	Reflexion Loop	Runtime Reflection	Merge Conflict	Self-Reflection	Recursion
+Reflexion Loop	Reflexion	ReAct Loop	Runtime Reflection	PRAR Loop	Recursion
+Region of Interest	Integration Test	Region Proposal	Predictive Maintenance	Regression Test	Lexical Scope
+Region Proposal	Regularization	State Reset	Repository	Group Normalization	Repo
+Regression Test	Turing Test	Integration Test	Ridge Regression	React Component	Exception
+Regularization	Ridge Regularization	Lasso Regularization	L2 Regularization	Dropout Regularization	Regularization Penalty
+Regularization Penalty	Repetition Penalty	Frequency Penalty	Penalty Function	Regularization	Distributed Systems
+Reinforcement Learning	Multi-Agent Reinforcement Learning	Inverse Reinforcement Learning	Reinforcement Learning from Human Feedback	Reinforcement Learning from AI Feedback	Unsupervised Learning
+Reinforcement Learning from AI Feedback	Reinforcement Learning from Human Feedback	Reinforcement Learning	AI 反馈强化学习	Inverse Reinforcement Learning	Multi-Agent Reinforcement Learning
+Reinforcement Learning from Human Feedback	Reinforcement Learning from AI Feedback	Reinforcement Learning	Inverse Reinforcement Learning	Self-Supervised Learning	Multi-Agent Reinforcement Learning
+Relational Database	Distributed Database	Database Migration	Database Table	Graph Database	Database Field
+Release Management	Software Release	Version Control	Canary Release	Application Development	Software Program
+ReLU	Rerank	REPL	ResNet	Flutter	Repo
+Remote Repository	Repository	Repo	Prompt Injection	Regularization	Dropout Regularization
+Rendering	Ridge Regularization	Recommender System	REPL	Reflexion	Regularization
+Repetition Penalty	Regularization Penalty	Frequency Penalty	Penalty Function	Regularization	Instruction Tuning
+REPL	REST API	React	Repo	ReLU	Rebase
+Repo	Repository	REPL	React	Regularization	Inference
+Repository	Remote Repository	Repo	Regularization	Dropout Regularization	Concurrency
+Representation Learning	Unsupervised Learning	Ensemble Learning	Imitation Learning	Transfer Learning	Continual Learning
+Request Body	Pull Request	Request Header	HTTP Request	Request Timeout	JSON Web Token
+Request Header	Pull Request	Request Body	Request Timeout	API Request	HTTP Request
+Request Timeout	Pull Request	Request Body	Request Header	HTTP Request	API Request
+Requirements Engineering	Prompt Engineering	Loop Engineering	Model Deployment	Gated Recurrent Unit	Feature Engineering
+Rerank	PageRank	RAG	ResNet	ReWOO	ReLU
+Residual Connection	Residual Network	Continuous Integration	Linked List	Connectionism	Generative Adversarial Network
+Residual Network	Residual Connection	Capsule Network	Citation Network	Generative Adversarial Network	Semantic Web
+ResNet	Rerank	ReLU	ReWOO	React	PageRank
+Responsible AI	Explainable AI	Constitutional AI	Generative AI	AI Coding Assistant	AI Planning
+Responsive Design	Responsive Web Design	Compiler Design	Reasoning Model	Design Pattern	Action Recognition
+Responsive Web Design	Responsive Design	Web Components	Compiler Design	Reasoning Model	Web Scraping
+REST API	REPL	模型 API	API Request	Model API	NestJS
+Result Reproduction	Adversarial Examples	Explainability	Denoising Diffusion Probabilistic Model	Reasoning Model	Regression Test
+Retrieval-Augmented Generation	GAN Generator	Generative Adversarial Network	Observation Space	Generative QA	Browser Extension
+Retriever	Information Retrieval	Traversal	Concurrency	ResNet	REPL
+Retry Logic	Log Analysis	Retry Mechanism	Linked List	Graph Data Structure	Directory Structure
+Retry Mechanism	Retry Logic	Gating Mechanism	Residual Connection	Attention Mechanism	Cross-Encoder Reranking
+Return Statement	Return Value	Backend	State Reset	Conditional Statement	Commit Message
+Return Value	Value Function	Return Statement	Backend	Cost Function	Reward Function
+Reverse Proxy	Proxy	ReLU	Backpropagation	HAProxy	Inverse Reinforcement Learning
+Reward Function	Reward Modeling	Forward Propagation	Reward Shaping	Backup System	Backend
+Reward Modeling	Reward Function	Forward Propagation	Reward Shaping	Reasoning Model	Model Stealing
+Reward Shaping	Forward Propagation	Reward Modeling	Reward Function	Backpropagation	Sharding
+ReWOO	Rerank	RLAIF	RAG	YOLO	Kotlin
+Ridge Regression	Ridge Regularization	Regression Test	Regularization	Lasso Regression	Greedy Decoding
+Ridge Regularization	Ridge Regression	Regularization	L2 Regularization	Dropout Regularization	Deserialization
+RISC-V	RISC-V（开源指令集架构）	Intelligent Risk Control
+RISC-V（开源指令集架构）	gRPC（高性能远程过程调用框架）	Iris（Go Web 框架）	Vuetify（Vue UI 组件库）	JDBC（Java 数据库连接标准）	Eclipse Vert.x（JVM 响应式应用框架）
+RL	RRF	RLHF	RLAIF	RAG	DML
+RL Observation	Ridge Regression	Observation Space	NoSQL	Region Proposal	Ridge Regularization
+RLAIF	RL	RRF	RLHF	ReWOO	LayerNorm
+RLHF	BGD	RL	RLAIF	BF16	DQN
+RNN	RLHF	RRF	ReLU	NeRF	RAG
+Robot Framework	Frontend Framework	Framework	Robotics	Agent Framework	Module Bundler
+Robot Framework（通用自动化测试框架）	Gradle（自动化构建工具）	Playwright（浏览器自动化/E2E 测试框架）	Puppeteer（Node.js 浏览器自动化库）	Robot Framework	Gulp（前端自动化构建工具）
+Robotics	Robot Framework	Routing	Semantic Role Labeling	Role Specialization	Role Prompting
+Role Assignment	Role Prompting	Role Specialization	Routing	Positional Encoding	Frontend Routing
+Role Prompting	Few-shot Prompting	Prompt	Prompt Template	Routing	Role Assignment
+Role Specialization	Role Assignment	Routing	Feature Attribution	Role Prompting	Least Privilege
+Room (Android Persistence Library)	Room（Android 数据库库）	Android Studio	Master-Slave Architecture	中文房间	Object Storage
+Room（Android 数据库库）	Room (Android Persistence Library)	BigQuery（云数据仓库）	中文房间	Android Studio	数据库
+ROUGE	Routing	Role Assignment	Router	BLEU	Role Prompting
+Router	ROUGE	Role Assignment	Routing	Nostr	Role Specialization
+Routing	Role Prompting	Frontend Routing	ROUGE	Role Specialization	Role Assignment
+RPA	IPC	gRPC	NPU	BPE	JDBC
+RRF	RL	CSRF	NeRF	RLAIF	RLHF
+RSA Algorithm	RSA加密算法	Algorithm	Greedy Algorithm	Sorting Algorithms	RLAIF
+RSA加密算法	RSA Algorithm	加密	ssh-keygen	对称加密	非对称加密
+Ruby	Scala	Framework	Proxy	Bulma	Evals
+Ruby（编程语言）	Kotlin（编程语言）	C#（编程语言）	Scala（编程语言）	Perl（编程语言）	编程语法
+Runtime	Runtime Protection	Runtime Reflection	Underfitting	TTS	Overfitting
+Runtime Protection	Runtime Reflection	Runtime	Compile Time	Variable Scope	Regression Test
+Runtime Reflection	Runtime Protection	Reflexion	Reflexion Loop	Reflective Programming	Merge Conflict
+S3 Bucket	Drupal	BF16	Bucket Sort	Kubernetes	Reciprocal Rank Fusion
+SaaS	Azure	AWS	Software	Cloud Server	Server
+Safety Alignment	AI Safety Cascade	Thread Safety	Compiler Design	Cross-modal Alignment	Adversarial Attack and Defense
+Sampling	Explainability	REPL	RAG Evaluation	Whisper	Sampling Parameters
+Sampling Parameters	Parameter Count	Generation Parameters	Hyperparameter	Full-parameter Fine-tuning	Model Parameter
+Sampling Temperature	LLM Temperature	Prompt Template	Role Prompting	Prompt Engineering	Tensor
+Sandbox	Sandstorm	Scala	Pulumi	DBSCAN	ASI
+Sandstorm	Sandbox	Sandstorm（自托管 Web 应用平台）	Rerank	LeakyReLU	BERT
+Sandstorm（自托管 Web 应用平台）	Sandstorm	Kind（Kubernetes 本地集群工具）	Tauri（Rust 桌面应用框架）	Netlify（静态网站托管/Serverless 平台）	XGBoost（梯度提升树库）
+Scala	GRU	SLA	RAG	Debian	Zig
+Scala（编程语言）	Kotlin（编程语言）	Ruby（编程语言）	Fortran（编程语言）	Perl（编程语言）	编程算法
+Scaling Laws	Chinchilla Scaling Law	Lexical Scope	Conditional Statement	Deterministic Verification	Constant Folding
+SciPy	SciPy（科学计算库）	检索器	Wikidata	DDPM	Information Retrieval
+SciPy（科学计算库）	SciPy	NumPy（Python 科学计算库）	Wikidata（开放知识库）	PyCharm（Python 集成开发环境）	spaCy（自然语言处理库）
+Scrum	IDE	Azure	Framework	Distribution Shift	ASR
+Scrum Sprint	Sprint Deliverable	Model Transparency	Agile Sprint	Model Serving	Spec-Driven Development
+Search Algorithm	Semantic Search	Hybrid Search	Depth-First Search	Beam Search	Sorting Algorithms
+Second-Loop Meta-Cognition	Selective Meta-Cognition	Low-Rank Adaptation	Breadth-First Search	L2 Regularization	Depth-First Search
+Selective Meta-Cognition	Second-Loop Meta-Cognition	Meta Learning	Optical Character Recognition	Role Assignment	Chain-of-Thought
+Self-Attention	Self-Consistency	Self-Reflection	Self-Refine	Self-Play	Self-Supervised Learning
+Self-Consistency	Self-Attention	Self-Reflection	Self-Refine	Self-Play	Self-Repair Loop
+Self-Criticism	Self-Consistency	Self-Attention	Self-Reflection	Self-Refine	Actor-Critic
+Self-Play	Self-Attention	Self-Consistency	Self-Supervised Learning	Self-Refine	Self-Reflection
+Self-Refine	Self-Reflection	Self-Attention	Self-Consistency	Self-Play	Self-Repair Loop
+Self-Reflection	Self-Attention	Self-Refine	Self-Consistency	Recursive Self-Improvement	Self-Repair Loop
+Self-Repair Loop	Recursive Self-Improvement	Self-Consistency	Self-Reflection	ReAct Loop	Self-Refine
+Self-Supervised Learning	Supervised Learning	Semi-supervised Learning	Unsupervised Learning	Multi-Agent Reinforcement Learning	Self-Play
+Semantic Chunking	Chunking	RAG Chunking	Prompt Chaining	Overlapping Chunking	Recursive Chunking
+Semantic HTML	Semantic Web	Semantic Versioning	Code Style	HTML Tag	Code Comments
+Semantic Memory	Episodic Memory	Memory Management	Computer Memory	Agentic SDLC	Long-Term Memory
+Semantic Role Labeling	Role Prompting	Role Specialization	Agent Role Playing	Robotics	Routing
+Semantic Search	Hybrid Search	Depth-First Search	Beam Search	Binary Search	集束搜索
+Semantic Similarity	Cosine Similarity	Serialization	Semantic Versioning	Sentence Embedding	Lasso Regularization
+Semantic Versioning	Model Versioning	Version Number	Semantic HTML	Assembly Language	Version Control
+Semantic Web	Semantic HTML	Residual Network	Semantic Search	Context Engineering	Web Components
+Semaphore	Simultaneous Localization and Mapping	Semantic Web	Semantic Search	UMAP	ArrayList
+Semi-supervised Learning	Supervised Learning	Unsupervised Learning	Self-Supervised Learning	Ensemble Learning	Representation Learning
+Sentence Embedding	Embedding	Embedding Model	SentencePiece	Explainability	Denoising Diffusion Probabilistic Model
+SentencePiece	Sentence Embedding	Certificate Expiration	Sequence-to-Sequence	Sentiment Analysis	Constant Variable
+Sentiment Analysis	Principal Component Analysis	Experiment Tracking	Comment Analysis	Trace Debugging	SentencePiece
+SEO (Search Engine Optimization)	搜索引擎优化（SEO）	搜索引擎	搜索算法	检索器	Semantic Search
+Seq2Seq	DQN	TTS	HAProxy	Crawl4AI	Clojure
+Sequence-to-Sequence	Constant Variable	Constant Folding	Regularization	SentencePiece	Fine-tuning
+Serial Communication	Serialization	Serial Port	Generative Adversarial Network	Adversarial Examples	Semantic Versioning
+Serial Port	Serialization	Serial Communication	Regression Test	Extractive QA	Adversarial Attacks
+Serialization	Serial Communication	Serial Port	Semantic Similarity	Lasso Regularization	Adversarial Examples
+Server	Serverless	Client-Server	Cloud Server	AWS	Cache
+Serverless	Server	Client-Server	Serverless Computing	Cloud Server	Network Probe
+Serverless Computing	Serverless	Computer Vision	无服务器计算	Computer Network	Client-Server
+Session Management	Process Management	HTTP Session	Memory Management	Access Control	Data Type
+Set Data Structure	Data Structure	Data Structures	Graph Data Structure	Data Storage	Data Type
+SFT	SGD	DML	ZeRO	Scala	PEFT
+SGD	RAG	SLAM	SFT	SLA	Vercel
+SHAP	Heap	Sharding	SLAM	Callback	React
+SHapley Additive exPlanations	Explainability	Sentence Embedding	Sampling	Stable Sort	Named Entity Recognition
+Sharding	SHAP	BERT	Greedy Decoding	Stable Sort	Reward Shaping
+shebang	ASI	Chunking	HAProxy	SHAP	Kanban
+Shell	Shell Script	shell脚本	IDE	OS	ssh
+Shell Script	shell脚本	Shell	Programming Script	Window Function	Private IP
+shell脚本	Shell Script	Shell	脚本 编程	Perl（编程语言）	编程模块
+Short-Term Memory	Long Short-Term Memory	Long-Term Memory	Semantic Memory	Shortcut Key	Computer Memory
+Shortcut Key	Short-Term Memory	Foreign Key	Package Dependency	Long Short-Term Memory	Password Hashing
+Sigmoid	vLLM	Option Type	Module Bundler	MLOps	NoSQL
+SiLU Activation	Lasso Regularization	Encapsulation	Cosine Similarity	PRAR Loop	Semantic Similarity
+Simultaneous Localization and Mapping	Semaphore	Local Interpretable Model-agnostic Explanations	Data Pipeline	Semantic Similarity	Port Mapping
+Single Page Application	Closed Source	Linked List	Inverted File	Access Control	Version Number
+Single-Agent	Multi-Agent	Stateful Single-Agent Workflow	Multi-Agent Development	Multi-Agent System	Multi-Agent Orchestration
+SLA	Scala	Syntax	RLAIF	SLAM	GRU
+SLAM	SLA	SHAP	Heap	SGD	Ollama
+SLAM (Simultaneous Localization and Mapping)	即时定位与地图构建（SLAM）	Simultaneous Localization and Mapping	SLAM	Multilayer Perceptron	Cryptographic Salt
+Sliding Window	Window Function	Variable Scope	Full-parameter Fine-tuning	Frontend Framework	Constant Folding
+Slow Query	Query Rewriting	Question Answering	Visual Question Answering	Queue	Long-chain Reasoning
+Smart City	Smart Healthcare	Smart Education	智能体	Model Card	Modality Fusion
+Smart Education	Smart City	Smart Healthcare	Application Development	智能体	Software Specification
+Smart Healthcare	Smart City	Smart Education	Health Check	Agent Security	智能体
+Socket.IO	Socket.IO（实时 Web 通信库）	HTTP Client	Express.js	HTTP Request	HTTP Session
+Socket.IO（实时 Web 通信库）	Socket.IO	PHP（服务端脚本语言）	Express（Node.js Web 框架）	NetBox（IPAM/DCIM 网络基础设施管理工具）	Web Components（Web 组件标准）
+Software	Software Program	Software Library	Framework	Software Release	Software Package
+Software Architecture	System Architecture	Software Component	Software Specification	Software Program	Software Deployment
+Software Component	Software Requirement	Software Specification	Software Deployment	Software Program	Software Architecture
+Software Deliverable	Software Requirement	Software Component	Software Specification	Software Deployment	Software Package
+Software Deployment	Software Requirement	Software Specification	Software Component	Software Testing	Software Deliverable
+Software Library	Software Program	Software Release	Software Package	Software Module	Software Specification
+Software Module	Software Package	Software Library	Software Program	Software Release	Software Specification
+Software Package	Software Library	Software Program	Software Module	Software Release	Software Specification
+Software Program	Software Library	Software Package	Software Specification	Software Release	Software Module
+Software Release	Software Library	Software Package	Software Program	Software Module	Software Specification
+Software Requirement	Software Deployment	Software Deliverable	Software Component	Software Specification	Software Testing
+Software Specification	Software Program	Software Package	Software Deployment	Software Library	Software Module
+Software Testing	Software Specification	Software Deployment	Turing Test	Software Component	Software Program
+Solana	Ollama	LoRA	SLA	Latency	HyDE
+Solana（区块链平台）	Terraform（基础设施即代码工具）	Livewire（Laravel 全栈框架）	Laravel（PHP Web 框架）	FastAPI（Python 异步 Web 框架）	Moleculer（Node.js 微服务框架）
+Solidity	Encoding	PyTorch	Traversal	PyCharm	vibecoding
+Solidity（智能合约编程语言）	智能编程	智能体编排	Tauri（Rust 桌面应用框架）	智能体自主性	Gradle（自动化构建工具）
+Sorting Algorithm	Sorting Algorithms	Algorithm	Consensus Algorithm	Graph Algorithms	Greedy Algorithm
+Sorting Algorithms	Sorting Algorithm	Algorithm	Graph Algorithms	Greedy Algorithm	Consensus Algorithm
+Source Code	Code Library	Open Source	Code Editor	Code Style	Closed Source
+SPA	spaCy	ISP	Sparse Retrieval	Health Check	OS
+Space Complexity	Observation Space	Time Complexity	Continuous Integration	Task Planning	Compile Time
+spaCy	Sparse Retrieval	Elixir	Latency	ROUGE	CUDA
+spaCy（自然语言处理库）	自然语言处理	NumPy（Python 科学计算库）	Puppeteer（Node.js 浏览器自动化库）	Streamlit（数据应用框架）	Natural Language Processing
+Sparse Retrieval	spaCy	Parser	Least Privilege	Container	Role Assignment
+Spec-Driven Development	Specification-Driven Development	Agile Software Development	Event-Driven	Agentic Software Development Lifecycle	Software Specification
+Specification-Driven Development	Spec-Driven Development	Event-Driven	Software Specification	Agile Software Development	Agentic Software Development Lifecycle
+Speculative Decoding	Greedy Decoding	Denoising Diffusion Probabilistic Model	Reasoning Model	Explainability	React Component
+Speech Model	Model Stealing	Embedding Model	Model Deployment	Actor Model	Model Evaluation
+Spiking Neural Network	Recurrent Neural Network	Neural Network	Neural Radiance Field	Artificial Neural Network	Neural Architecture Search
+Sprint Deliverable	Agile Sprint	Scrum Sprint	Hybrid Retrieval	Information Retrieval	Dependency Injection
+SQL	SQLite	SQL Alias	SQL Table	SQL Column	SQL Join
+SQL Alias	SQL Table	SQL Column	SQLite	SQL Join	SQL
+SQL Column	SQL Table	SQL Join	SQL Alias	SQL Injection	SQL Row
+SQL Injection	SQL Column	SQL Query	SQL Table	SQL Join	SQL Alias
+SQL Join	SQL Column	SQL Table	SQL Alias	SQL Injection	SQLite
+SQL Query	SQL Injection	SQL Column	SQL Table	SQL Alias	Database Query
+SQL Row	SQL Column	SQL Table	SQL Alias	SQL Join	SQL
+SQL Table	SQL Column	SQL Alias	SQLite	SQL Join	Microsoft SQL Server
+SQL 注入	SQL查询	SQL Alias	SQL Column	SQL Table	SQL Join
+SQLite	SQL Table	SQL Alias	SQL	Microsoft SQL Server	SQL Column
+SQL查询	数据库查询	SQL 注入	SQLite	数据库索引	SQL Table
+SRE (Site Reliability Engineering)	站点可靠性工程（SRE）	Verification Signal Priority	Prompt Engineering	Responsive Web Design	Serial Port
+SRL	RL	GraphQL	RLHF	NoSQL	gRPC
+ssh	ssh-keygen	SSL	IDE	TCP	VPN
+ssh-keygen	ssh	APT Package Manager	JSON Mode	AWS API Gateway	SSL
+SSL	SSL证书	ssh	SSL Certificate	TCP	VPN
+SSL Certificate	SSL证书	SSL	传输层安全协议	Internet Protocol Address	TLS Certificate
+SSL证书	SSL Certificate	SSL	传输层安全协议	TCP Port	授权认证
+Stable Diffusion	Diffusion Model	Denoising Diffusion Probabilistic Model	Differentiable Programming	Stable Sort	Discount Factor
+Stable Sort	Bubble Sort	Stable Diffusion	Explainability	Merge Sort	Constant Variable
+Stack	LAMP Stack	Model Stacking	Stacking Ensemble	GRU	Nette
+Stacking Ensemble	Model Stacking	LAMP Stack	Weakly Typed	Stack	Prompt Injection
+Staging Area	Agile Software Development	Variable Scope	Receptive Field	Graph Database	Angular
+Standard ML (SML)	Standard ML（SML）	Standard Streams	Code Migration	Quality Verification	Prompt-as-a-Product
+Standard ML（SML）	Standard ML (SML)	Standard Streams	Quality Verification	Code Migration	BPE
+Standard Streams	Streaming	Streamlit	流式输出	Streamlit（数据应用框架）	Data Throughput
+State Machine	State Machine Graph	State Management	Machine Translation	Machine Learning	Machine Perception
+State Machine Graph	State Machine	Machine Translation	Machine Perception	Quantum Machine Learning	Support Vector Machine
+State Management	State Reset	State Machine	Relational Database	Process Management	Software
+State Reset	State Management	Frequency Penalty	Named Entity Recognition	Action Recognition	Region Proposal
+Stateful Single-Agent Workflow	Agentic Workflow	Agent Workflow	Multi-Agent Collaboration Framework	Single-Agent	Multi-Agent Collaboration
+Status Code	Code Comments	Code Style	Binary Code	Code Review	Deterministic Verification
+Stochastic Gradient Descent	Gradient Descent	Batch Gradient Descent	Exploding Gradient	Gradient Explosion	Mini-batch Gradient Descent
+Stop Sequence	Closed Loop	Bounded Execution	停止词	Reflexion Loop	Recursion
+Storage System	Data Storage	localStorage	Object Storage	Memory Management	Semantic Memory
+Streaming	Streamlit	Standard Streams	Streamlit（数据应用框架）	流式输出	流式响应
+Streamlit	Streaming	Standard Streams	Streamlit（数据应用框架）	Process Fork	TypeScript
+Streamlit（数据应用框架）	Streamlit	BigQuery（云数据仓库）	数据管道	数据库视图	数据结构
+String Data Type	Data Type	String Manipulation	Float Data Type	Data Export	JSON Mode
+String Manipulation	String Data Type	Float Data Type	矩阵运算	Bit Manipulation	JSON Mode
+Strongly Typed	Weakly Typed	Constant Folding	Model Stealing	Constant Variable	TypeScript
+Structured Output	Output Parsing	结构化输出	Directory Structure	Gated Recurrent Unit	Rectified Linear Unit
+Subagent	Emergent Behavior	Rerank	MegEngine	Chunking	Subgoal
+Subgoal	Rerank	Kubernetes	Kubernetes Kind	Encoding	libcurl
+Super Resolution	Recursion	Reflexion	Gated Recurrent Unit	Reverse Proxy	Artificial Superintelligence
+Supervised Learning	Semi-supervised Learning	Self-Supervised Learning	Unsupervised Learning	Ensemble Learning	Q-Learning
+Support Vector Machine	Vector Database	Vector	Vector Index	Feature Vector	State Machine Graph
+SVM	LLVM	Scala	LLM Agent	Syntax	React
+Swap Space	Observation Space	Network Throughput	Browser Extension	Stable Sort	Prompt Leakage
+Swarm Intelligence	Collective Intelligence	Artificial Intelligence	Embodied Intelligence	Artificial General Intelligence	Artificial Narrow Intelligence
+Swift	Framework	Swift（编程语言）	Proxy	ASR	Azure
+Swift（编程语言）	C#（编程语言）	Ruby（编程语言）	Kotlin（编程语言）	Swift	Visual Basic（编程语言）
+Swing (Java GUI toolkit)	Swing（Java 图形界面工具包）	Groovy（JVM 脚本语言）	JavaFX	SVM	Flask（Python Web 框架）
+Swing（Java 图形界面工具包）	Swing (Java GUI toolkit)	Jetpack Compose（Android 声明式 UI 工具包）	JavaFX	Groovy（JVM 脚本语言）	Eclipse Vert.x（JVM 响应式应用框架）
+Swish Activation Function	Activation Function	Loss Function	Function Calling	Penalty Function	React Component
+Symbolic AI	Neuro-Symbolic AI	Pydantic AI	Semantic Chunking	AI Guardrails	Constitutional AI
+Symmetric Encryption	Asymmetric Encryption	Encryption	Homomorphic Encryption	Dependency Injection	Encapsulation
+Syntax	SLA	t-SNE	DQN	FP16	SVM
+Synthetic Data	Dynamic Programming	Graph Data Structure	Simultaneous Localization and Mapping	Semantic Similarity	Async
+System Architecture	Software Architecture	Master-Slave Architecture	Build System	Neural Architecture Search	Cognitive Architecture
+System Call	Operating System Process	Function Calling	Callback	Operating System	DELETE
+System Monitoring	Model Monitoring	Monitoring Alert	Application Monitoring	系统监控	Model-View-Controller
+System Prompt	Prompt	Prompt Template	Prompt缓存	Prompt Chaining	Prompt Injection
+t-SNE	TLS	Fine-tuning	TGI	DQN	Rerank
+t-分布随机邻域嵌入	P-D-E-R 闭环	向量嵌入	嵌入模型	确定性验证	L2 Regularization
+Tab Completion	Tab 补全	Task Planning	Task Scheduling	L2 Regularization	梯度提升
+Tab 补全	Tab Completion	自动补全	Backend Framework	Edge AI	Task Scheduling
+Tanh	GAN	RAG	LangChain	Nim	ASI
+Task Decomposition	Task Scheduling	Task Planning	Explainability	Prompt Injection	Denoising Diffusion Probabilistic Model
+Task Planning	Task Scheduling	Task Decomposition	Tab Completion	Masked Language Modeling	Speech Model
+Task Scheduling	Task Planning	Task Decomposition	Process Scheduling	Gating Mechanism	Role Prompting
+Tauri	Traefik	TPU	Bulma	GRU	TGI
+Tauri（Rust 桌面应用框架）	Electron（跨平台桌面应用框架）	Streamlit（数据应用框架）	PyTorch（深度学习框架）	Ghidra（逆向工程框架）	Tauri
+TCP	TCP Port	SSL	ssh	UDP	HTTP Session
+TCP Port	TCP	Public IP	Private IP	传输层安全协议	Network Port
+TDD	DML	BGD	FSDP	TGI	RLHF
+Technical Debt	Requirements Engineering	Trace Debugging	Explainability	Encryption	Attention Mechanism
+Tensor	TensorFlow	Prompt Template	Terraform	Constant Folding	Constant Variable
+Tensor Parallelism	Pipeline Parallelism	Model Parallelism	Parallel Processing	Data Parallelism	Deserialization
+TensorFlow	Tensor	Prompt Template	Constant Variable	Interrupt	Prompt
+TensorRT-LLM	Multimodal LLM	LLM Agent	LSTM	LLM Temperature	LLM
+Terminal Emulator	Command Line Terminal	Model Transparency	Model Deployment	Command Line Option	Boundary Constraints
+Terraform	Tensor	Dropout Layer	Gradle	Prompt Leakage	LeakyReLU
+Terraform（基础设施即代码工具）	LLVM（编译器基础设施）	PyCharm（Python 集成开发环境）	Gulp（前端自动化构建工具）	Gradle（自动化构建工具）	PyTorch（深度学习框架）
+Test Set	Turing Test	Regression Test	A/B Testing	Testing Environment	Software Testing
+Test-time Compute	Time Complexity	Computer Memory	Compile Time	Computational Complexity	Computer Program
+Testing Environment	Turing Test	测试环境	Test Set	Software Testing	A/B Testing
+Text Chunking	Text-to-Image	Text-to-Speech	Text Editor	Text Generation	Text-to-Audio
+Text Classification	Text Generation	Text Editor	Code Style	Text Generation Inference	Text-to-Image
+Text Editor	Code Editor	Text Generation	Text Classification	Text-to-Video	Text Chunking
+Text Generation	Text Generation Inference	Code Generation	Text Classification	Text Summarization	Text Editor
+Text Generation Inference	Text Generation	Text Classification	Code Generation	Generation Parameters	Integration Test
+Text Summarization	Document Summarization	Text Generation	Text Classification	Text Generation Inference	Context Menu
+Text-to-Audio	Text-to-Video	Text-to-Image	Text Chunking	Text-to-Speech	Text Classification
+Text-to-Image	Text-to-Video	Text-to-Audio	Text-to-Speech	Text Chunking	Text Classification
+Text-to-Speech	Text-to-Image	Text Chunking	Text-to-Audio	Text-to-Video	Text Generation
+Text-to-Video	Text-to-Audio	Text-to-Image	Text Editor	Text Classification	Text-to-Speech
+TF-IDF	n-gram	批大小	XGBoost	Sigmoid	TLS
+TGI	TLS	t-SNE	TRPO	TPU	Traefik
+Thread Safety	AI Safety Cascade	Safety Alignment	运行时防护	Process Scheduling	Brain Floating Point
+Three-way Handshake	Three.js	Subagent	Swish Activation Function	Backdoor Attack	BoW
+Three.js	Three.js（WebGL 3D 渲染库）	Discord.js	Semantic HTML	NestJS	Express.js
+Three.js（WebGL 3D 渲染库）	Three.js	Next.js（React 全栈 Web 框架）	HTML5 画布（Canvas API）	Bulma（CSS 框架）	3D渲染
+Time Complexity	Compile Time	Test-time Compute	Network Timeout	Short-Term Memory	Computational Complexity
+Time Series Database	Graph Database	Database Table	Set Data Structure	Distributed Database	Data Structure
+TinyML	HAProxy	CAPTCHA	libcurl	Chunking	LangChain
+TLS	TGI	t-SNE	TRPO	Tuple	Traefik
+TLS Certificate	Certificate Expiration	TLS	Verification Signal Priority	Constant Folding	Role Assignment
+Token	Tokenizer	max_tokens	ToT	JSON Web Token	TGI
+Tokenizer	max_tokens	Token	JSON Web Token	Prompt Injection	Backdoor Attack
+Tool Call Error Recovery	Tool Calling Loop	Tool Calling	Gaussian Error Linear Unit	Error Handling	工具调用错误恢复
+Tool Calling	Tool Calling Loop	Parallel Tool Calls	Tool Use	Tool Use Loop	Function Calling
+Tool Calling Loop	Tool Calling	Tool Use Loop	Parallel Tool Calls	Loss Function	PRAR Loop
+Tool Definition	Tool Description	Tool Use	Tool Use Loop	Tool Calling	Tool Calling Loop
+Tool Description	Tool Definition	Tool Use	Tool Use Loop	Tool Calling	Speculative Decoding
+Tool Use	Tool Use Loop	Tool Definition	Tool Description	Tool Calling	Tool Calling Loop
+Tool Use Loop	Tool Use	Tool Calling Loop	Tool Definition	Tool Description	Tool Calling
+Top-K	Top-P	BigQuery	t-SNE	TLS	Nostr
+Top-P	Top-K	Nostr	t-SNE	TLS	Constant Variable
+ToT	CoT	TTS	Token	TGI	Drupal
+TPU	TGI	Tauri	TLS	Traefik	t-SNE
+Trace Debugging	Debug	Bounded Execution	Dropout Regularization	Frontend Routing	Dependency Injection
+Traefik	TLS	Tauri	Rerank	Kotlin	TGI
+Training Convergence	Distributed Training	Training Set	Adversarial Training	Boundary Constraints	Quantization Aware Training
+Training Loss	Training Set	Distributed Training	Adversarial Training	Post-training	Training Convergence
+Training Set	Distributed Training	Training Convergence	Training Loss	Post-training	Pre-training
+Transaction Management	Transaction Rollback	Model Transparency	Transfer Learning	Container Service	Trust Region Policy Optimization
+Transaction Rollback	Frontend Routing	Routing	Traversal	Role Assignment	Distributed Tracing
+Transfer Learning	Representation Learning	Unsupervised Learning	Ensemble Learning	Imitation Learning	Continual Learning
+Transformer	Transformer模型	Model Transparency	Rerank	PageRank	Changelog
+Transformer模型	Transformer	Model Transparency	Model Evaluation	模型版本	Model Versioning
+Traversal	Gradle	Retriever	TLS	Frontend Routing	Routing
+Tree Data Structure	Set Data Structure	Data Structures	Data Structure	Language Agent Tree Search	Graph Data Structure
+Tree of Thoughts	Tree Data Structure	Binary Tree	二叉树	Language Agent Tree Search	OAuth
+TRPO	gRPC	TGI	TLS	CoT	Prompt
+Trust Region Policy Optimization	Policy Gradient	Instruction Tuning	AI Governance & Regulation	Proximal Policy Optimization	Repetition Penalty
+TTS	TRPO	CoT	TLS	Seq2Seq	CSRF
+Tuple	Drupal	TLS	Role Prompting	Distributed Tracing	Instruction Tuning
+Turing Test	Regression Test	Test Set	Integration Test	Testing Environment	Software Testing
+Two-Factor Authentication	Discount Factor	Refactoring	L2 Regularization	Authentication	Permission Boundary
+TypeScript	Option Type	Interrupt	Strongly Typed	ECMAScript	Object Storage
+Ubuntu	Docker	AWS	dockerode	Redis	OS
+UDP	UMAP	TCP	超文本传输协议	NetBox	JSON
+UEFI	UEFI（统一可扩展固件接口）	UDP	UMAP	BF16	Stack
+UEFI（统一可扩展固件接口）	Tauri（Rust 桌面应用框架）	IPFS（星际文件系统）	编程插入符	UEFI	Netlify（静态网站托管/Serverless 平台）
+UI Icon	App Icon	DOM	Flutter（跨平台移动 UI 框架）	User Interface	HTML5 画布（Canvas API）
+UMAP	UDP	Semaphore	GRU	TGI	n-gram
+Underfitting	Overfitting	Runtime	Load Balancer	Gating Mechanism	Model Stacking
+Uniform Manifold Approximation and Projection	Denoising Diffusion Probabilistic Model	Local Interpretable Model-agnostic Explanations	Unsupervised Learning	Deterministic Verification	Continuous Integration
+Unit Test	Unit Testing	Turing Test	Regression Test	Actor Model	单元测试
+Unit Testing	Unit Test	单元测试	Turing Test	测试集	Software Testing
+Unity	Ubuntu	Docker	GPU	Hadoop	Unity（游戏引擎）
+Unity（游戏引擎）	Unity	Phaser（HTML5 2D 游戏框架）	Gulp（前端自动化构建工具）	Flutter（跨平台移动 UI 框架）	OpenGL（跨平台图形渲染 API）
+Unix Daemon	Unix Pipe	Daemon Process	System Prompt	软件部署	Robot Framework
+Unix Pipe	Unix Daemon	Software Component	Robot Framework	PCA	PDCA
+Unsupervised Learning	Representation Learning	Supervised Learning	Semi-supervised Learning	Ensemble Learning	Curriculum Learning
+URL	IPv6	HTTP	CDN	HTTPS	HTTP Client
+User Experience	User Interface	Software Testing	Turing Test	User Mode	用户态
+User Interface	Interface	User Experience	User Mode	Interrupt	Interpreter
+User Mode	User Interface	Window Function	Interface	Lock file	System Call
+UTF-8	Big Data	UDP	Batch Size	字符编码	Foreign Key
+VAE	Vagrant	MoE	ROUGE	Elixir	Vibe Coding
+Vagrant	VAE	Angular	BGD	LangGraph	Gradle
+Value Alignment	Value Function	AI Alignment	Cross-modal Alignment	Return Value	Data Fetching
+Value Function	Cost Function	Return Value	Loss Function	Value Alignment	Function Argument
+Vanishing Gradient	Exploding Gradient	Gradient Accumulation	Gradient Explosion	Mixture of Experts	Mixture-of-Experts
+Variable Scope	Constant Variable	Random Variable	Lexical Scope	Constant Folding	Generation Parameters
+Variational Autoencoder	Cross-Encoder Reranking	CodeIgniter	Code Scaffolding	自动代码生成	Code Migration
+VBA	VLM	VQA	VBA（Visual Basic for Applications）	Vue	Lisp
+VBA（Visual Basic for Applications）	Visual Basic（编程语言）	Visual Basic	VBA	Vuetify（Vue UI 组件库）	Vue
+Vector	Vector Index	Vector Database	Feature Vector	Support Vector Machine	Convergence Rate
+Vector Database	Vector Index	Vector	Support Vector Machine	Feature Vector	Graph Database
+Vector Index	Vector	Vector Database	Feature Vector	Support Vector Machine	Refactoring
+Vercel	Scala	RRF	Nostr	Zig	LangGraph
+Vercel（前端部署平台）	Frontend Masters（前端学习平台）	前端组件	Frontend Mentor（前端练习平台）	前端视图	前端框架
+Verification Signal Priority	Feature Attribution	Certificate Expiration	Quality Verification	Conditional Statement	Dense Retrieval
+Version Control	Model Version	Release Management	Model Versioning	Version Number	Semantic Versioning
+Version Number	Semantic Versioning	Model Version	Version Control	Code Style	Code Library
+Vibe Coding	vibecoding	Encoding	BERT	JIT Compiler	Vite
+vibecoding	Vibe Coding	Encoding	Vite	Nette	Behaviorism
+Video Memory	Content Moderation	Semantic Memory	Short-Term Memory	Video World Model	Video Understanding
+Video Understanding	Image Segmentation	Video World Model	Constant Folding	Video Memory	Constant Variable
+Video World Model	World Model	Video Understanding	Video Memory	Actor Model	Speech Model
+Virtual DOM	虚拟 DOM	Virtual Machine	Virtual Memory	虚拟机	虚拟专用网络
+Virtual Machine	Virtual Memory	Virtual DOM	虚拟机	虚拟 DOM	Machine Learning
+Virtual Memory	Virtual Machine	Virtual DOM	虚拟机	Memory Management	Semantic Memory
+Vision Model	Model Switch	Model Card	Vision-Language Model	Speech Model	Model Serving
+Vision-Language Model	Language Model	Large Language Model	Masked Language Modeling	大语言模型	Contrastive Language-Image Pre-training
+Visual Basic	Visual Studio	Visual Studio Code	Visual Basic（编程语言）	Visual Studio（微软集成开发环境）	Visual Studio Code（代码编辑器）
+Visual Basic（编程语言）	Visual Basic	C#（编程语言）	Visual Studio Code（代码编辑器）	Visual Studio（微软集成开发环境）	VBA（Visual Basic for Applications）
+Visual Question Answering	Question Answering	Query Rewriting	Knowledge Distillation	Ansible	Query-Key-Value
+Visual Studio	Visual Studio Code	Visual Basic	Visual Studio（微软集成开发环境）	Visual Studio Code（代码编辑器）	Software Library
+Visual Studio Code	Visual Studio	Visual Basic	Visual Studio Code（代码编辑器）	Visual Studio（微软集成开发环境）	Source Code
+Visual Studio Code（代码编辑器）	Visual Studio Code	Visual Basic（编程语言）	Visual Studio	Visual Studio（微软集成开发环境）	代码构建
+Visual Studio（微软集成开发环境）	Visual Studio	Visual Studio Code	Visual Basic（编程语言）	Visual Studio Code（代码编辑器）	Microsoft Azure（微软云平台）
+Vite	vibecoding	Gateway	Vibe Coding	VAE	Dense Retrieval
+vLLM	VLM	Vue	VQA	DQN	LSTM
+VLM	vLLM	VQA	SVM	Vue	RL
+VPN	Ping	SSL	ssh	AWS	IPv6
+VQA	VLM	vLLM	DQN	BGD	Vue
+VRAM	3D Generation	虚拟 DOM	Virtual DOM	虚拟机	大模型
+VS Code Extension	VS Code 扩展	Code Generator	Code Generation	Code Scaffolding	Code Migration
+VS Code 扩展	VS Code Extension	Code Generator	Code Generation	Code Library	Code Scaffolding
+Vue	Vuetify	vLLM	SVM	VQA	VLM
+Vuetify	Vue	Queue	Behaviorism	vLLM	vibecoding
+Vuetify（Vue UI 组件库）	Vuetify	PyTorch（深度学习框架）	Moleculer（Node.js 微服务框架）	Flutter（跨平台移动 UI 框架）	RISC-V（开源指令集架构）
+Wails	Jailbreak	Commit Message	Availability Zone	Exception	Message Passing
+Wails（Go 跨平台桌面应用框架）	Progressive Web App (PWA)	Electron（跨平台桌面应用框架）	Tauri（Rust 桌面应用框架）	Livewire（Laravel 全栈框架）	多智能体协作框架
+WAN	LAN	Gulp	RAG	ASI	HTTP
+Weakly Typed	Strongly Typed	Stacking Ensemble	Role Prompting	Reciprocal Rank Fusion	Prompt Leakage
+Web Application	Web Components	Web3	WebSocket	Semantic Web	Webpack
+Web Components	Web Monetization	Responsive Web Design	Web Application	Web Scraping	WebSocket
+Web Components（Web 组件标准）	Web Components	Socket.IO（实时 Web 通信库）	CodeIgniter（PHP Web 框架）	ECMAScript（JavaScript 语言标准）	Responsive Web Design
+Web Crawler	Web Scraping	Web Components	Web Monetization	Webpack	Browser
+Web Monetization	Web Components	Web Scraping	Responsive Web Design	Web Crawler	Web Application
+Web Scraping	Web Crawler	Web Components	Responsive Web Design	Web Monetization	Webpack
+Web3	Web Application	WebSocket	HTTP Client	Web Components	Webpack
+Web3（去中心化互联网）	Web3	Nostr（去中心化社交协议）	网页货币化（W3C 支付流标准）	NebulaGraph（分布式图数据库）	Web Scraping
+Webpack	WebSocket	Web Scraping	Web Components	Web3	Web Application
+WebSocket	Webpack	Web3	Web Components	HTTP Client	Semantic Web
+Weight Decay	LAMP Stack	BoW	Task Decomposition	Greedy Decoding	Weakly Typed
+While Loop	For Loop	PRAR Loop	Whisper	Tool Use Loop	Tool Calling Loop
+Whisper	While Loop	BERT	Sampling	REPL	Swish Activation Function
+Whisper（语音识别模型）	语音模型	语音合成	语音识别	多模态大语言模型	大语言模型
+Wikidata	Wikidata（开放知识库）	Database Index	Set Data Structure	Database Column	Database Table
+Wikidata（开放知识库）	Wikidata	SciPy（科学计算库）	数据库连接	数据库视图	数据库索引
+Wildcard Matching	Wildcard Pattern Matching	Overlapping Chunking	Swish Activation Function	Permission Boundary	Packet Switching
+Wildcard Pattern Matching	Wildcard Matching	Overlapping Chunking	Constant Variable	Permission Boundary	Constant Folding
+Window Function	Loss Function	Sliding Window	Context Window	Function Argument	Penalty Function
+Windows注册表	模型注册表	localhost	系统日志
+WLAN	JWT	Erlang	RAG	BoW	Zsh
+Word Embedding	WordPiece	Word2Vec	Embedding	Text-to-Speech	Text Summarization
+Word2Vec	WordPiece	Word Embedding	假设性文档嵌入	文档摘要	上下文窗口
+WordPiece	Word2Vec	Word Embedding	文档切分	Prettier（代码格式化工具）	假设性文档嵌入
+Workflow Control	Workflow Engine	Workflow Orchestration	Workflow Orchestrator	Agent Workflow	Agentic Workflow
+Workflow Engine	Workflow Control	Workflow Orchestration	Agent Workflow	Workflow Orchestrator	Agentic Workflow
+Workflow Orchestration	Workflow Orchestrator	Workflow Engine	Workflow Control	Agent Workflow	Agentic Workflow
+Workflow Orchestrator	Workflow Orchestration	Workflow Control	Workflow Engine	Agent Workflow	LlamaIndex Workflows
+Working Directory	worktrees	Agent Workflow	Directory Structure	Agentic Workflow	Workflow Orchestration
+worktrees	Working Directory	Stateful Single-Agent Workflow	Workflow Orchestration	Agentic Workflow	Agent Workflow
+World Model	Video World Model	世界模型	Foundation Model	Model Switch	Speech Model
+X.509 Certificate	Constant Folding	Certificate Expiration	Lasso Regularization	Least Privilege	Constant Variable
+XAI	ANI	LIME XAI	ASI	XAMPP	AGI
+XAMPP	XAI	Prompt	gRPC	BGD	POMDP
+Xcode	XSS	HAProxy	LeetCode	Code Style	XGBoost
+Xcode（苹果IDE）	Xcode	MLX（Apple 机器学习框架）	MAC地址	Encoder-Decoder	macOS
+XGBoost	Zabbix	HAProxy	BGD	XSS	DQN
+XGBoost（梯度提升树库）	MegEngine（旷视深度学习框架）	PyTorch（深度学习框架）	检索增强生成	堆叠集成	Ghidra（逆向工程框架）
+XSS	Xcode	Zsh	XGBoost	HAProxy	BF16
+YAML	YAML（数据序列化格式）	GraphQL	AlphaZero	VLM	Zsh
+YAML（数据序列化格式）	YAML	数据库字段	数据存储	NebulaGraph（分布式图数据库）	JDBC（Java 数据库连接标准）
+YOLO	ReWOO	MoE	Zig	Groovy	Kotlin
+YouTube Data API v3	YouTube 数据 API v3	Data Export	Graph Data Structure	模型 API	数据库视图
+YouTube 数据 API v3	YouTube Data API v3	数据集	数据分块	数据库视图	图数据库
+Zabbix	Zsh	XGBoost	BGD	DQN	Crawl4AI
+Zabbix（开源监控系统）	Zabbix	开源软件	Playwright（浏览器自动化/E2E 测试框架）	OSRM（开源路由引擎）	Zustand（React 状态管理库）
+Zephyr RTOS	Perceptron	PyTorch	Semaphore	NoSQL	Prompt Injection
+ZeRO	zero-shot	Zero Trust	Zero-shot Learning	Code Review AI	Code Review
+Zero Trust	zero-shot	ZeRO	Zero-shot Learning	Zero-shot Prompting	Code Comments
+zero-shot	Zero-shot Prompting	Zero-shot Learning	ZeRO	Zero Trust	Fault Tolerance
+Zero-shot Learning	zero-shot	One-shot Learning	Zero-shot Prompting	Few-shot Learning	ZeRO
+Zero-shot Prompting	zero-shot	Few-shot Prompting	One-shot Prompting	Zero-shot Learning	Role Prompting
+Zig	Zsh	GRU	Zustand	GNN	Scala
+Zig（系统编程语言）	Gradle（自动化构建工具）	Kotlin（编程语言）	Solidity（智能合约编程语言）	Groovy（JVM 脚本语言）	Zig
+Zsh	Zig	Zabbix	Zustand	DQN	DML
+Zustand	Zsh	Zig	Clustering	Scala	Rerank
+Zustand（React 状态管理库）	ReAct Loop	Drupal（开源内容管理系统）	Zustand	Gradle（自动化构建工具）	状态管理
+代码审查AI	代码审查	代码检出	代码评审	Code Review AI	代码提交
+公网IP	内网IP	网关	公钥	IPv4	Public IP
+内网IP	公网IP	IPv4	IP地址	IPC	IPFS
+即时定位与地图构建（SLAM）	SLAM (Simultaneous Localization and Mapping)	同时定位与建图	本地模型	Simultaneous Localization and Mapping	模型监控
+即时编译（JIT）	提前编译（AOT）	Numba（Python 即时编译库）	JIT Compiler	状态机图	RAG Chunking
+可解释AI	生成式 AI	AI	AI编程助手	AI Planning	神经符号 AI
+多 Agent 编排	多Agent开发	Agent 编排	Agent编排层	多Agent协作	Agent 框架
+多Agent协作	多Agent开发	多 Agent 编排	多智能体协作	Multi-Agent Orchestration	有状态单 Agent 工作流
+多Agent开发	多 Agent 编排	多Agent协作	Multi-Agent	Agent 编排	Multi-Agent Development
+大 O 记法	模型记忆	语义记忆	Big O	共识算法	读写分离
+宪法 AI	AI Governance & Regulation	欧盟AI法案	Code Review AI	Constitutional AI	Agentic AI
+广度优先搜索（BFS）	深度优先搜索（DFS）	广度优先搜索	Breadth-First Search (BFS)	深度优先搜索	Depth-First Search (DFS)
+提前编译（AOT）	即时编译（JIT）	Ahead-of-Time Compilation (AOT)	Model Context Protocol (MCP)	Cross-Encoder Reranking	交叉编码器重排
+搜索引擎优化（SEO）	SEO (Search Engine Optimization)	搜索引擎	搜索算法	数据库优化	检索器
+有状态单 Agent 工作流	Agent Loop	Stateful Single-Agent Workflow	多 Agent 编排	Agent Workflow	Agent 编排
+有限状态机（FSM）	Finite State Machine (FSM)	状态机图	状态机	支持向量机	Super Resolution
+模型 API	Model API	REST API	模型部署	模型版本	模型版本管理
+模型上下文协议（MCP）	MCP 连接器	模型上下文协议	Model Context Protocol (MCP)	MCP connectors	MCP
+欧盟AI法案	AI 治理监管	AI伦理	AI 安全级联	AI 芯片	AI技能
+氛围编程（AI 辅助直觉式编码）	AI 反馈强化学习	氛围编程	AI生成内容	AI编程助手	AI Agent 生态
+深度Q网络	Q-Function	Deep Q-Network	Queue	网络会话	Q函数
+深度优先搜索（DFS）	广度优先搜索（BFS）	深度优先搜索	Depth-First Search (DFS)	广度优先搜索	Breadth-First Search (BFS)
+渐进式 Web 应用（PWA）	Progressive Web App (PWA)	Apify（网页爬取与自动化平台）	Playwright（浏览器自动化/E2E 测试框架）	FastAPI（Python 异步 Web 框架）	Flask（Python Web 框架）
+游离的 HEAD	Detached HEAD	Multi-Head Attention	Point Cloud	Loop Layer	Floating Point
+生成式 AI	自主式 AI	AI生成内容	Explainable AI	AI Agent 生态	可解释AI
+神经符号 AI	人工神经网络	神经网络	神经架构搜索	人工神经元	神经网络处理器
+站点可靠性工程（SRE）	SRE (Site Reliability Engineering)	Playwright（浏览器自动化/E2E 测试框架）	SRL	内容安全护栏	gRPC（高性能远程过程调用框架）
+网页货币化（W3C 支付流标准）	Web Components（Web 组件标准）	Web3（去中心化互联网）	WebSocket	ECMAScript（JavaScript 语言标准）	Next.js（React 全栈 Web 框架）
+自主式 AI	自主智能体	生成式 AI	智能体自主性	AI Autonomy	AI 芯片
+虚拟 DOM	Virtual DOM	虚拟机	Virtual Machine	DOM	大模型幻觉
+语言 Agent 树搜索	Language Agent Tree Search	Agent编排层	多 Agent 编排	Agent 编排	多Agent开发
+负责任AI	Colossal-AI	AI产品经理	生成式 AI	AI伦理	Responsible AI
+边缘 AI	生成式 AI	AI	Edge AI	Colossal-AI	Code Review AI
+隐私保护ML	隐私保护	私钥	差分隐私	Privacy-Preserving ML	密钥管理
+ε-贪婪	贪心算法	贪心解码
+一致流形逼近与投影	端口映射	模型收敛	边缘计算	高斯误差线性单元	修正线性单元
+三次握手	Three-way Handshake	层归一化	Three.js
+上下文压缩	文件目录	文档摘要	文件权限	软件规格	上下文窗口
+上下文学习	上下文工程	依存句法分析	语义记忆	文本分块	上下文窗口
+上下文工程	上下文学习	程序上下文	提示工程	模型上下文协议	工作流编排
+上下文窗口	滑动窗口	文本生成	程序上下文	时间窗口	倒排文件索引
+世界模型	视频世界模型	大模型	多模态大模型	大模型幻觉	World Model
+中文房间	Chinese Room	BM25	文本分块	Room（Android 数据库库）	文档对象模型
+中间人攻击	对抗攻击	成员推断攻击	中间件	跨站脚本攻击	攻击与防御
+中间件	前端组件	线程	串行	队列数据结构	前端路由
+串行	线程	模型并行	Nette	序列化	多 Agent 编排
+主成分分析	分词器	聚类分析	生成器	数据分析	数据分块
+主键	外键	快捷键	键值数据库	Ctrl+C	Ctrl+R
+主题建模	构建产物	模型泛化	大模型评估	模型评估	模型部署
+乘积量化	矩阵乘法	向量计算	矩阵运算	模型量化	向量嵌入
+事件循环	循环语句	反思循环	循环迭代	工具使用循环	工具调用循环
+事件钩子	React Hooks（React 钩子）	编程钩子	浮点数	半精度浮点数	React Hooks
+事件驱动	测试驱动开发	规范驱动开发	应用程序	Event-Driven	前端组件
+事务处理	数据库事务	服务编排	异常处理	任务执行器	错误处理
+二分查找	查询-键-值	慢查询	Depth-First Search	Semantic Search	集束搜索
+二叉树	Tree of Thoughts	决策树剪枝	模型剪枝	Binary Tree	Language Agent Tree Search
+二进制	字节对编码	二阶元认知	计算机进程	字符编码
+二阶元认知	选择性元认知	认知架构	单元测试	修正线性单元	多层感知机
+云厂商	云服务器	云数据库	云部署	BigQuery（云数据仓库）	AWS API 网关
+云数据库	云服务器	BigQuery（云数据仓库）	数据库	云厂商	数据包
+云服务器	云数据库	云厂商	亚马逊云服务	Cloud Server	服务器
+云计算	云数据库	云服务器	Cloud Computing	亚马逊云服务	云厂商
+云部署	本地部署	云服务器	云厂商	模型部署	云数据库
+互联网服务提供商	NetBox（IPAM/DCIM 网络基础设施管理工具）	Netlify（静态网站托管/Serverless 平台）	用户数据报协议	云服务器	AWS API 网关
+亚马逊云服务	云服务器	云数据库	AWS API 网关	阿里云地域	云厂商
+交互式解释环境	自洽性解码	模态融合	闭环反馈	智能体间通信	多智能体协作框架
+交叉熵	交叉验证	跨模态对齐	交叉编码器重排	共识算法	Code Review AI
+交叉编码器重排	代码重构	交叉验证	重排序	编码器解码器	变分自编码器
+交叉验证	确定性验证	交叉编码器重排	质量校验	验收子代理	交叉熵
+人在回路	循环神经网络	反馈回路	工作流编排	事件循环	进程间通信
+人工智能	超级人工智能	强人工智能	通用人工智能	博弈论 人工智能	弱人工智能
+人工智能记忆	人工智能	超级人工智能	强人工智能	记忆管理	人工神经网络
+人工智能问责	算法问责制	人工智能	强人工智能	超级人工智能	弱人工智能
+人工神经元	人工神经网络	神经网络	神经网络处理器	图神经网络	神经网络量化
+人工神经网络	神经网络	人工神经元	神经网络处理器	神经网络量化	图神经网络
+人机协作	人机协同	多智能体协作	机器人学	智能体工作流	跨模态对齐
+人机协同	人机协作	多智能体协作	多智能体协作框架	智能体工作流	机器人学
+人类反馈强化学习	AI 反馈强化学习	Reinforcement Learning from Human Feedback	Reinforcement Learning from AI Feedback	强化学习观测	多智能体强化学习
+人类审核	内容审核	代码审查AI	代码审查	代码评审	Code Review AI
+代价函数	价值函数	函数参数	函数计算	损失函数	编程函数
+代理模式	网络代理	子代理	反向代理	验收子代理	Agent Orchestration
+代码仓库	代码储藏	复刻仓库	远程仓库	Git仓库	代码沙箱
+代码依赖	代码构建	代码编译	代码生成	代码分支	代码储藏
+代码储藏	代码提交	代码构建	代码打包	代码编译	代码仓库
+代码冲突	代码打包	代码检出	代码依赖	代码提交	代码编译
+代码分支	代码构建	代码编译	代码打包	代码注释	代码生成
+代码审查	代码审查AI	代码评审	代码规范	代码检出	代码提交
+代码打包	代码构建	代码生成	代码编译	代码分支	代码储藏
+代码提交	代码生成	代码储藏	代码注释	代码构建	自动代码生成
+代码构建	代码编译	代码生成	代码打包	代码分支	代码依赖
+代码检出	代码审查	代码审查AI	代码规范	代码生成	代码提交
+代码沙箱	代码分支	代码打包	代码构建	代码注释	代码储藏
+代码注释	代码编译	代码规范	代码分支	代码提交	代码构建
+代码生成	自动代码生成	代码构建	代码编译	代码打包	代码提交
+代码编译	代码构建	代码生成	源代码	代码打包	代码注释
+代码规范	代码审查	代码注释	代码提交	代码分支	代码构建
+代码评审	代码审查	代码审查AI	代码规范	代码注释	代码沙箱
+代码重构	代码构建	软件重构	交叉编码器重排	代码生成	代码分支
+令牌	命令历史	命令别名	Command History	Command Alias	管道命令
+价值函数	代价函数	损失函数	Value Function	奖励函数	函数计算
+价值观对齐	对齐问题	安全对齐	正则化	公平性与偏见	跨模态对齐
+任务分解	任务规划	任务委托	任务调度	任务执行器	角色分工
+任务委托	任务分解	任务规划	任务调度	任务执行器	网络代理
+任务执行器	线程执行器	命令行终端	命令行	任务分解	任务调度
+任务规划	任务分解	任务调度	任务委托	线程	工作流编排
+任务调度	进程调度	任务规划	任务分解	指令微调	系统调用
+优化器	零冗余优化器	数据库优化	直接偏好优化	生成器	分词器
+会话管理	对话系统	网络会话	自然语言处理	进程管理	工作流编排
+传输层安全协议	安全超文本传输协议	传输控制协议	超文本传输协议	模型上下文协议	用户数据报协议
+传输控制协议	传输层安全协议	控制网络	超文本传输协议	安全超文本传输协议	用户数据报协议
+位置编码	代码注释	序列化	重排序	代码储藏	代码沙箱
+低秩适配	领域自适应	Generative QA	稀疏检索	Nostr	稳定排序
+余弦相似度	相似度计算	语义相似度	最大边际相关	乘积量化	边缘计算
+作用域	可用区	地域可用区	Domain-Specific Language	函数参数	模型泛化
+依存句法分析	语法分析	分词器	词嵌入	句向量	语义分割
+依赖注入	提示注入	混合检索	条件分支	构建产物	直接偏好优化
+信号量	张量	神经辐射场	去噪扩散概率模型	验证信号优先级	带宽
+信息检索	检索器	语义检索	数据库索引	数据库查询	智能搜索
+信息论	Information Theory	消息队列	消息传递	Information Retrieval	信息检索
+修正线性单元	高斯误差线性单元	线性表	正则化	确定性验证	模型微调
+倒排文件索引	假设性文档嵌入	文件目录	反序列化	快速排序	文档摘要
+倒数排名融合	归并排序	模态融合	重排序	稳定排序	串行
+假设性文档嵌入	文档对象模型	倒排文件索引	文本生成	文档数据库	文本分块
+偏差方差权衡	归纳偏置	高斯误差线性单元	公平性与偏见	修正线性单元	确定性验证
+停止词	Stop Sequence	Closed Loop	For Loop	Early Stopping	早停
+健康检查	目标检测	检索器	质量校验	智能体检索增强生成	基准测试
+元学习	元组	集成学习	表示学习	在线学习	Ensemble Learning
+元组	数组	元学习	单元测试	合成数据	投机解码
+先规划再执行	规划模式	自动规划	动态规划	Plan-and-Execute	路径规划
+光学字符识别	字符编码	字符串	语音识别
+光标	线程	RL	目标检测	敏捷看板	Reflexion
+全分片数据并行	数据并行	数据集切分	数据分块	数据集	模型并行
+全参数微调	参数高效微调	模型微调	指令微调	生成参数	数据降维
+公平性与偏见	偏差方差权衡	归纳偏置	价值观对齐	选择性元认知	正则化
+公钥	私钥	公网IP	授权认证	CORS	CAPTCHA
+共识算法	算法策略	提升算法	算法收敛	图算法	自洽性解码
+关系型数据库	非关系型数据库	数据库	数据库事务	数据库连接	数据库视图
+具身智能	智能体	单智能体	自主智能体	多智能体	智能体技能
+内存	内存管理	内存缓冲区	内存分页	RAM	内存交换
+内存交换	内存缓冲区	内存管理	内存分页	内存	存储系统
+内存分页	内存缓冲区	内存管理	内存	内存交换	RAM
+内存管理	内存	内存分页	内存缓冲区	内存交换	存储系统
+内存缓冲区	缓存	内存分页	内存管理	内存	键值缓存
+内容分发网络	自聚合	内容管理系统	内容审核	网关	分布式系统
+内容安全护栏	安全护栏	安全套接层	传输层安全协议	Safety Alignment	安全对齐
+内容审核	代码审查	人类审核	内容管理系统	代码评审	内容分发网络
+内容管理系统	Content Management System (CMS)	Drupal（开源内容管理系统）	内存管理	内存分页	内容审核
+内核态	Kernel Mode	操作系统内核	集成测试	模型部署	组件化开发
+冒泡排序	稳定排序	归并排序	Mixture of Experts	重排序	快速排序
+决策智能	决策树	Decision Intelligence	科学计算智能	Artificial Intelligence	群体智能
+决策树	决策智能	Decision Tree	决策树剪枝	思维树	Policy Network
+决策树剪枝	决策树	模型剪枝	Decision Tree	二叉树	Tree of Thoughts
+函数参数	函数调用	生成参数	编程函数	函数计算	参数规模
+函数计算	编程函数	函数调用	函数参数	向量计算	代价函数
+函数调用	函数参数	编程函数	函数计算	函数返回值	工具调用
+函数返回值	返回值	函数调用	函数参数	函数计算	Return Value
+分层可导航小世界	层叠样式表	层归一化	多层感知机	多智能体系统	多智能体协作框架
+分布偏移	归纳偏置	NebulaGraph	分布式系统	Distribution Shift	重定向
+分布式数据库	分布式系统	数据库	NebulaGraph（分布式图数据库）	数据分块	分布式训练
+分布式系统	分布式数据库	分布式训练	NebulaGraph（分布式图数据库）	模型部署	系统架构
+分布式训练	分布式系统	分布式数据库	模型部署	训练集	后训练
+分库分表	数据分块	数据库	数据库视图	文本分块	分布式数据库
+分词器	语法分析	语义化	语义分割	依存句法分析	生成器
+分页查询	数据库查询	慢查询	分库分表	二分查找	查询-键-值
+前向传播	反向传播	消息传递	前端路由	消息队列	流式响应
+前端打包	前端组件	前端框架	前端视图	代码打包	端到端测试
+前端框架	后端框架	前端组件	前端视图	Agent 框架	软件框架
+前端组件	前端框架	前端视图	前端打包	前端路由	后端
+前端视图	前端组件	前端框架	端口映射	前端路由	后端
+前端路由	前端组件	前端视图	路由器	路由	网络端口
+加密	对称加密	非对称加密	同态加密	加密货币	密钥管理
+加密货币	加密	非对称加密	对称加密	同态加密	密钥管理
+动作空间	姿态估计	模型对齐	跨模态对齐	BigQuery	Action Space
+动作识别	语音识别	动作空间	知识图谱	智能体技能	命名实体识别
+动态规划	自动规划	规划模式	先规划再执行	进程调度	状态机图
+包管理器	数据包	Puppet（配置管理工具）	Helm（Kubernetes 包管理器）	Package Manager	数据管道
+半监督学习	监督学习	自监督学习	无监督学习	强化学习观测	多模态学习
+半精度浮点数	浮点数	事件钩子	数据漂移	编程钩子	React Hooks（React 钩子）
+单元测试	测试集	基准测试	集成测试	Unit Testing	目标检测
+单智能体	智能体	多智能体	具身智能	智能体技能	自治智能体
+单样本学习	零样本学习	少样本学习	少样本示例	单样本提示	多模态学习
+单样本提示	少样本提示	零样本提示	少样本示例	少样本学习	少样本
+单页应用	桌面应用	应用图标	应用程序	生成式问答	App Icon
+博弈论 人工智能	博弈论 机器学习	人工智能	强人工智能	博弈论算法	超级人工智能
+博弈论 机器学习	博弈论 人工智能	机器学习	机器学习模型	量子机器学习	博弈论算法
+博弈论算法	算法策略	编程算法	博弈论 机器学习	博弈论 人工智能	算法与数据结构
+卷积神经网络	神经网络	人工神经网络	图神经网络	神经网络量化	脉冲神经网络
+原子性、一致性、隔离性、持久性	持续集成/持续交付	可解释性	长期记忆	机制可解释性	系统透明性
+去噪扩散概率模型	扩散模型	模型收敛	模型泛化	大模型评估	模型解释
+参数规模	生成参数	函数参数	模型解释	大模型评估	采样参数
+参数高效微调	全参数微调	模型微调	生成参数	指令微调	智能体编排
+双因素认证	确定性验证	交叉验证	授权认证	验收子代理	评估集
+双曲正切	回滚	RAG Chunking	语音合成	文生音频	Sigmoid
+反向代理	子代理	反向传播	代理模式	网络代理	反序列化
+反向传播	前向传播	反向代理	反序列化	反馈回路	消息传递
+反序列化	序列化	序列到序列	交叉编码器重排	重排序	快速排序
+反思循环	事件循环	闭环反馈	反思机制	自我修复循环	自我反思
+反思机制	自我反思	反思循环	自监督学习	闭环反馈	算法问责制
+反馈回路	闭环反馈	Feedback Loop	反思循环	事件循环	提示链
+变分自编码器	编码器解码器	自动代码生成	代码分支	Variational Autoencoder	交叉编码器重排
+变更日志	Changelog	Transformer	程序日志	预测性维护	查询改写
+句向量	向量检索	向量索引	向量嵌入	向量数据库	支持向量机
+可微分编程	编程函数	编程范式	编程算法	矩阵运算	可解释性
+可用区	地域可用区	作用域	用户态	数据集	参数规模
+可解释性	机制可解释性	可微分编程	编程变量	程序变量	线性表
+右键菜单	命令行菜单	滑动窗口	快捷键	主键	命令行选项
+合并冲突	并发	代码冲突	跨模态对齐	Breakpoint	倒数排名融合
+合成数据	数据集	生成器	数据集切分	数据分块	数据集卡片
+同态加密	非对称加密	加密	对称加密	加密货币	跨模态对齐
+同时定位与建图	即时定位与地图构建（SLAM）	模型部署	参数高效微调	图数据库	模型上下文协议
+后端	后端框架	前端视图	前端组件	前端框架	微前端
+后端框架	前端框架	后端	前端组件	前端视图	软件框架
+后训练	训练集	预训练	训练损失	分布式训练	混合精度训练
+后门攻击	门控	成员推断攻击	对抗攻击	跨站脚本攻击	中间人攻击
+向量嵌入	支持向量机	向量检索	向量计算	向量数据库	向量索引
+向量数据库	向量检索	向量计算	向量嵌入	支持向量机	数据库
+向量检索	向量索引	向量数据库	向量嵌入	向量计算	支持向量机
+向量索引	向量检索	向量计算	向量嵌入	向量数据库	IVF向量索引
+向量计算	向量索引	向量嵌入	向量数据库	向量检索	支持向量机
+告警	提示工程	Stop Sequence	提示链	系统监控	系统提示词
+命令别名	命令行	命令提示符	管道命令	命令历史	命令行终端
+命令历史	命令别名	令牌	管道命令	Command History	命令行
+命令提示符	命令行	命令行菜单	命令行选项	命令行终端	命令别名
+命令行	命令行终端	命令行菜单	命令提示符	命令行选项	命令别名
+命令行终端	命令行	命令行菜单	命令行选项	命令提示符	命令别名
+命令行菜单	命令行选项	命令行	命令行终端	命令提示符	右键菜单
+命令行选项	命令行菜单	命令行	命令提示符	命令行终端	编译选项
+命名实体识别	确定性验证	质量校验	特征选择	验收子代理	交叉验证
+哈希	提交哈希	哈希表	哈希算法	布尔	Zig
+哈希算法	哈希表	哈希	编程算法	博弈论算法	算法策略
+哈希表	哈希算法	提交哈希	哈希	密码哈希	Haskell
+响应式	流式响应	HTTP响应	响应时间	并发	感知机
+响应时间	响应式	HTTP响应	流式响应	请求超时	异常处理
+回归测试	复现	测试集	重试	组归一化	软件重构
+回滚	双曲正切	BoW	SHAP	Crawl4AI	SLAM
+回调	回归测试	整型	评估集	全参数微调	修正线性单元
+因果语言建模	语言模型	算法与数据结构	多模态大语言模型	大语言模型运维	结构化查询语言
+困惑度	Visual Question Answering	Ansible	Question Answering	算法复杂度	Query Rewriting
+图像分割	图像生成	图像到图像	前端视图	图像描述	图形渲染
+图像到图像	图像生成	图像分割	图像描述	图像外扩	图数据库
+图像外扩	图像生成	图像到图像	图像分割	全分片数据并行	图形渲染
+图像描述	图像生成	图像编辑	图像分割	图像到图像	图像外扩
+图像生成	图像分割	图像到图像	3D生成	图形渲染	图像描述
+图像编辑	图像描述	图像分割	图像生成	图像外扩	Image Editing
+图像补全/修复	自动补全	工具调用错误恢复	修正线性单元	Tab 补全	图像分割
+图形处理器	图形渲染	图算法	Image Processing	图数据库	神经网络处理器
+图形渲染	图像生成	3D渲染	图像分割	图形处理器	图算法
+图数据库	数据库	数据库视图	数据集	数据库字段	数据分块
+图文检索	文档摘要	文本摘要	图数据库	图像编辑	图像生成
+图灵测试	测试集	单元测试	A/B测试	测试环境	红队测试
+图神经网络	神经网络	人工神经网络	神经网络处理器	神经网络量化	神经架构搜索
+图算法	算法策略	编程算法	图数据库	算法与数据结构	提升算法
+在线学习	端到端学习	集成学习	元学习	批量学习	视频理解
+地域可用区	可用区	作用域	参数规模	用户态	数据集
+域名	域名系统	Domain Name	局域网	IP地址	广域网
+域名系统	域名	Domain Name	作用域	分布式系统	用户态
+基于密度的聚类	聚类分析	聚类	K 均值聚类	集合数据结构	扩散模型
+基准测试	单元测试	测试集	测试环境	测试时计算	集成测试
+基础模型	模型解释	模型泛化	模型版本	模型训练	模型评估
+基础设施即服务	Terraform（基础设施即代码工具）	平台即服务	LLVM（编译器基础设施）	云服务器	互联网服务提供商
+堆叠集成	模型堆叠	Encoding	构建产物	持续集成	层叠样式表
+备份	存储系统	文档数据库	数据存储	File System	文件目录
+复刻仓库	代码仓库	远程仓库	Git仓库	GitHub复刻	Git储藏
+复现	回归测试	React	构建产物	重试	过拟合
+外键	主键	快捷键	Ctrl+C	滑动窗口	Ctrl+R
+多头注意力	注意力机制	自注意力	Multi-Head Attention	重定向
+多层感知机	多智能体系统	感知机	多智能体	层叠样式表	多智能体协作框架
+多态	多模态	多模态大模型	多模态学习	多智能体	多Agent开发
+多智能体	多智能体系统	单智能体	智能体	多智能体协作	多智能体博弈
+多智能体协作	多智能体协作框架	多智能体博弈	多智能体	多智能体系统	多智能体强化学习
+多智能体协作框架	多智能体协作	智能体框架	多智能体系统	多智能体博弈	智能体社会
+多智能体博弈	多智能体协作	多智能体协作框架	多智能体	多智能体辩论	多智能体系统
+多智能体强化学习	多智能体	多智能体协作	多智能体系统	多智能体协作框架	多智能体博弈
+多智能体系统	多智能体	多智能体协作框架	多智能体协作	智能体框架	智能体
+多智能体辩论	多智能体博弈	多智能体协作	多智能体	模型辩论	多智能体系统
+多模态	多模态大模型	多模态学习	跨模态对齐	模型并行	模态融合
+多模态大模型	大模型	多模态	大模型评估	多模态大语言模型	大模型智能体
+多模态大语言模型	大语言模型	大语言模型运维	语言模型	多模态大模型	视觉语言模型
+多模态学习	多模态	多模态大模型	多模态大语言模型	单样本学习	模型记忆
+大型机	大模型	大模型评估	Big O	TRPO	BigQuery
+大数据	数据分析	数据分块	数据集	数据并行	云数据库
+大模型	多模态大模型	大模型评估	大模型智能体	模型版本	模型堆叠
+大模型幻觉	视觉模型	大模型	多模态大模型	大模型智能体	视频世界模型
+大模型智能体	大模型	多模态大模型	大模型评估	大模型幻觉	智能体
+大模型评估	模型评估	大模型	多模态大模型	模型部署	模型并行
+大语言模型	多模态大语言模型	语言模型	大语言模型运维	视觉语言模型	语音模型
+大语言模型运维	大语言模型	多模态大语言模型	语言模型	视觉语言模型	模型部署
+奖励函数	惩罚函数	强化学习奖励	函数参数	代价函数	价值函数
+奖励塑造	强化学习奖励	涌现行为	奖励函数	涌现能力	构建产物
+奥卡姆剃刀	数据集卡片
+姿态估计	动作空间	模型收敛	跨模态对齐	状态机图	Model Stealing
+子代理	验收子代理	网络代理	代理模式	反向代理	代码分支
+字典数据结构	数据库字段	数据结构	数据定义语言	数据库索引	集合数据结构
+字符串	字符编码	字节	字节对编码	通配符	数据库字段
+字符编码	字节对编码	字符串	字节	代码规范	数据库字段
+字节	字节对编码	字符编码	字符串	数据库字段	字典数据结构
+字节对编码	字符编码	字节	数据库字段	字符串	交叉编码器重排
+存储系统	数据存储	对象存储	内存缓冲区	对象存储桶	内存管理
+学习率	持续学习	强化学习	记忆增强强化学习	单样本学习	模仿学习
+守护进程	进程状态	系统进程	进程调度	进程管理	进程交换
+安全套接层	安全护栏	内容安全护栏	传输层安全协议	安全对齐	SSL证书
+安全对齐	对齐问题	模型对齐	安全套接层	跨模态对齐	内容安全护栏
+安全护栏	内容安全护栏	安全套接层	Safety Alignment	安全对齐	运行时防护
+安全超文本传输协议	超文本传输协议	传输层安全协议	模型上下文协议	超文本标记语言	传输控制协议
+实验追踪	测试集	调试探针	单元测试	基准测试	集成测试
+客户端	应用程序	软件	软件用户	端到端测试	程序上下文
+容器服务	软件容器	容器镜像	容器编排	对象存储桶	Docker容器
+容器编排	软件容器	容器服务	容器镜像	对象存储桶	内存分页
+容器镜像	软件容器	容器服务	容器编排	对象存储桶	Docker容器
+容错计算	错误处理	测试时计算	并行计算	偏差方差权衡	Data Throughput
+密码加盐	加密	密码哈希	验证码	对称加密	密钥管理
+密码哈希	哈希算法	提交哈希	哈希	哈希表	代码审查AI
+密钥管理	私钥	加密	锁文件	公钥	密码哈希
+对抗攻击	对抗训练	对抗样本	攻击与防御	生成对抗网络	中间人攻击
+对抗样本	对抗训练	生成对抗网络	对抗攻击	跨模态对齐	测试集
+对抗训练	对抗样本	对抗攻击	训练集	生成对抗网络	后训练
+对数几率	数组	代价函数	整数类型	去噪扩散概率模型	Data Fetching
+对比语言-图像预训练	Contrastive Language-Image Pre-training	视觉语言模型	图像分割	多模态大语言模型	图像生成
+对称加密	非对称加密	加密	同态加密	加密货币	RSA加密算法
+对话系统	会话管理	网络会话	语音合成	System Call	问答系统
+对象存储	对象存储桶	数据存储	对象类型	存储系统	文档对象模型
+对象存储桶	对象存储	Object Storage	存储系统	Agentic SDLC	容器服务
+对象类型	对象存储	面向对象	文档对象模型	面向对象封装	集合类型
+对齐问题	安全对齐	模型对齐	跨模态对齐	价值观对齐	串行
+小批量梯度下降	批量梯度下降	批量归一化	批大小	梯度下降	批量学习
+少样本	少样本学习	少样本提示	零样本	少样本示例	单样本提示
+少样本学习	少样本	少样本提示	单样本学习	少样本示例	单样本提示
+少样本提示	单样本提示	少样本示例	少样本	零样本提示	少样本学习
+少样本示例	少样本提示	少样本学习	单样本提示	少样本	单样本学习
+局域网	无线局域网	广域网	控制网络	内网IP	公网IP
+层叠样式表	层归一化	模型堆叠	堆叠集成	多层感知机	梯度检查点
+层归一化	组归一化	层叠样式表	递归切分	堆叠集成	构建产物
+嵌入模型	模型 API	向量嵌入	模型评估	模型泛化	模型版本
+工作树	worktrees	开发工作流	Agent Workflow	开发工作区	Agentic Workflow
+工作流控制	工作流编排	智能体工作流	机器人流程自动化	闭环控制	开发工作流
+工作流编排	工作流控制	开发工作流	服务编排	进程调度	智能体工作流
+工具使用循环	工具调用循环	PRAR 循环	事件循环	循环语句	智能体循环
+工具定义	工具描述	软件工具	工具调用	开发工具	工具使用循环
+工具描述	工具定义	软件工具	工具调用	开发工具	软件
+工具调用	并行工具调用	工具调用错误恢复	系统调用	工具调用循环	函数调用
+工具调用循环	工具使用循环	工具调用	PRAR 循环	并行工具调用	提示词链式调用
+工具调用错误恢复	工具调用	并行工具调用	Tool Call Error Recovery	程序调试	工具调用循环
+差分隐私	隐私保护	私钥	隐私保护ML	公钥	数据分块
+布尔	哈希	BoW	Browser	NeRF	BLEU
+带宽	网络吞吐量	网络连接	无线局域网	网络超时	信号量
+常量	基准测试	单元测试	确定性验证	少样本提示	零样本提示
+平台即服务	软件即服务	互联网服务提供商	模型服务	基础设施即服务	云服务器
+并发	高并发	并发编程	模型并行	Actor 并发模型	响应式
+并发编程	编程接口	组件化开发	Actor 并发模型	编程算法	编程模块
+并行工具调用	工具调用	系统调用	工具调用循环	程序调试	提示词链式调用
+并行计算	模型并行	数据并行	测试时计算	统一计算设备架构	串行
+幻觉检测	幻觉缓解	AI幻觉	大模型幻觉	视觉模型	机器感知
+幻觉缓解	幻觉检测	AI幻觉	大模型幻觉
+广域网	局域网	无线局域网	Domain-Specific Language	网关	域名系统
+广度优先搜索	深度优先搜索	广度优先搜索（BFS）	深度优先搜索（DFS）	智能搜索	Hybrid Search
+序列到序列	序列化	排序算法	反序列化	重排序	队列数据结构
+序列化	序列到序列	反序列化	排序算法	队列数据结构	重排序
+应用图标	应用程序	单页应用	App Icon	图数据库	桌面应用
+应用程序	应用图标	程序上下文	单页应用	引导程序	开发工具
+开发工作区	开发工作流	开发里程碑	集成开发环境	开发环境	开发工具
+开发工作流	开发工作区	工作流编排	开发工具	开发里程碑	组件化开发
+开发工具	软件工具	组件化开发	开发工作流	开发里程碑	软件构建
+开发环境	集成开发环境	开发工作区	生产环境	开发工作流	开发工具
+开发者角色转变	开发工具	开发里程碑	开发工作流	组件化开发	多Agent开发
+开发里程碑	项目里程碑	开发工作流	组件化开发	开发工作区	开发工具
+开放授权	权限授权	授权认证	用户权限	开源软件	开发里程碑
+开源软件	开发工具	软件	OSRM（开源路由引擎）	软件发布	软件构建
+异常处理	程序异常	错误处理	事务处理	连续批处理	缓存策略
+异步	async/await（异步编程）	CSRF	遍历	Runtime Reflection	进程状态
+引导程序	系统引导	程序上下文	应用程序	程序日志	编程范式
+引用溯源	文档溯源	链表	特征归因	提示词链式调用	鉴权
+张量	张量并行	张量处理单元	信号量	向量嵌入	向量数据库
+张量处理单元	张量	张量并行	大模型评估	单元测试	数据集卡片
+张量并行	张量	张量处理单元	模型并行	全分片数据并行	向量嵌入
+弱人工智能	强人工智能	人工智能	超级人工智能	通用人工智能	弱类型
+弱类型	强类型	弱人工智能	对抗攻击	Strongly Typed	对抗训练
+弹性伸缩	Perplexity	Variable Scope	模型收敛	Cross-modal Alignment	智能体编排
+强人工智能	人工智能	超级人工智能	弱人工智能	通用人工智能	科学计算智能
+强化学习	强化学习观测	记忆增强强化学习	强化学习奖励	持续学习	逆强化学习
+强化学习奖励	强化学习	强化学习观测	奖励函数	奖励塑造	记忆增强强化学习
+强化学习观测	强化学习	强化学习奖励	记忆增强强化学习	逆强化学习	人类反馈强化学习
+强类型	弱类型	Strongly Typed	Top-K	Megatron-LM	模型版本
+归并排序	重排序	稳定排序	快速排序	排序算法	倒数排名融合
+归纳偏置	分布偏移	偏差方差权衡	特征归因	Semantic Search	NebulaGraph
+循环神经网络	脉冲神经网络	神经网络	智能体循环	图神经网络	人工神经网络
+循环语句	事件循环	推理-行动循环	循环迭代	工具使用循环	PRAR 循环
+循环迭代	迭代算法	事件循环	循环语句	反思循环	工具调用循环
+微前端	前端视图	前端组件	前端框架	后端	前端打包
+微服务熔断	服务熔断	线程死锁	断点	模态融合	CI/CD工作流
+快捷键	外键	主键	Ctrl+C	Ctrl+R	DELETE
+快速排序	重排序	排序算法	归并排序	稳定排序	序列化
+思维树	思维链	思维链自洽性	决策树	认知架构	工作树
+思维链	思维树	思维链自洽性	长链推理	认知架构	反思循环
+思维链自洽性	思维链	思维树	自洽性校验	长链推理	自洽性解码
+性能监控	系统监控	模型监控	静态检查	目标检测	状态机图
+情感分析	需求分析	语法分析	数据分析	主成分分析
+情景记忆	长期记忆	模型记忆	语义记忆	短期记忆	长短期记忆网络
+惩罚函数	惩罚项	奖励函数	频率惩罚	损失函数	函数参数
+惩罚项	惩罚函数	频率惩罚	重复惩罚	算法问责制	Adversarial Attack and Defense
+惰性求值	键值缓存	编程钩子	规模定律
+感受野	遍历	Laravel	SLA	TLS	Solana
+感知机	机器感知	多层感知机	智能体	认知架构	具身智能
+慢查询	二分查找	查询-键-值	分页查询	数据库查询	检索器
+成员推断攻击	中间人攻击	生成对抗网络	K-Means	跨站脚本攻击	ReWOO
+成本估算	合成数据	测试时计算	并行计算	模型评估	计算广告
+戴明环	DQN	CAPTCHA	点云	MoE	LangGraph
+手机越狱	越狱提示词	Android	Mobile App	Jetpack Compose（Android 声明式 UI 工具包）	Android Studio
+扩散模型	去噪扩散概率模型	模型泛化	多模态大模型	模型收敛	模型堆叠
+批大小	批量归一化	小批量梯度下降	批量梯度下降	大模型评估	合成数据
+批量学习	批量归一化	多模态学习	单样本学习	量子机器学习	集成学习
+批量归一化	批量梯度下降	小批量梯度下降	批大小	批量学习	合成数据
+批量梯度下降	小批量梯度下降	批量归一化	批大小	批量学习	梯度下降
+技术债	评估集	投机解码	Technical Debt	Authentication	PCA
+投机解码	贪心解码	评估集	自洽性解码	DQN	过拟合
+折扣因子	Regularization	Value Function	Cost Function	Refactoring	Benchmark
+抽取-转换-装载	抽取式问答	进程交换	挑选提交	数据集卡片	生成式问答
+抽取式问答	抽取-转换-装载	生成式问答	问答系统	特征提取	少样本提示
+拉取请求	请求体	请求头	挑选提交	HTTP请求	接口请求
+持续学习	终身学习	强化学习	学习率	强化学习观测	记忆增强强化学习
+持续部署	持续集成	本地部署	云部署	持续集成/持续交付	Command Alias
+持续集成	持续集成/持续交付	集成测试	堆叠集成	集成学习	模态融合
+持续集成/持续交付	持续集成	持续部署	集成测试	数据集	集成开发环境
+指令微调	全参数微调	模型微调	参数高效微调	进程调度	系统调用
+指数退避	策略梯度	过拟合	偏差方差权衡	倒数排名融合	损失函数
+指针变量	编程变量	程序变量	向量数据库	句向量	向量嵌入
+按需付费	软件交付物	拉取请求	提示链	Pay-as-you-go	生成式问答
+挑选提交	提示链	代码提交	特征选择	提交哈希	拉取请求
+损失函数	代价函数	价值函数	函数参数	惩罚函数	函数计算
+授权认证	权限授权	用户认证	Verification Signal Priority	开放授权	双因素认证
+排序算法	快速排序	重排序	序列化	归并排序	序列到序列
+探索与利用	Mixture-of-Experts	构建产物	调试探针	网络探针	实验追踪
+接口规格	软件规格	编程接口	接口请求	API接口	MCP 连接器
+接口请求	HTTP请求	网络端口	端口映射	编程接口	请求头
+控制网络	计算机网络	传输控制协议	ControlNet	网络连接	网络端口
+推理-行动循环	长链推理	循环语句	反思循环	事件循环	工具使用循环
+推理加速	推理模型	长链推理	模型推理	文本生成推理	推理引擎
+推理引擎	推理模型	文本生成推理	引导程序	推理加速	长链推理
+推理模型	模型推理	推理引擎	文本生成推理	长链推理	推理加速
+推荐系统	系统引导	系统架构	操作系统	推理模型	System Call
+掩码语言建模	代码构建	CodeIgniter（PHP Web 框架）	VS Code 扩展	Interrupt	变分自编码器
+提交哈希	哈希	哈希表	挑选提交	HAProxy	密码哈希
+提升算法	Boosting提升算法	算法策略	图算法	降维算法	共识算法
+提示产品化	提示工程	提示链	Product Quantization	单样本提示	构建产物
+提示工程	提示链	特征工程	提示产品化	提示词工程	系统提示词
+提示模板	提示链	模型切换	模型微调	设计模式	单样本提示
+提示泄漏	缓冲区溢出	系统提示词	提示工程	消息传递	稳定扩散
+提示注入	提示链	依赖注入	单样本提示	零样本提示	少样本提示
+提示词	提示词示例	系统提示词	提示词工程	提示链	提示工程
+提示词工程	提示词	提示工程	提示词示例	上下文工程	Loop Engineering
+提示词示例	提示词	提示词工程	提示链	系统提示词	少样本示例
+提示词链式调用	工具调用循环	函数调用	并行工具调用	结构化查询语言	提示链
+提示链	提示工程	系统提示词	链表	提示词链式调用	提示模板
+搜索引擎	搜索算法	检索器	智能搜索	SEO (Search Engine Optimization)	搜索引擎优化（SEO）
+搜索算法	搜索引擎	智能搜索	检索器	排序算法	深度优先搜索
+操作系统	操作系统内核	系统架构	OS	System Call	系统镜像
+操作系统中断	硬件中断	系统崩溃	程序崩溃	断路器模式	操作系统内核
+操作系统内核	操作系统	系统架构	内核态	内容管理系统	软件架构
+支持向量机	向量嵌入	向量数据库	向量检索	向量计算	向量索引
+攻击与防御	对抗攻击	中间人攻击
+敏捷冲刺	敏捷开发	敏捷看板	混合精度训练	Password Salting	脉冲神经网络
+敏捷开发	敏捷看板	敏捷冲刺	开发里程碑	测试驱动开发	集成测试
+敏捷看板	敏捷开发	敏捷冲刺	快捷键	跨模态对齐	测试集
+数字签名	数字证书	数组	数据集卡片	键值数据库	符号主义
+数字证书	数字签名	数据集卡片	数据集	数据分块	数组
+数据分块	数据集	数据分析	数据集切分	数据结构	数据库字段
+数据分析	数据分块	数据集	数据结构	数据并行	数据库
+数据包	数据存储	数据库	数据集	数据管道	数据分块
+数据存储	数据包	对象存储	存储系统	数据库	数据管道
+数据定义语言	数据结构	数据库字段	数据分块	数据集	数据操纵语言
+数据并行	数据集	数据分块	模型并行	全分片数据并行	并行计算
+数据库	数据集	数据库查询	数据库视图	数据库字段	数据结构
+数据库事务	数据库视图	数据库	数据库字段	数据管道	数据包
+数据库优化	数据库视图	数据库字段	数据库	数据库事务	数据集
+数据库字段	数据库视图	数据库	数据集	数据分块	数据结构
+数据库查询	数据库索引	数据库	SQL查询	数据库连接	数据库字段
+数据库索引	数据库查询	数据库	数据库字段	数据库视图	数据库连接
+数据库视图	数据库字段	数据库	数据集	图数据库	数据库连接
+数据库迁移	数据迁移	数据库连接	数据库视图	数据库事务	数据库
+数据库连接	数据库视图	数据库	数据库查询	数据库字段	数据库索引
+数据投毒	数据分块	数据库	数据分析	数据集	数据并行
+数据操纵语言	数据定义语言	大语言模型运维	数据分块	数据并行	数据集
+数据标注	数据分析	数据集	数据结构	数据类型	数据采样
+数据清洗	Data Cleaning	数据库优化	数据并行	数据分析	数据库字段
+数据漂移	数据飞轮	数据迁移	数据并行	数据集	合成数据
+数据管道	数据集	数据包	数据分块	数据库	数据库事务
+数据类型	数据结构	数据集	数据库	数据库字段	数据分块
+数据结构	数据集	数据分块	数据库	数据类型	数据库字段
+数据迁移	数据库迁移	数据集	数据库连接	数据存储	数据分块
+数据采样	采样参数	数据集	数据管道	数据分析	数据分块
+数据降维	数据集	数据分块	降维算法	数据并行	数据分析
+数据集	数据分块	数据库	数据结构	数据管道	数据分析
+数据集切分	数据分块	数据集	递归切分	合成数据	全分片数据并行
+数据集卡片	数据集	数据集切分	数据分块	合成数据	数字证书
+数据飞轮	数据并行	数据漂移	数据集	数据分块	数据降维
+数组	数据集	数据库字段	队列数据结构	函数计算	元组
+整型	模型微调	评估集	BigQuery	合成数据	混合专家模型
+整数类型	数组	集合类型	数据类型	数字证书	集合数据结构
+文件权限	系统权限	文件目录	用户权限	文件路径	文件系统
+文件目录	文件系统	文件路径	文档摘要	文档数据库	文件权限
+文件系统	文件目录	文件路径	文档数据库	文档对象模型	文件读写
+文件读写	文件目录	文件系统	文件路径	读写分离	文本生成
+文件路径	文件目录	文件系统	文件权限	File Path	文件读写
+文本分块	文本分类	文本生成	文档对象模型	数据分块	假设性文档嵌入
+文本分类	文本分块	文档对象模型	文件目录	文档摘要	文本生成
+文本摘要	文档摘要	文本分类	文本分块	目录结构	自述文件
+文本生成	文本分块	文本生成推理	生成参数	代码生成	生成式问答
+文本生成推理	文本生成	模型推理	生成式问答	文本分块	推理模型
+文档切分	文档摘要	假设性文档嵌入	文本分块	文件目录	文档对象模型
+文档对象模型	文档数据库	假设性文档嵌入	文本分块	文档摘要	对象存储
+文档摘要	文本摘要	文件目录	文档数据库	文档对象模型	文档切分
+文档数据库	文档对象模型	文件系统	文档摘要	数据库	文件目录
+文档溯源	引用溯源	文档数据库	文档对象模型	文档摘要	文本分类
+文生图	文生视频	文本生成	cuDNN	Playwright	CUDA
+文生视频	文生音频	文生图	视频理解	自述文件	Crawl4AI
+文生音频	文生视频	语音合成	语音模型	视频理解	双曲正切
+断点	断路器模式	线程死锁	残差连接	硬件中断	Breakpoint
+断路器模式	断点	线程死锁	硬件中断	路由器	Stop Sequence
+无服务器	无服务器计算	服务器	Serverless Computing	云服务器	容器服务
+无服务器计算	无服务器	服务器	云服务器	并行计算	Serverless Computing
+无监督学习	自监督学习	监督学习	半监督学习	终身学习	强化学习观测
+无线局域网	局域网	网络连接	网络端口	控制网络	广域网
+早停	Stop Sequence	停止词	即时编译（JIT）	消息传递
+时序数据库	序列化	数据库	数据集	队列数据结构	序列到序列
+时间复杂度	空间复杂度	算法复杂度	Time Complexity	时序数据库	时间窗口
+时间窗口	上下文窗口	Time Complexity	提示链	句向量	线程
+显存	内存	RAM	DDL	内存管理	缓存
+智慧医疗	智慧教育	智慧城市	智能体社会	智能体循环工程	智能体
+智慧城市	智慧教育	智慧医疗	智能体社会	智能体	智能体框架
+智慧教育	智慧医疗	智慧城市	智能体社会	智能体	Smart Education
+智能体	单智能体	自主智能体	多智能体	具身智能	智能体技能
+智能体交接	智能体间通信	智能体工作流	智能体技能	智能体	智能体编排
+智能体工作流	智能体循环工程	智能体	智能体交接	智能体编排	智能体间通信
+智能体循环	智能体循环工程	循环神经网络	智能体工作流	PRAR 循环	工具使用循环
+智能体循环工程	智能体循环	智能体工作流	智能体	智能体交接	智能体间通信
+智能体技能	智能体	单智能体	多智能体	具身智能	智能体交接
+智能体控制层	智能体框架	智能体工作流	智能体	智能体编排	多智能体系统
+智能体框架	多智能体协作框架	智能体	智能体控制层	多智能体系统	智能体间通信
+智能体检索增强生成	检索增强生成	智能体编排	智能体技能	智能搜索	智能体工作流
+智能体社会	智能体	智能体间通信	智能体工作流	多智能体协作框架	多智能体系统
+智能体编排	智能体工作流	智能体控制层	智能体技能	智能体交接	智能体
+智能体自主性	自主智能体	自主性程度	智能体	自治智能体	具身智能
+智能体间通信	智能体交接	智能体	智能体技能	智能体工作流	智能体框架
+智能客服	智能体	智能体工作流	智能体社会	智能体技能	智慧城市
+智能搜索	搜索引擎	搜索算法	检索器	集束搜索	智能体检索增强生成
+智能编程	编程算法	智能体编排	智能体	Solidity（智能合约编程语言）	人工智能
+智能风控	智能体	智能体控制层	性能监控	智能体工作流	自主智能体
+暴力破解	解析器	自洽性解码	软件重构	开发里程碑	大模型评估
+最大输出长度	输出解析	结构化输出	带宽	最大边际相关	流式输出
+最大边际相关	边缘计算	余弦相似度	大模型评估	中间件	长短期记忆网络
+最小权限	用户权限	系统权限	权限边界	文件权限	权限授权
+有界执行	权限边界	确定性验证	过拟合	线程执行器	串行
+服务器	无服务器计算	无服务器	云服务器	容器服务	线程
+服务熔断	微服务熔断	断点	线程死锁	断路器模式	Actor-Critic
+服务等级协议	模型上下文协议	用户数据报协议	传输层安全协议	超文本传输协议	传输控制协议
+服务编排	工作流编排	Agent 编排	服务器	事务处理	Agent编排层
+本地模型	模型版本	大模型	模型版本管理	大模型评估	模型部署
+本地部署	模型部署	云部署	软件部署	持续部署	分布式训练
+机制可解释性	可解释性	自洽性解码	变分自编码器	Agent编排层	Activation Function
+机器人学	机器学习	机器人流程自动化	机器学习模型	机器学习训练	采样 机器学习
+机器人流程自动化	机器人学	智能体工作流	工作流控制	流水线并行	智能体编排
+机器学习	机器学习模型	机器学习训练	博弈论 机器学习	采样 机器学习	机器人学
+机器学习模型	机器学习	机器学习训练	采样 机器学习	机器人学	博弈论 机器学习
+机器学习训练	机器学习模型	机器学习	采样 机器学习	机器人学	Machine Learning Competition
+机器学习运维	机器学习	机器学习模型	机器学习训练	博弈论 机器学习	采样 机器学习
+机器感知	感知机	机器学习	采样 机器学习	视觉语言模型	机器学习训练
+机器翻译	Machine Translation	机器人学	机器感知	编译器	机器学习
+杀进程	系统进程	计算机进程	引导程序	进程管理	进程状态
+权重衰减	梯度消失	梯度下降	频率惩罚	稀疏检索	算法收敛
+权限授权	开放授权	用户权限	授权认证	权限边界	系统权限
+权限边界	边界约束	用户权限	系统权限	最小权限	权限授权
+条件分支	代码分支	文本分块	构建产物	软件交付物	前端组件
+条件语句	循环语句	依存句法分析	句向量	条件分支	提示词示例
+构建产物	模态融合	自聚合	生成式问答	生成器	堆叠集成
+查询-键-值	二分查找	数据库查询	慢查询	键值数据库	信息检索
+查询改写	查询-键-值	生成式问答	修正线性单元	合成数据	代码重构
+标准输入输出	读写分离	流式输出	语音合成	输出解析	字符编码
+核采样	数据采样	采样参数	实验追踪	采样开关	温度采样
+桌面应用	单页应用	远程桌面	应用图标	应用程序	Electron（跨平台桌面应用框架）
+梯度下降	随机梯度下降	梯度消失	梯度累积	梯度提升	梯度检查点
+梯度提升	梯度下降	梯度累积	梯度检查点	梯度消失	Tab Completion
+梯度检查点	梯度提升	梯度累积	层叠样式表	稠密检索	梯度下降
+梯度消失	梯度下降	梯度累积	梯度提升	随机梯度下降	梯度爆炸
+梯度爆炸	梯度消失	梯度下降	梯度累积	Crash Dump	随机梯度下降
+梯度累积	梯度下降	梯度提升	梯度消失	策略梯度	随机梯度下降
+检索器	信息检索	搜索引擎	搜索算法	语义检索	检索增强生成
+检索增强生成	智能体检索增强生成	混合检索	稠密检索	检索器	稀疏检索
+模仿学习	多模态学习	单样本学习	零样本学习	模型记忆	模型训练
+模型上下文协议	模型上下文协议（MCP）	模型部署	文档对象模型	超文本传输协议	模型评估
+模型切换	模型微调	模型对齐	多模态	模型并行	模型版本
+模型剪枝	模型卡	模型对齐	决策树剪枝	二叉树	模型切换
+模型卡	大模型	模型版本	模型对齐	Model Card	本地模型
+模型堆叠	大模型	堆叠集成	多模态大模型	大模型评估	模型泛化
+模型对齐	大模型	跨模态对齐	模型并行	模型训练	大模型评估
+模型并行	模型部署	大模型评估	模型评估	模型监控	模型对齐
+模型微调	模型切换	全参数微调	参数高效微调	大模型评估	模型对齐
+模型忠实性	模型对齐	模型服务	模型量化	模型版本	模型评估
+模型推理	推理模型	模型记忆	模型解释	模型训练	基础模型
+模型收敛	算法收敛	模型泛化	模型微调	模型并行	大模型评估
+模型服务	模型评估	大模型评估	模型量化	模型部署	模型版本
+模型泛化	模型量化	扩散模型	大模型评估	多模态大模型	模型评估
+模型注册表	Windows注册表	模型 API	模型版本管理	基础模型	模型解释
+模型温度	温度采样	模型蒸馏	模型切换	模型微调	模型版本
+模型版本	模型版本管理	大模型	本地模型	模型卡	多模态大模型
+模型版本管理	模型版本	版本控制	模型服务	本地模型	模型 API
+模型监控	系统监控	模型并行	大模型评估	模型部署	大模型
+模型窃取	大模型	多模态大模型	模型卡	模型版本	大模型评估
+模型蒸馏	知识蒸馏	生成器	模型堆叠	Mixture of Experts	大模型评估
+模型解释	模型评估	大模型评估	模型量化	基础模型	模型服务
+模型训练	大模型	模型记忆	模型版本	模型对齐	多模态大模型
+模型记忆	模型训练	大模型	多模态大模型	模型版本	大模型评估
+模型评估	大模型评估	模型量化	模型部署	模型服务	模型并行
+模型辩论	多智能体辩论	跨模态对齐	模型对齐	模型评估	多模态大模型
+模型部署	大模型评估	模型并行	模型评估	模型监控	模型版本
+模型量化	模型评估	大模型评估	模型泛化	量化交易	模型解释
+模态融合	模型并行	多模态	构建产物	跨模态对齐	模型监控
+欠拟合	过拟合	评估集	Encoding	RAG Evaluation	Authentication
+正则化	L2 正则化	L1 正则化	修正线性单元	反序列化	链式法则
+残差网络	残差连接	点对点网络	长短期记忆网络	Network Throughput	NoneType
+残差连接	残差网络	断点	MCP 连接器	高斯误差线性单元	Gaussian Error Linear Unit
+氛围编程	氛围编程（AI 辅助直觉式编码）	智能编程	编程范式	并发编程	编程变量
+汇编语言	大语言模型	语言模型	超文本标记语言	编程语法	数据定义语言
+池化	Prompt Injection	NumPy	PyCharm	提示注入	Prompt Chaining
+治理与伦理	AI伦理	AI治理
+泛化能力	模型泛化	涌现能力	扩散模型	Regularization	去噪扩散概率模型
+波浪号 编程	编程范式	智能编程	编程变量	编程函数	代码构建
+注意力机制	自注意力	多头注意力	状态机	Self-Attention	神经辐射场
+注释规范	代码规范	词性标注	代码注释	目录结构	Standard ML (SML)
+流式响应	响应式	流式输出	HTTP响应	缓冲区溢出	工作流控制
+流式输出	结构化输出	流式响应	输出解析	工作流控制	Standard Streams
+流水线并行	工作流控制	批量归一化	机器人流程自动化	工作流编排	智能体工作流
+测试时计算	并行计算	测试集	基准测试	单元测试	合成数据
+测试环境	Testing Environment	基准测试	测试集	单元测试	A/B测试
+测试集	集成测试	单元测试	基准测试	端到端测试	测试驱动开发
+测试驱动开发	规范驱动开发	事件驱动	集成测试	测试集	端到端测试
+浏览器	浏览器扩展	JavaScript Promise	WebSocket	编辑器	Browser Cookie
+浏览器扩展	浏览器	Browser Extension	JavaScript Promise	扩散模型	ECMAScript（JavaScript 语言标准）
+浮点数	半精度浮点数	事件钩子	数据漂移	贪心算法	Floating Point
+消息传递	消息队列	前向传播	进程调度	Jailbreak	流式响应
+消息队列	消息传递	队列数据结构	并发	进程调度	稳定排序
+涌现能力	涌现行为	泛化能力	奖励塑造	自聚合	强类型
+涌现行为	涌现能力	奖励塑造	Lazy Evaluation	构建产物	泛化能力
+液态神经网络	神经网络	人工神经网络	图神经网络	脉冲神经网络	卷积神经网络
+深度优先搜索	广度优先搜索	深度优先搜索（DFS）	广度优先搜索（BFS）	搜索算法	智能搜索
+深度学习	机器学习	Deep Learning	机器学习模型	AI 反馈强化学习	多模态学习
+混合专家	混合专家模型	混合检索	混合云	混合精度训练	模态融合
+混合专家模型	混合专家	混合精度训练	模型并行	大模型评估	模态融合
+混合云	混合专家	混合检索	混合专家模型	云厂商	模态融合
+混合检索	检索增强生成	稠密检索	混合专家	稀疏检索	检索器
+混合精度训练	训练集	混合专家模型	混合专家	模型训练	混合检索
+温度采样	模型温度	采样参数	数据采样	采样开关	核采样
+源代码	代码编译	代码构建	代码生成	代码打包	自动代码生成
+滑动窗口	上下文窗口	右键菜单	外键	快捷键	主键
+激活函数	函数调用	生成参数	Activation Function	函数参数	Browser Extension
+灰度发布	梯度提升	过拟合	云厂商	模态融合	自洽性解码
+灾难性遗忘	情景记忆	长期记忆	Cryptocurrency	语义记忆	Cryptographic Salt
+点云	CUDA	cuDNN	Point Cloud	Keras	Queue
+点对点网络	网络探针	网络端口	生成对抗网络	网络会话	网络连接
+热更新	版本发布	进程调度	变更日志	回归测试	循环迭代
+版本发布	版本号	软件发布	热更新	版本控制	语义化版本
+版本号	版本发布	版本控制	模型版本	Version Number	Semantic Versioning
+版本控制	模型版本管理	版本号	Version Control	版本发布	语义化版本
+特征工程	特征选择	特征提取	特征归因	提示工程	Feature Engineering
+特征归因	特征选择	特征工程	特征提取	Feature Attribution	归纳偏置
+特征提取	特征选择	特征工程	特征归因	确定性验证	命名实体识别
+特征选择	特征提取	特征工程	特征归因	Feature Selection	确定性验证
+状态机	状态机图	状态码	状态管理	静态检查	进程状态
+状态机图	状态机	状态码	进程状态	多模态	状态管理
+状态码	状态机	状态机图	状态管理	进程状态	有状态单 Agent 工作流
+状态管理	状态机	状态码	状态机图	进程管理	进程状态
+环境变量	环境观测	Environment Variables	Environment Variable	测试环境	交互式解释环境
+环境观测	环境变量	测试环境	Environment Variables	Environment Variable	交互式解释环境
+生产环境	运行环境	开发环境	Production Environment	工作流控制	环境变量
+生成参数	函数参数	文本生成	生成器	参数规模	生成式问答
+生成器	合成数据	生成参数	生成式问答	文本生成	构建产物
+生成对抗网络	对抗样本	点对点网络	对抗训练	对抗攻击	串行
+生成式问答	生成器	文本生成	生成参数	构建产物	生成式 AI
+用户态	用户认证	可用区	状态机图	特征选择	用户数据报协议
+用户数据报协议	数据管道	数据集	服务等级协议	数据库连接	模型上下文协议
+用户权限	系统权限	最小权限	权限边界	文件权限	权限授权
+用户认证	身份认证	授权认证	用户权限	验证码	用户态
+监督学习	自监督学习	半监督学习	无监督学习	强化学习观测	强化学习
+目录结构	数据结构	系统架构	文件目录	文本分类	文本摘要
+目标检测	单元测试	测试集	基准测试	质量校验	集成测试
+直接偏好优化	检索增强生成	优化器	构建产物	零冗余优化器	近端策略优化
+相似度计算	语义相似度	余弦相似度	K近邻算法	边缘计算	图算法
+知识图谱	知识库	Knowledge Graph	认知架构	知识蒸馏	图数据库
+知识库	知识图谱	Knowledge Base	Wikidata（开放知识库）	知识蒸馏	认知架构
+知识蒸馏	模型蒸馏	知识图谱	Sparse Retrieval	Mixture of Experts	知识库
+矩阵乘法	矩阵运算	乘积量化	链式法则	数组	代价函数
+矩阵运算	矩阵乘法	链式法则	乘积量化	向量计算	String Manipulation
+短期记忆	长短期记忆网络	长期记忆	情景记忆	模型记忆	Long-Term Memory
+硬件中断	操作系统中断	断路器模式	程序崩溃	系统崩溃	断点
+硬盘	存储系统	Memory Management	Hard Disk	内存缓冲区	数据存储
+确定性验证	交叉验证	质量校验	验收子代理	测试集	验证信号优先级
+神经架构搜索	神经网络	人工神经网络	神经网络量化	图神经网络	神经网络处理器
+神经网络	人工神经网络	神经网络处理器	图神经网络	神经网络量化	神经架构搜索
+神经网络处理器	神经网络	人工神经网络	神经网络量化	图神经网络	人工神经元
+神经网络量化	神经网络	人工神经网络	神经网络处理器	图神经网络	神经架构搜索
+神经辐射场	神经网络	图神经网络	卷积神经网络	脉冲神经网络	人工神经网络
+私钥	公钥	密钥管理	Private Key	隐私保护ML	隐私保护
+科学计算智能	通用人工智能	人工智能	强人工智能	智能体社会	智能体
+稀疏检索	稠密检索	混合检索	检索增强生成	集束搜索	检索器
+程序上下文	程序日志	引导程序	编程范式	应用程序	程序变量
+程序变量	编程变量	程序日志	编程函数	程序上下文	序列化
+程序崩溃	系统崩溃	程序异常	操作系统中断	硬件中断	线程死锁
+程序异常	异常处理	程序崩溃	程序调试	程序变量	程序日志
+程序日志	程序上下文	进程管理	程序变量	进程调度	系统日志
+程序调试	系统调用	进程调度	并行工具调用	工具调用	程序上下文
+稠密检索	稀疏检索	检索增强生成	混合检索	集束搜索	检索器
+稳定扩散	扩散模型	稳定排序	传输层安全协议	消息传递	聚类
+稳定排序	归并排序	快速排序	重排序	排序算法	序列化
+空值	时间窗口	键值缓存	Value Function	Integer	数组
+空间复杂度	时间复杂度	算法复杂度	模型泛化	困惑度	动作空间
+竞争学习	对抗训练	对抗样本	自我博弈	多智能体博弈	Exploration vs Exploitation
+端到端学习	端到端测试	在线学习	集成学习	前端视图	端口映射
+端到端测试	测试集	集成测试	单元测试	测试驱动开发	端口映射
+端口映射	前端视图	前端组件	端到端测试	网络端口	后端
+符号主义	矩阵运算	字符编码	字符串	数字签名	编程插入符
+策略梯度	近端策略优化	梯度累积	梯度提升	梯度检查点	梯度下降
+算法与数据结构	算法策略	编程算法	数据结构	图算法	博弈论算法
+算法复杂度	空间复杂度	时间复杂度	算法策略	算法与数据结构	编程算法
+算法收敛	模型收敛	算法策略	降维算法	共识算法	提升算法
+算法策略	算法与数据结构	图算法	编程算法	博弈论算法	算法收敛
+算法透明性	系统透明性	算法策略	可解释性	算法复杂度	算法与数据结构
+算法问责制	人工智能问责	算法策略	频率惩罚	惩罚项	算法复杂度
+管道命令	命令行	命令别名	命令提示符	命令行终端	命令历史
+类继承	面向对象继承	遗传算法	子代理	State Reset	公钥
+系统启动	系统引导	引导程序	系统调用	系统进程	系统提示词
+系统崩溃	程序崩溃	操作系统中断	硬件中断	系统启动	系统提示词
+系统引导	引导程序	系统提示词	系统进程	程序上下文	黑板系统
+系统提示词	提示链	提示词	提示工程	系统引导	System Call
+系统日志	程序日志	系统架构	系统提示词	内容管理系统	系统进程
+系统权限	用户权限	权限边界	文件权限	最小权限	系统架构
+系统架构	软件架构	统一计算设备架构	软件框架	认知架构	操作系统内核
+系统监控	模型监控	性能监控	System Monitoring	闭环控制	工作流控制
+系统调用	工具调用	程序调试	并行工具调用	进程调度	函数调用
+系统进程	计算机进程	进程管理	进程调度	进程状态	进程间通信
+系统透明性	算法透明性	系统架构	系统权限	可解释性	OpenTelemetry（可观测性/遥测框架）
+系统镜像	系统架构	操作系统	文件系统	推荐系统	容器镜像
+红队测试	测试集	单元测试	基准测试	Red Teaming	端到端测试
+纳什均衡	K 均值聚类	哈希	布尔	算法收敛	常量
+线性表	线程	修正线性单元	函数参数	代价函数	模型泛化
+线程	线程执行器	串行	线性表	Linear List	进程交换
+线程执行器	任务执行器	线程	进程管理	程序变量	程序日志
+线程死锁	线程	断路器模式	线程执行器	断点	Gaussian Error Linear Unit
+组件化开发	软件构建	开发工具	软件部署	集成测试	集成开发环境
+组归一化	层归一化	构建产物	批量归一化	回归测试	堆叠集成
+终身学习	持续学习	自监督学习	无监督学习	强化学习	监督学习
+结构化查询语言	提示词链式调用	数据定义语言	语言 Agent 树搜索	数据库查询	语义检索
+结构化输出	流式输出	输出解析	Structured Output	合成数据	队列数据结构
+统一计算设备架构	并行计算	系统架构	计算机网络	集成学习	软件架构
+统一资源定位符	同时定位与建图	统一计算设备架构	特征归因	评估集	Local Interpretable Model-agnostic Explanations
+缓冲区溢出	流式响应	Prompt缓存	流式输出	内存缓冲区	键值缓存
+缓存	内存缓冲区	键值缓存	缓存策略	Prompt缓存	KV 缓存
+缓存策略	键值缓存	缓存	Prompt缓存	内存缓冲区	Agentic SDLC
+编排引擎	Operating System Process	交叉编码器重排	Neuron Model	自动代码生成	引导程序
+编码器解码器	变分自编码器	交叉编码器重排	解析器	编译器	字节对编码
+编程函数	编程范式	编程变量	函数调用	编程语法	函数参数
+编程副驾驶	编程模块	程序调试	计算机程序	开发工作流	编程接口
+编程变量	程序变量	编程函数	编程范式	编程语法	编程模块
+编程接口	编程插入符	编程模块	编程函数	编程范式	编程算法
+编程插入符	编程接口	编程钩子	编程范式	嵌入模型	编程变量
+编程模块	编程范式	编程语法	编程函数	编程接口	编程变量
+编程算法	计算机程序	编程语法	算法策略	算法与数据结构	编程函数
+编程范式	编程模块	编程函数	编程语法	编程变量	编程接口
+编程语法	编程范式	编程算法	编程函数	编程变量	编程模块
+编程钩子	事件钩子	React Hooks（React 钩子）	编程插入符	String Manipulation	编程接口
+编译器	编译选项	编辑器	编程模块	代码构建	编程范式
+编译选项	编译器	命令行选项	编辑器	编程模块	Agent编排层
+编辑器	编译器	编译选项	编程模块	Code Editor	Agent 编排
+网关	网络探针	Network Port	公网IP	NetBox	控制网络
+网络代理	代理模式	子代理	反向代理	验收子代理	网络连接
+网络会话	会话管理	点对点网络	计算机网络	对话系统	网络探针
+网络吞吐量	带宽	网络连接	网络端口	网络代理	网络延迟
+网络延迟	网络超时	网络连接	带宽	网络吞吐量	键值缓存
+网络探针	网关	点对点网络	调试探针	网络连接	网络会话
+网络端口	网络连接	路由器	控制网络	前端路由	端口映射
+网络超时	网络延迟	请求超时	带宽	网络连接	控制网络
+网络连接	网络端口	数据库连接	控制网络	路由器	无线局域网
+网页抓取	Apify（网页爬取与自动化平台）	搜索引擎	Search Algorithm	检索增强生成	搜索算法
+美国信息交换标准代码	代码规范	代码提交	进程交换	n-gram	代码评审
+群体智能	智能体社会	智能体	多智能体协作	具身智能	多智能体系统
+联邦学习	Federated Learning	迁移学习	Unsupervised Learning	半监督学习	多模态学习
+聚类	聚类分析	K 均值聚类	基于密度的聚类	集合类型	自聚合
+聚类分析	聚类	K 均值聚类	基于密度的聚类	集合类型	集合数据结构
+胶囊网络	TinyML	PPML	内容分发网络	DORA Metrics	单样本提示
+脉冲神经网络	神经网络	图神经网络	人工神经网络	神经网络处理器	循环神经网络
+脚手架工具	项目脚手架	工具定义	事件钩子	Label Smoothing	Gradle（自动化构建工具）
+脚本 编程	编程模块	编程接口	编程算法	编程函数	代码构建
+脱字符	字符串	读写分离	字节	字符编码	语义检索
+自主性程度	智能体自主性	自主智能体	自洽性解码	自主式 AI	自动代码生成
+自主智能体	智能体	智能体自主性	具身智能	自主式 AI	单智能体
+自动代码生成	代码生成	代码构建	代码提交	代码打包	代码分支
+自动补全	Tab 补全	图像补全/修复	修正线性单元	Gated Recurrent Unit	Backend
+自动规划	动态规划	规划模式	先规划再执行	AI Planning	路径规划
+自动驾驶	Auto-generation	自主智能体	Autonomous Driving	Autocomplete	Autonomous Agent
+自我修复循环	反思循环	事件循环	ReAct Loop	递归自我提升	工具使用循环
+自我博弈	自我修复循环	博弈论算法	自我批评	多智能体博弈	递归自我提升
+自我反思	自我批评	反思机制	反思循环	自监督学习	Recursive Self-Improvement
+自我批评	自我反思	Self-Criticism	自我博弈	Self-Reflection	自述文件
+自治智能体	单智能体	智能体自主性	智能体	多智能体	具身智能
+自注意力	注意力机制	多头注意力	Self-Attention	Self-Supervised Learning	集束搜索
+自洽性校验	自洽性解码	质量校验	确定性验证	思维链自洽性	集成测试
+自洽性解码	自洽性校验	变分自编码器	Extractive QA	Encoding	Module Export
+自然语言处理	Natural Language Processing	spaCy（自然语言处理库）	视觉语言模型	语言模型	多模态大语言模型
+自监督学习	监督学习	半监督学习	无监督学习	终身学习	强化学习观测
+自聚合	构建产物	堆叠集成	自主智能体	聚类	模态融合
+自述文件	文本摘要	文档摘要	NoSQL	文件目录	文生视频
+莫拉维克悖论	思维链
+虚拟专用网络	虚拟机	Virtual DOM	虚拟 DOM	Virtual Memory	Virtual Machine
+虚拟内存	虚拟机	内存	内存管理	Virtual Memory	内存缓冲区
+虚拟机	虚拟专用网络	Virtual Machine	Virtual DOM	虚拟 DOM	虚拟内存
+蜜罐	PPML	容器镜像	容器编排	软件容器
+行为主义	智能体自主性	自主性程度	行为克隆	认知架构	智能体
+行为克隆	构建产物	自聚合	模态融合	CrewAI	生成器
+表示学习	元学习	集成学习	模仿学习	无监督学习	Representation Learning
+规划模式	动态规划	自动规划	先规划再执行	路径规划	任务规划
+规模定律	模型量化	多模态大模型	大模型评估	Model Quantization	链式法则
+规范驱动开发	测试驱动开发	事件驱动	模型并行	集成测试	Specification-Driven Development
+视觉模型	视觉语言模型	大模型幻觉	视觉问答	大模型	视频世界模型
+视觉语言模型	视觉模型	大语言模型	语言模型	多模态大语言模型	大语言模型运维
+视觉问答	视觉模型	视觉语言模型	前端视图	幻觉检测	大模型幻觉
+视频世界模型	世界模型	大模型幻觉	大模型	视觉模型	多模态大模型
+视频理解	文生音频	视频编码	视觉语言模型	自洽性解码	语音模型
+视频编码	视频理解	YouTube Data API v3	代码编译	图像编辑	YouTube 数据 API v3
+角色专业化	角色分工	角色提示	语义角色标注	特征选择	泛化能力
+角色分工	角色专业化	角色提示	语义角色标注	任务规划	任务分解
+角色提示	语义角色标注	角色分工	角色专业化	系统提示词	提示链
+解析器	编码器解码器	输出解析	暴力破解	数据集	集成测试
+触发器	外键	调试探针	Developer Role Shift	主键	生成器
+计算广告	并行计算	图算法	边缘计算	测试时计算	成本估算
+计算机	计算机程序	计算机网络	Computer	计算机视觉	Computer Program
+计算机程序	编程算法	计算机	计算机进程	编程模块	编程函数
+计算机网络	计算机	Computer Network	控制网络	统一计算设备架构	Computer
+计算机视觉	计算机	计算机网络	视觉语言模型	计算机程序	Computer Vision
+计算机进程	系统进程	计算机程序	进程调度	进程管理	进程间通信
+认知架构	系统架构	神经架构搜索	二阶元认知	选择性元认知	智能体框架
+训练损失	训练集	后训练	预训练	模型训练	对抗训练
+训练集	后训练	模型训练	测试集	混合精度训练	预训练
+记忆增强强化学习	强化学习	记忆管理	强化学习观测	逆强化学习	人类反馈强化学习
+记忆管理	记忆增强强化学习	Memory Management	人工智能记忆	长期记忆	Memory Swapping
+论文精读	Paper Review	Paper Reading	文本摘要	Comment Analysis	文本分块
+设计模式	模型切换	本地模型	模型评估	模型版本	模型部署
+证书过期	授权认证	SSL证书
+评估集	模型评估	测试集	大模型评估	集成测试	数据集
+词元	词性标注	词嵌入	语义检索	语义化	语义记忆
+词嵌入	嵌入模型	向量嵌入	依存句法分析	语义化	检索增强生成
+词性标注	语义检索	词元	句向量	特征选择	词嵌入
+词袋模型	Bag of Words	多模态大语言模型	模型记忆	大语言模型	大模型评估
+语义分割	语义化	语义记忆	语法分析	语义网	语义检索
+语义化	语义分割	语义网	语义化版本	语义检索	语义记忆
+语义化版本	语义化	语义网	Semantic Versioning	语义分割	语义检索
+语义检索	语义化	语义网	语义记忆	信息检索	语义分割
+语义相似度	相似度计算	余弦相似度	语义化	语义分割	语义记忆
+语义网	语义化	语义检索	语义分割	语义化版本	语义记忆
+语义角色标注	角色提示	角色分工	角色专业化	语义分割	语义记忆
+语义记忆	语义化	语义分割	语义检索	语义网	情景记忆
+语法分析	语义分割	分词器	依存句法分析	语义化	编程语法
+语言模型	大语言模型	多模态大语言模型	大语言模型运维	视觉语言模型	语音模型
+语音合成	语音模型	Whisper（语音识别模型）	文生音频	语音识别	合成数据
+语音模型	语音合成	语言模型	语音识别	Whisper（语音识别模型）	大语言模型
+语音识别	语音模型	Whisper（语音识别模型）	语音合成	动作识别	语义记忆
+请求体	请求头	拉取请求	HTTP请求	接口请求	过拟合
+请求头	请求体	拉取请求	接口请求	CUDA	PyTorch
+请求超时	网络超时	请求体	网络延迟	拉取请求	响应时间
+读写分离	文件读写	README	语音合成	标准输入输出	流式输出
+调试探针	实验追踪	网络探针	测试集	单元测试	集成测试
+贝尔曼方程	矩阵运算	可微分编程	乘积量化	Bellman Equation	函数计算
+负载均衡	Load Balancer	Gated Recurrent Unit	Model Evaluation	零冗余优化器	TensorFlow
+质量校验	确定性验证	交叉验证	验收子代理	自洽性校验	测试集
+贪心算法	贪心解码	ε-贪婪	博弈论算法	算法策略	图算法
+贪心解码	贪心算法	投机解码	浮点数	ε-贪婪	Misskey
+超分辨率	图像外扩	3D渲染	图像分割	超文本传输协议	跨模态对齐
+超文本传输协议	安全超文本传输协议	超文本标记语言	模型上下文协议	传输层安全协议	传输控制协议
+超文本标记语言	超文本传输协议	汇编语言	数据定义语言	大语言模型	多模态大语言模型
+超级人工智能	人工智能	强人工智能	通用人工智能	博弈论 人工智能	人工智能记忆
+越狱提示词	手机越狱	系统提示词	提示链	提示词	提示产品化
+跨模态对齐	模型对齐	多模态	多模态大模型	模型并行	模态融合
+跨站脚本攻击	跨模态对齐	生成对抗网络	端到端测试	成员推断攻击	中间人攻击
+跨站请求伪造	跨站脚本攻击	请求体	虚拟专用网络	欠拟合	拉取请求
+路径规划	前端路由	规划模式	自动规划	路由	动态规划
+路由	前端路由	路由器	路径规划	线程	光标
+路由器	前端路由	网络端口	网络连接	路由	控制网络
+身份认证	用户认证	验证码	授权认证	命名实体识别	数字证书
+软件	软件工具	软件用户	软件发布	软件框架	软件部署
+软件交付物	软件用户	软件部署	软件容器	软件即服务	验收子代理
+软件即服务	平台即服务	软件用户	软件部署	软件交付物	软件
+软件发布	软件	软件部署	版本发布	软件构建	软件用户
+软件容器	容器服务	容器编排	容器镜像	对象存储桶	软件规格
+软件工具	软件	工具描述	软件用户	开发工具	工具定义
+软件构建	软件架构	软件框架	软件部署	组件化开发	软件重构
+软件架构	软件构建	软件框架	软件部署	系统架构	软件
+软件框架	软件架构	软件构建	软件部署	软件	前端框架
+软件用户	软件	软件工具	软件部署	软件需求	软件框架
+软件规格	软件	软件框架	软件需求	软件架构	软件构建
+软件部署	软件架构	软件构建	软件框架	模型部署	组件化开发
+软件重构	代码重构	软件构建	组件化开发	重定向	软件部署
+软件需求	软件用户	软件	软件工具	软件部署	软件架构
+输出解析	结构化输出	流式输出	解析器	最大输出长度	视频编码
+边界约束	权限边界	有界执行	惩罚项	Dense Retrieval	Strongly Typed
+边缘计算	最大边际相关	图算法	测试时计算	并行计算	向量计算
+迁移学习	数据迁移	数据库迁移	集成学习	情景记忆	ReAct Loop
+过拟合	Nette	构建产物	欠拟合	模态融合	串行
+运行时	运行环境	运行时防护	进程调度	并行计算	串行
+运行时防护	运行时	运行环境	Thread Safety	内容安全护栏	安全护栏
+运行环境	运行时	运行时防护	生产环境	测试环境	环境观测
+近似最近邻	K近邻算法	最大边际相关	语义相似度	余弦相似度
+近端策略优化	策略梯度	直接偏好优化	算法策略	参数高效微调	持续集成
+返回值	函数返回值	Return Value	查询-键-值	ResNet	回归测试
+进程交换	进程间通信	进程管理	进程状态	进程调度	线程
+进程状态	进程管理	进程调度	进程间通信	系统进程	进程交换
+进程管理	进程调度	进程状态	系统进程	进程交换	进程间通信
+进程调度	进程管理	进程状态	系统进程	进程间通信	程序调试
+进程间通信	进程状态	进程交换	进程调度	进程管理	系统进程
+远程仓库	代码仓库	复刻仓库	Git仓库	Git储藏	远程桌面
+远程桌面	桌面应用	Unix Pipe	远程仓库	控制网络	Electron（跨平台桌面应用框架）
+连接主义	网络连接	Residual Connection	Connectionism	Continuous Integration	Linked List
+连续批处理	异常处理	批大小	重复惩罚	事件循环	Trace Debugging
+迭代算法	循环迭代	代码重构	提升算法	自动代码生成	序列化
+逆强化学习	强化学习观测	记忆增强强化学习	强化学习	多智能体强化学习	人类反馈强化学习
+选择性元认知	二阶元认知	认知架构	特征选择	确定性验证	单元测试
+递归	递归切分	递归自我提升	层归一化	Extractive QA	Callback
+递归切分	数据集切分	重叠切分	层归一化	递归	组归一化
+递归自我提升	递归	自我修复循环	层归一化	二阶元认知	递归切分
+通用人工智能	人工智能	强人工智能	超级人工智能	科学计算智能	自主智能体
+通配符	字符串	命令别名	统一资源定位符	README	管道命令
+遍历	感受野	开发里程碑	Laravel	红队测试	复现
+遗传算法	算法策略	序列化	排序算法	图算法	类继承
+部分可观测马尔可夫决策过程	马尔可夫决策过程	大模型评估	集成测试	直接偏好优化	构建产物
+采样 机器学习	机器学习训练	机器学习模型	机器学习	机器人学	单样本学习
+采样参数	数据采样	单样本提示	采样开关	少样本提示	数据集
+采样开关	采样参数	数据采样	调试探针	门控循环单元	静态检查
+重叠切分	递归切分	数据集切分	文档切分	层归一化	堆叠集成
+重复惩罚	频率惩罚	惩罚项	重试规则	惩罚函数	交叉验证
+重定向	软件重构	复现	代码重构	重试	构建产物
+重排序	快速排序	归并排序	排序算法	稳定排序	序列化
+重试	重试规则	软件重构	重排序	测试集	复现
+重试规则	重试	测试集	软件重构	重排序	代码重构
+量化交易	模型量化	向量数据库	乘积量化	向量检索	神经网络量化
+量子机器学习	量子计算	机器学习	博弈论 机器学习	机器人学	机器学习模型
+量子计算	量子机器学习	向量计算	乘积量化	博弈论算法	计算机
+鉴权	授权认证	评估集	CORS	公钥	有界执行
+链式法则	长链推理	矩阵运算	提示词链式调用	思维链自洽性	链表
+链表	提示链	Linked List	链式法则	串行	分库分表
+锁文件	Lock file	文件权限	文件系统	密钥管理	Deadlock Detection
+错误处理	异常处理	容错计算	Error Handling	Gaussian Error Linear Unit	事务处理
+键值数据库	数据库	数据库字段	数据集	向量数据库	快捷键
+键值缓存	缓存	Prompt缓存	缓存策略	内存缓冲区	KV 缓存
+长期记忆	短期记忆	长短期记忆网络	情景记忆	记忆管理	Memory Swapping
+长短期记忆网络	短期记忆	长期记忆	模型记忆	情景记忆	Time Complexity
+长链推理	链式法则	推理-行动循环	思维链自洽性	文本生成推理	推理模型
+门控	门控循环单元	后门攻击	Window Function	闭环控制	主键
+门控循环单元	闭环控制	门控	工具调用循环	工具使用循环	工作流控制
+闭源	闭环控制	Closed Source	线程死锁	Open Source	闭环反馈
+闭环反馈	闭环控制	反思循环	反馈回路	P-D-E-R 闭环	事件循环
+闭环控制	闭环反馈	门控循环单元	工作流控制	系统监控	P-D-E-R 闭环
+问答系统	生成式问答	对话系统	抽取式问答	深度Q网络	Question Answering
+队列数据结构	数据结构	序列化	集合数据结构	数据集	序列到序列
+防火墙	Firebase	Firewall	安全护栏	内容安全护栏	apt-get
+阿里云	阿里云地域	云数据库	云厂商	AWS	亚马逊云服务
+阿里云地域	阿里云	云数据库	云服务器	亚马逊云服务	云厂商
+降维算法	数据降维	提升算法	算法收敛	图算法	算法策略
+随机失活	灾难性遗忘	Error Handling
+随机梯度下降	梯度下降	梯度累积	梯度消失	小批量梯度下降	梯度提升
+随机森林	Random Forest	集束搜索	t-分布随机邻域嵌入	遍历	ImageNet
+隐私保护	隐私保护ML	差分隐私	私钥	Privacy Protection	内容安全护栏
+集合数据结构	集合类型	数据集	数据结构	数据分块	数据集切分
+集合类型	集合数据结构	聚类	聚类分析	堆叠集成	对象类型
+集成学习	集成测试	集合数据结构	集成开发环境	统一计算设备架构	持续集成
+集成开发环境	开发环境	集成测试	组件化开发	开发工作区	集成学习
+集成测试	测试集	集成学习	单元测试	测试驱动开发	组件化开发
+集束搜索	Semantic Search	神经架构搜索	智能搜索	Hybrid Search	检索增强生成
+零信任	Zero Trust	零样本	零样本提示	Non-relational	Data Fetching
+零冗余优化器	优化器	数据库优化	直接偏好优化	Multimodal Large Model	Gated Recurrent Unit
+零样本	零样本提示	少样本	零样本学习	少样本提示	单样本提示
+零样本学习	单样本学习	少样本学习	零样本	零样本提示	基础模型
+零样本提示	少样本提示	零样本	单样本提示	少样本示例	少样本
+需求分析	数据分析	软件需求	请求体	数据分块	数据集
+静态检查	状态机	模型监控	性能监控	目标检测	状态机图
+非关系型数据库	关系型数据库	数据库	数据库事务	集合数据结构	数据集
+非对称加密	对称加密	加密	同态加密	加密货币	掩码语言建模
+面向对象	面向对象编程	面向对象封装	对象类型	对象存储	句向量
+面向对象封装	面向对象	前端组件	对象存储	面向对象编程	对象类型
+面向对象继承	类继承	遗传算法	面向对象封装	层归一化	面向对象
+面向对象编程	面向对象	面向对象封装	编程函数	编程接口	编程范式
+项目脚手架	脚手架工具	开发工作流	模型部署	Project Scaffold	Label Smoothing
+项目里程碑	开发里程碑	开发工作区	开发工作流	线程	评估集
+预测性维护	确定性验证	变更日志	端到端测试	测试集	测试驱动开发
+预训练	后训练	训练集	Pre-training	训练损失	对抗训练
+领域自适应	智能体自主性	自洽性解码	自洽性校验	智能体框架	自主智能体
+频率惩罚	重复惩罚	惩罚项	惩罚函数	交叉编码器重排	交叉验证
+马尔可夫决策过程	部分可观测马尔可夫决策过程	决策树	决策智能	Markov Decision Process	量子机器学习
+验收子代理	子代理	确定性验证	质量校验	交叉验证	集成测试
+验证信号优先级	确定性验证	交叉验证	代码评审	质量校验	验收子代理
+验证码	用户认证	代码审查	身份认证	交叉验证	代码提交
+高并发	并发	Actor 并发模型	持续集成	模型并行	并发编程
+高斯误差线性单元	修正线性单元	Gaussian Error Linear Unit	偏差方差权衡	跨模态对齐	单元测试
+黑板系统	Blackboard System	系统引导	提示模板	PCA	生成式问答

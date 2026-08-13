@@ -1,0 +1,2 @@
+# 论文采集小批量测试（arXiv 精确查询，结果少）
+all:"agentic design patterns"

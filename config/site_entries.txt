@@ -1,0 +1,199 @@
+# 整站抓取清单 — Crawl4AI 抓取入口页，提取站内链接逐页抓取
+# 格式: 入口URL | 站点名 | 类别 | 是否需cookie(yes/no)
+# 共 195 站
+
+https://docs.python.org/zh-cn/3/tutorial/ | Python 官方中文教程 | 官方文档 | no
+https://pytorch.org/tutorials/ | PyTorch 官方教程 | 官方文档 | no
+https://www.tensorflow.org/ | TensorFlow 官方文档 | 官方文档 | no
+https://developer.mozilla.org/ | MDN Web Docs | 官方文档 | no
+https://nodejs.org/ | Node.js 官方文档 | 官方文档 | no
+https://react.dev/ | React 官方文档 | 官方文档 | no
+https://vuejs.org/ | Vue.js 官方文档 | 官方文档 | no
+https://docs.docker.com/ | Docker 官方文档 | 官方文档 | no
+https://kubernetes.io/ | Kubernetes 官方文档 | 官方文档 | no
+https://kubernetes.io/zh-cn/docs/ | Kubernetes 中文文档 | 官方文档 | no
+https://nginx.org/ | Nginx 官方文档 | 官方文档 | no
+https://git-scm.com/ | Git 官方文档 | 官方文档 | no
+https://platform.openai.com/docs | OpenAI 平台文档 | 官方文档 | yes
+https://docs.anthropic.com/ | Anthropic 文档 | 官方文档 | no
+https://ai.google.dev/ | Google AI 开发者文档 | 官方文档 | no
+https://docs.langchain.com/ | LangChain 文档 | 框架文档 | no
+https://docs.llamaindex.ai/ | LlamaIndex 文档 | 框架文档 | no
+https://microsoft.github.io/autogen/ | AutoGen 文档 | 框架文档 | no
+https://docs.ollama.com/ | Ollama 文档 | 工具文档 | no
+https://docs.vllm.ai/ | vLLM 文档 | 工具文档 | no
+https://modelcontextprotocol.io/ | Model Context Protocol | 协议文档 | no
+https://help.aliyun.com/ | 阿里云帮助中心 | 云文档 | no
+https://cloud.tencent.com/document | 腾讯云文档 | 云文档 | no
+https://www.kernel.org/doc/ | Linux Kernel 文档 | 官方文档 | no
+https://dev.mysql.com/doc/ | MySQL 官方文档 | 官方文档 | no
+https://www.postgresql.org/docs/ | PostgreSQL 官方文档 | 官方文档 | no
+https://redis.io/docs/ | Redis 官方文档 | 官方文档 | no
+https://www.mongodb.com/docs/ | MongoDB 官方文档 | 官方文档 | no
+https://expressjs.com/ | Express 官方文档 | 框架文档 | no
+https://www.djangoproject.com/ | Django 官方文档 | 框架文档 | no
+https://flask.palletsprojects.com/ | Flask 官方文档 | 框架文档 | no
+https://fastapi.tiangolo.com/ | FastAPI 官方文档 | 框架文档 | no
+https://webpack.js.org/ | Webpack 官方文档 | 工具文档 | no
+https://vitejs.dev/ | Vite 官方文档 | 工具文档 | no
+https://www.typescriptlang.org/ | TypeScript 官方文档 | 官方文档 | no
+https://learn.microsoft.com/ | Microsoft Learn | 云文档 | no
+https://cloud.google.com/docs | Google Cloud 文档 | 云文档 | no
+https://developer.nvidia.com/cuda-toolkit | NVIDIA CUDA 文档 | 官方文档 | no
+https://www.deepspeed.ai/ | DeepSpeed | 工具文档 | no
+https://docs.comfy.org/ | ComfyUI 文档 | 工具文档 | no
+https://angular.dev/ | Angular 官方文档 | 官方文档 | no
+https://docs.crewai.com/ | CrewAI 文档 | 框架文档 | no
+https://langchain-ai.github.io/langgraph/ | LangGraph 文档 | 框架文档 | no
+https://openai.github.io/openai-agents-python/ | OpenAI Agents SDK | 框架文档 | no
+https://ai.pydantic.dev/ | Pydantic AI | 框架文档 | no
+https://ag2.ai/ | AG2 | 框架文档 | no
+https://www.langflow.org/ | Langflow | 框架文档 | no
+https://docs.crawl4ai.com/ | Crawl4AI 文档 | 工具文档 | no
+https://cursor.com/docs | Cursor 文档 | 官方文档 | no
+https://docs.aws.amazon.com/ | AWS 官方文档 | 云文档 | no
+https://www.paddlepaddle.org.cn/ | PaddlePaddle 官方文档 | 官方文档 | no
+https://www.ros.org/ | ROS 官方文档 | 官方文档 | no
+https://keras.io/ | Keras 官方文档 | 官方文档 | no
+https://scikit-learn.org/ | Scikit-learn 官方文档 | 官方文档 | no
+https://numpy.org/ | NumPy 官方文档 | 官方文档 | no
+https://pandas.pydata.org/ | Pandas 官方文档 | 官方文档 | no
+https://cookbook.openai.com/ | OpenAI Cookbook | 官方文档 | yes
+https://www.gradio.app/ | Gradio 官方文档 | 官方文档 | no
+https://developers.cloudflare.com/ | Cloudflare Learning Center | 官方文档 | no
+https://a2a-protocol.org/ | A2A 协议文档 | 协议文档 | no
+https://scrapy.org/ | Scrapy 官方文档 | 工具文档 | no
+https://google.github.io/adk-docs/ | Google ADK (Agent Development Kit) 文档 | 框架文档 | no
+https://mlflow.org/ | MLflow 官方文档 | 工具文档 | no
+https://playwright.dev/ | Playwright 官方文档 | 工具文档 | no
+https://open.bigmodel.cn/ | GLM 智谱开放平台 | AI 模型 API | no
+https://api-docs.deepseek.com/ | DeepSeek 官方文档 | AI 模型 API | no
+https://qwen.ai/ | Qwen 通义千问 | 阿里 AI 模型 | no
+https://platform.moonshot.cn/ | Kimi 月之暗面 | AI 模型 API | no
+https://opencode.ai/ | OpenCode | 开源 AI 编码 CLI | no
+https://docs.openclaw.ai/ | OpenClaw | 开源 AI Agent 框架 | no
+https://code.claude.com/docs | Claude Code 官方文档 | Claude 编码代理 | no
+https://developers.openai.com/codex | OpenAI Codex | OpenAI 编码代理 | yes
+https://docs.qoder.cn/ | 阿里 QoderWork CN | 阿里 AI 办公助手 | no
+https://qoder.com.cn/ | 阿里 Qoder CN（通义灵码） | 阿里 AI 编程助手 | no
+https://qclaw.qq.com/ | 腾讯 QClaw | 腾讯 AI 助手（OpenClaw 系） | no
+https://www.codebuddy.cn/work/ | 腾讯 WorkBuddy | 腾讯 AI 桌面工作台（OpenClaw 系） | no
+https://www.3blue1brown.com/ | 3Blue1Brown | 视频 | no
+https://cs231n.github.io/ | CS231n 课程讲义 | 课程 | no
+https://cs229.stanford.edu/ | CS229 机器学习讲义 | 课程 | no
+https://www.fast.ai/ | Fast.ai 课程 | 课程 | no
+https://ocw.mit.edu/ | MIT OpenCourseWare | 课程 | no
+https://spinningup.openai.com/ | OpenAI Spinning Up | 课程 | yes
+https://www.freecodecamp.org/ | freeCodeCamp | 编程教育 | no
+https://www.deeplearning.ai/ | DeepLearning.AI | 课程 | no
+https://cs50.harvard.edu/ | CS50 | 课程 | no
+https://web.stanford.edu/class/cs224n/ | CS224n 自然语言处理 | 课程 | no
+https://missing.csail.mit.edu/ | MIT Missing Semester | 课程 | no
+https://cs230.stanford.edu/ | CS230 深度学习 | 课程 | no
+http://introtodeeplearning.com/ | MIT 6.S191 深度学习导论 | 课程 | no
+https://statquest.org/ | StatQuest | 视频 | no
+https://www.imooc.com/ | 慕课网 | 课程 | no
+https://www.icourse163.org/ | 中国大学 MOOC | 课程 | no
+https://karpathy.ai/zero-to-hero.html | Andrej Karpathy 神经网络课程 | 课程 | no
+https://www.davidsilver.uk/teaching/ | David Silver 强化学习课程 | 课程 | no
+https://speech.ee.ntu.edu.tw/~hylee/ml/ | 李宏毅机器学习课程 | 课程 | no
+https://developers.google.com/machine-learning/crash-course/ | Google 机器学习速成课程 | 课程 | no
+https://cs144.github.io/ | Stanford CS144 计算机网络 | 课程 | no
+https://web.stanford.edu/class/cs324/ | Stanford CS324 大语言模型课程 | 课程 | no
+https://pdos.csail.mit.edu/6.S081/ | MIT 6.S081 (xv6) | 课程 | no
+https://www.xuetangx.com/ | 学堂在线 | 课程 | no
+https://build.microsoft.com/ | Microsoft Build | 微软大会录像 | no
+https://io.google/ | Google I/O | 谷歌开发者大会 | no
+https://www.nvidia.com/gtc/ | NVIDIA GTC | AI与图形大会演讲 | no
+https://pytorch.org/ | PyTorch Conference | PyTorch大会录像 | no
+https://thecodingtrain.com/ | The Coding Train | 创意编程 | no
+https://time.geekbang.org/ | 极客时间 | IT视频课程 | no
+https://study.163.com/ | 网易云课堂 | 视频课程 | no
+https://www.jikexueyuan.com/ | 极客学院 | 视频课程 | no
+https://developer.aliyun.com/ | 阿里云开发者社区 | 云技术社区 | yes
+https://hub.baai.ac.cn/ | 智源社区 | AI 垂直社区（需 Cookie） | yes
+https://liaoxuefeng.com/ | 廖雪峰的官方网站 | 教程 | no
+https://www.ruanyifeng.com/blog/ | 阮一峰的网络日志 | 博客 | yes
+https://www.cnblogs.com/ | 博客园 | 技术博客 | no
+https://towardsdatascience.com/ | Towards Data Science | 技术文章 | yes
+https://lilianweng.github.io/ | Lilian Weng Lil'Log | 博客 | yes
+https://jalammar.github.io/ | Jay Alammar 图解博客 | 博客 | no
+https://www.anthropic.com/engineering | Anthropic Engineering Blog | 博客 | no
+https://simonwillison.net/ | Simon Willison's Weblog | 博客 | no
+https://huyenchip.com/ | Chip Huyen 博客 | 博客 | no
+https://sebastianraschka.com/ | Sebastian Raschka 博客 | 博客 | no
+https://thegradient.pub/ | The Gradient | 博客 | no
+https://blog.google/technology/ai/ | Google AI Blog | 博客 | no
+https://distill.pub/ | Distill.pub | 博客 | no
+https://www.51cto.com/ | 51CTO | 技术社区 | no
+https://www.geeksforgeeks.org/ | GeeksforGeeks | 算法教程 | no
+https://realpython.com/ | Real Python | Python教程 | no
+https://hellogithub.com/ | HelloGitHub | 开源月刊 | no
+https://liqi.io/ | 利器 | 创作者工具访谈 | no
+https://scholar.google.com/ | Google Scholar | 学术搜索 | yes
+https://openai.com/research | OpenAI Research | 论文 | yes
+https://deepmind.google/ | DeepMind | 论文 | yes
+https://openalex.org/ | OpenAlex | 学术搜索 | no
+https://ai.meta.com/research/ | Meta AI 研究 | 论文 | no
+https://arxiv-sanity.com/ | arXiv-sanity | 论文筛选 | no
+https://www.connectedpapers.com/ | Connected Papers | 论文关联图谱 | no
+https://dl.acm.org/ | ACM Digital Library | ACM论文库 | no
+https://ieeexplore.ieee.org/ | IEEE Xplore | 学术论文库 | no
+https://link.springer.com/ | SpringerLink | 科学出版 | no
+https://www.paper.edu.cn/ | 中国科技论文在线 | 学术论文发表 | no
+https://scirate.com/ | Scirate | arXiv评论 | no
+https://universe.roboflow.com/ | Roboflow Universe | CV数据集 | no
+https://www.liblib.art/ | LiblibAI | AI绘画模型 | no
+https://www.flaticon.com/ | Flaticon | 扁平化图标 | no
+https://www.iconfont.cn/ | Iconfont | 矢量图标 | no
+https://thenounproject.com/ | The Noun Project | 图标素材 | no
+https://unsplash.com/ | Unsplash | 免费高清图片 | no
+https://changelog.com/ | The Changelog | 开源访谈 | no
+https://lexfridman.com/ | Lex Fridman Podcast | AI深度访谈 | no
+http://lineardigressions.com/ | Linear Digressions | ML播客 | no
+https://www.se-radio.net/ | Software Engineering Radio | 软工播客 | no
+https://softwareengineeringdaily.com/ | Software Engineering Daily | 软工访谈 | no
+https://ai-alignment-podcast.simplecast.com/ | The AI Alignment Podcast | AI对齐播客 | no
+https://soundcloud.com/ | The AI Podcast | NVIDIA访谈 | no
+https://www.jiqizhixin.com/ | 机器之心 | 技术资讯 | no
+https://www.qbitai.com/ | 量子位 | 技术资讯 | no
+https://www.infoq.cn/ | InfoQ 中文 | 技术资讯 | no
+https://sspai.com/ | 少数派 | 科技数码 | no
+https://36kr.com/ | 36氪 | 科技资讯（需 Cookie） | yes
+https://www.huxiu.com/ | 虎嗅 | 科技资讯（需 Cookie） | yes
+https://www.tmtpost.com/ | 钛媒体 | 科技资讯（需 Cookie） | yes
+https://ai.51cto.com/ | AI 前线 | AI 垂直资讯 | no
+https://about.gitlab.com/ | GitLab | 代码托管 | no
+https://colab.research.google.com/ | Google Colab | 在线 IDE | no
+https://tianchi.aliyun.com/ | 阿里云天池 | 竞赛平台 | yes
+https://aistudio.baidu.com/ | 飞桨 AI Studio | 竞赛平台 | yes
+https://wandb.ai/ | Weights & Biases 实验追踪 | 工具 | no
+https://lmarena.ai/ | LMSYS Chatbot Arena LLM 评测榜 | 工具 | no
+https://visualgo.net/ | Visualgo 算法可视化 | 工具 | no
+https://openrouter.ai/ | OpenRouter | 工具 | no
+https://lmstudio.ai/ | LM Studio | 工具 | no
+https://www.overleaf.com/ | Overleaf | LaTeX | no
+https://api.spacexdata.com/v4/ | SpaceX API | 航天发射/火箭数据（社区） | no
+https://cve.org/ | CVE 漏洞库 | 安全 | no
+https://owasp.org/ | OWASP | 安全 | no
+https://portswigger.net/web-security | PortSwigger Web Security Academy | 安全 | no
+https://tryhackme.com/ | TryHackMe 网络安全实战靶场 | 安全 | no
+https://csrc.nist.gov/ | NIST CSRC | 安全 | no
+https://bbs.kanxue.com/ | 看雪论坛 | 逆向安全社区 | yes
+https://www.deeplearningbook.org/ | Deep Learning Book | 文档直链 | no
+https://www.runoob.com/ | 菜鸟教程 | 教程 | no
+https://www.w3cschool.cn/ | W3Cschool | 教程 | no
+https://linux.vbird.org/ | 鸟哥的 Linux 私房菜 | 教程 | no
+https://www.w3schools.com/ | W3Schools | 教程 | no
+https://zh.d2l.ai/ | 动手学深度学习 D2L 中文版 | 教程 | no
+https://hastie.su.domains/ElemStatLearn/ | The Elements of Statistical Learning | 教程 | no
+https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf | PRML 模式识别与机器学习 (Bishop) PDF | 文档直链 | no
+https://git-scm.com/book/zh/v2 | Git 官方中文书 | 教程 | no
+https://web.stanford.edu/~jurafsky/slp3/ | Stanford SLP3 语音与语言处理（第三版） | 教程 | no
+https://www.promptingguide.ai/ | Prompting Guide 提示工程指南 | 教程 | no
+http://incompleteideas.net/book/the-book-2nd.html | Reinforcement Learning: An Introduction (Sutton & Barto) | 文档直链 | no
+https://ostep.org/ | OSTEP 操作系统导论 | 教程 | no
+https://craftinginterpreters.com/ | Crafting Interpreters 手写解释器 | 教程 | no
+https://oi-wiki.org/ | OI Wiki | 教程 | no
+https://www.hello-algo.com/ | Hello 算法 | 教程 | no
+https://sqlbolt.com/ | SQLBolt 交互式 SQL 教程 | 教程 | no

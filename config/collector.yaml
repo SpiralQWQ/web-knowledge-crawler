@@ -1,0 +1,112 @@
+arxiv:
+  interval_sec: 3
+  max_results_per_query: 100
+  max_total_per_query: 200
+cookies:
+  allow_anonymous: false
+  browser: ''
+  cookies_file: ''
+  domains:
+  - 36kr.com
+  - 51cto.com
+  - ai.51cto.com
+  - bbs.kanxue.com
+  - bilibili.com
+  - cnblogs.com
+  - cnodejs.org
+  - codebuddy.cn
+  - csdn.net
+  - dev.to
+  - developer.aliyun.com
+  - docs.google.com
+  - douyin.com
+  - weibo.com
+  - sina.com.cn
+  - gitee.com
+  - github.com
+  - hub.baai.ac.cn
+  - huggingface.co
+  - huxiu.com
+  - iconfont.cn
+  - icourse163.com
+  - imooc.com
+  - infoq.cn
+  - jikexueyuan.com
+  - jiqizhixin.com
+  - juejin.cn
+  - kaggle.com
+  - leetcode.cn
+  - liblib.art
+  - lobste.rs
+  - medium.com
+  - modelscope.cn
+  - moonshot.cn
+  - mp.weixin.qq.com
+  - news.ycombinator.com
+  - open.bigmodel.cn
+  - openrouter.ai
+  - oschina.net
+  - qbitai.com
+  - qoder.com.cn
+  - segmentfault.com
+  - sspai.com
+  - stackoverflow.com
+  - study.163.com
+  - time.geekbang.org
+  - tmtpost.com
+  - tongyi.aliyun.com
+  - v2ex.com
+  - weixin.qq.com
+  - xhslink.com
+  - xiaohongshu.com
+  - xuetangx.com
+  - youtube.com
+  - zhihu.com
+  - aistudio.baidu.com
+  - changelog.com
+  - datawhale.cn
+  - hackernoon.com
+  - lmarena.ai
+  - soundcloud.com
+  - thenounproject.com
+  - tianchi.aliyun.com
+  - tryhackme.com
+  - universe.roboflow.com
+  - wandb.ai
+  - alignmentforum.org
+  - connectedpapers.com
+  - coursera.org
+  - edx.org
+  - flaticon.com
+  - icourse163.org
+  - khanacademy.org
+  - overleaf.com
+  - semanticscholar.org
+  douyin_config: ''
+  profile: ''
+db_path: data/collector.db
+github:
+  min_stars: 500
+  per_page: 100
+  search_pages: 10
+knowledge_root: 知识库
+log_dir: logs
+politeness:
+  req_per_sec: 1
+  retries: 3
+  timeout_sec: 60
+  user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/126.0 Safari/537.36
+tools:
+  acl_anthology_dir: <仓库路径>/data/acl-anthology
+  camofox_dir: <你的工具路径>/T.CamofoxBrowser_AntiDetectBrowser_Exe_v1.13.1
+  crawl4ai_py: ''
+  douyin_dl_py: ''
+  douyin_dl_src: ''
+  ffmpeg: ''
+  media_crawler_dir: <你的工具路径>/T.MediaCrawler_LoginSiteCrawler_Env_v1.0
+  patchright_py: <你的工具路径>/T.patchright_StealthBrowser_Env_v1.61.2/Scripts/python.exe
+  playwright_py: <你的工具路径>/T.Playwright_BrowserAutomation_Env_v1.53/Scripts/python.exe
+  scrapling_py: <你的工具路径>/T.Scrapling_WebScrape_Env_v0.4.12/Scripts/python.exe
+  spider_xhs_dir: <你的工具路径>/T.Spider_XHS_Xiaohongshu_Env_v1.0
+  ytdlp: ''

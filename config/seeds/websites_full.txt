@@ -1,0 +1,339 @@
+# 网站种子补充清单（GLM 全量扫描缺口，2026-08-06）
+# 类型：官方文档 / 框架文档 / 工具文档 / 协议文档 / 教程 / 博客 / 技术社区 / 云文档 / 安全 / 论文 / 学术搜索 / 论文评审 / 论文代码 / 课程 / 视频 / 文档直链
+
+# === 官方技术文档（GLM P2）===
+Python 官方中文教程 | https://docs.python.org/zh-cn/3/tutorial/ | 官方文档
+PyTorch 官方教程 | https://pytorch.org/tutorials/ | 官方文档
+TensorFlow 官方文档 | https://www.tensorflow.org/ | 官方文档
+Hugging Face 文档 | https://huggingface.co/docs | 官方文档
+MDN Web Docs | https://developer.mozilla.org/ | 官方文档
+Node.js 官方文档 | https://nodejs.org/ | 官方文档
+React 官方文档 | https://react.dev/ | 官方文档
+Vue.js 官方文档 | https://vuejs.org/ | 官方文档
+Docker 官方文档 | https://docs.docker.com/ | 官方文档
+Kubernetes 官方文档 | https://kubernetes.io/ | 官方文档
+Kubernetes 中文文档 | https://kubernetes.io/zh-cn/docs/ | 官方文档
+Nginx 官方文档 | https://nginx.org/ | 官方文档
+Git 官方文档 | https://git-scm.com/ | 官方文档
+
+# === AI/LLM/Agent 生态官方文档（GLM P3）===
+OpenAI 平台文档 | https://platform.openai.com/docs | 官方文档
+Anthropic 文档 | https://docs.anthropic.com/ | 官方文档
+Google AI 开发者文档 | https://ai.google.dev/ | 官方文档
+LangChain 文档 | https://docs.langchain.com/ | 框架文档
+LlamaIndex 文档 | https://docs.llamaindex.ai/ | 框架文档
+AutoGen 文档 | https://microsoft.github.io/autogen/ | 框架文档
+Ollama 文档 | https://docs.ollama.com/ | 工具文档
+vLLM 文档 | https://docs.vllm.ai/ | 工具文档
+Model Context Protocol | https://modelcontextprotocol.io/ | 协议文档
+Papers with Code | https://paperswithcode.com/ | 论文代码
+
+# === 中文学习/教程类（GLM P4）===
+菜鸟教程 | https://www.runoob.com/ | 教程
+廖雪峰的官方网站 | https://liaoxuefeng.com/ | 教程
+阮一峰的网络日志 | https://www.ruanyifeng.com/blog/ | 博客
+掘金 | https://juejin.cn/ | 技术社区
+博客园 | https://www.cnblogs.com/ | 技术博客
+W3Cschool | https://www.w3cschool.cn/ | 教程
+GeeksforGeeks | https://www.geeksforgeeks.org/ | 教程
+力扣 LeetCode | https://leetcode.cn/ | 教程
+
+# === 论文/学术类直链（GLM P15）===
+arXiv | https://arxiv.org/ | 论文
+ACL Anthology | https://aclanthology.org/ | 论文
+Semantic Scholar | https://www.semanticscholar.org/ | 学术搜索
+OpenReview | https://openreview.net/ | 论文评审
+
+# === 运维/云/安全类（GLM P16）===
+阿里云帮助中心 | https://help.aliyun.com/ | 云文档
+腾讯云文档 | https://cloud.tencent.com/document | 云文档
+Linux Kernel 文档 | https://www.kernel.org/doc/ | 官方文档
+CVE 漏洞库 | https://cve.org/ | 安全
+OWASP | https://owasp.org/ | 安全
+
+# === 视频/课程站（GLM P17）===
+哔哩哔哩 B站 | https://www.bilibili.com/ | 视频
+YouTube | https://www.youtube.com/ | 视频
+3Blue1Brown | https://www.3blue1brown.com/ | 视频
+Coursera | https://www.coursera.org/ | 课程
+
+# === 官方 PDF/PPT 直链种子（GLM P1）===
+Deep Learning Book | https://www.deeplearningbook.org/ | 文档直链
+Attention Is All You Need（论文 PDF） | https://arxiv.org/pdf/1706.03762 | 文档直链
+CS231n 课程讲义 | https://cs231n.github.io/ | 课程
+CS229 机器学习讲义 | https://cs229.stanford.edu/ | 课程
+Fast.ai 课程 | https://www.fast.ai/ | 课程
+
+# === 代码托管平台（GLM P1/P2，手册 Git/GitHub/GitLab/Gitee 章节 565 行）===
+GitHub | https://github.com/ | 技术社区
+Gitee | https://gitee.com/ | 技术社区
+GitLab | https://about.gitlab.com/ | 技术社区
+
+# === 编程问答社区（GLM P1，Debug/报错场景天然匹配）===
+Stack Overflow | https://stackoverflow.com/ | 技术社区
+
+# === 中文技术社区/博客（GLM P1，补博客园/掘金）===
+知乎 | https://www.zhihu.com/ | 技术社区
+CSDN | https://www.csdn.net/ | 技术博客
+
+# === 学术搜索/前沿论文（GLM P1，补 arXiv/Semantic Scholar）===
+Google Scholar | https://scholar.google.com/ | 学术搜索
+DBLP | https://dblp.org/ | 学术搜索
+OpenAI Research | https://openai.com/research | 论文
+DeepMind | https://deepmind.google/ | 论文
+
+# === 数据库官方文档（GLM P2）===
+MySQL 官方文档 | https://dev.mysql.com/doc/ | 官方文档
+PostgreSQL 官方文档 | https://www.postgresql.org/docs/ | 官方文档
+Redis 官方文档 | https://redis.io/docs/ | 官方文档
+MongoDB 官方文档 | https://www.mongodb.com/docs/ | 官方文档
+
+# === 后端框架官方文档（GLM P2，手册 855-861 行）===
+Express 官方文档 | https://expressjs.com/ | 框架文档
+Django 官方文档 | https://www.djangoproject.com/ | 框架文档
+Flask 官方文档 | https://flask.palletsprojects.com/ | 框架文档
+FastAPI 官方文档 | https://fastapi.tiangolo.com/ | 框架文档
+
+# === 前端工具链官方文档（GLM P2，手册 726/728/732 行）===
+Webpack 官方文档 | https://webpack.js.org/ | 工具文档
+Vite 官方文档 | https://vitejs.dev/ | 工具文档
+TypeScript 官方文档 | https://www.typescriptlang.org/ | 官方文档
+
+# === 云厂商文档（GLM P2，补阿里云/腾讯云）===
+Microsoft Learn | https://learn.microsoft.com/ | 云文档
+Google Cloud 文档 | https://cloud.google.com/docs | 云文档
+
+# === 公开课（GLM P3，补 Coursera/Fast.ai）===
+MIT OpenCourseWare | https://ocw.mit.edu/ | 课程
+edX | https://www.edx.org/ | 课程
+
+# === 强化学习教学资源（GLM P3，手册 RL 章节体量大）===
+OpenAI Spinning Up | https://spinningup.openai.com/ | 课程
+
+# === 推理/优化工具官方文档（GLM P10）===
+NVIDIA CUDA 文档 | https://developer.nvidia.com/cuda-toolkit | 官方文档
+DeepSpeed | https://www.deepspeed.ai/ | 工具文档
+TensorRT-LLM | https://github.com/NVIDIA/TensorRT-LLM | 工具文档
+llama.cpp | https://github.com/ggml-org/llama.cpp | 工具文档
+ComfyUI 文档 | https://docs.comfy.org/ | 工具文档
+
+# === 前端/Agent 框架官方文档（GLM P12）===
+Angular 官方文档 | https://angular.dev/ | 官方文档
+CrewAI 文档 | https://docs.crewai.com/ | 框架文档
+LangGraph 文档 | https://langchain-ai.github.io/langgraph/ | 框架文档
+OpenAI Agents SDK | https://openai.github.io/openai-agents-python/ | 框架文档
+Pydantic AI | https://ai.pydantic.dev/ | 框架文档
+AG2 | https://ag2.ai/ | 框架文档
+Langflow | https://www.langflow.org/ | 框架文档
+Crawl4AI 文档 | https://docs.crawl4ai.com/ | 工具文档
+Cursor 文档 | https://cursor.com/docs | 官方文档
+
+# === AI 资讯/社区（GLM P13）===
+ModelScope 魔搭 | https://modelscope.cn/ | 技术社区
+机器之心 | https://www.jiqizhixin.com/ | 技术社区
+量子位 | https://www.qbitai.com/ | 技术社区
+鸟哥的 Linux 私房菜 | https://linux.vbird.org/ | 教程
+
+# === 课程/学习平台（GLM P14）===
+Kaggle | https://www.kaggle.com | 技术社区
+Google Colab | https://colab.research.google.com/ | 工具文档
+W3Schools | https://www.w3schools.com/ | 教程
+freeCodeCamp | https://www.freecodecamp.org/ | 课程
+DeepLearning.AI | https://www.deeplearning.ai/ | 课程
+CS50 | https://cs50.harvard.edu/ | 课程
+
+# === 学术搜索（GLM P15）===
+OpenAlex | https://openalex.org/ | 学术搜索
+
+# === 补充站点（GLM P12-P26，2026-08-06）===
+AWS 官方文档 | https://docs.aws.amazon.com/ | 云文档
+CS224n 自然语言处理 | https://web.stanford.edu/class/cs224n/ | 课程
+PaddlePaddle 官方文档 | https://www.paddlepaddle.org.cn/ | 官方文档
+ROS 官方文档 | https://www.ros.org/ | 官方文档
+Keras 官方文档 | https://keras.io/ | 官方文档
+MIT Missing Semester | https://missing.csail.mit.edu/ | 课程
+CS230 深度学习 | https://cs230.stanford.edu/ | 课程
+MIT 6.S191 深度学习导论 | http://introtodeeplearning.com/ | 课程
+PortSwigger Web Security Academy | https://portswigger.net/web-security | 安全
+Towards Data Science | https://towardsdatascience.com/ | 博客
+StatQuest | https://statquest.org/ | 视频
+Hacker News | https://news.ycombinator.com/ | 技术社区
+思否 SegmentFault | https://segmentfault.com/ | 技术社区
+慕课网 | https://www.imooc.com/ | 课程
+中国大学 MOOC | https://www.icourse163.org/ | 课程
+
+# === 经典 ML / 数据科学基础官方文档（GLM 命令补充）===
+Scikit-learn 官方文档 | https://scikit-learn.org/ | 官方文档
+NumPy 官方文档 | https://numpy.org/ | 官方文档
+Pandas 官方文档 | https://pandas.pydata.org/ | 官方文档
+
+# === 数学基础（GLM 命令补充）===
+Khan Academy 可汗学院 | https://www.khanacademy.org/ | 课程
+
+# === 深度学习/神经网络教程（GLM 命令补充）===
+动手学深度学习 D2L 中文版 | https://zh.d2l.ai/ | 教程
+Andrej Karpathy 神经网络课程 | https://karpathy.ai/zero-to-hero.html | 课程
+David Silver 强化学习课程 | https://www.davidsilver.uk/teaching/ | 课程
+李宏毅机器学习课程 | https://speech.ee.ntu.edu.tw/~hylee/ml/ | 课程
+
+# === 技术博客（GLM 命令补充）===
+Lilian Weng Lil'Log | https://lilianweng.github.io/ | 博客
+Jay Alammar 图解博客 | https://jalammar.github.io/ | 博客
+
+# === 中文 AI 社区（GLM 命令补充）===
+Datawhale 开源学习社区 | https://datawhale.cn/ | 技术社区
+
+# === GLM 命令补充：OpenAI/Anthropic Cookbook + LLM 工具链（2026-08-06，GLM P3-P5）===
+OpenAI Cookbook | https://cookbook.openai.com/ | 官方文档
+Anthropic Cookbook | https://github.com/anthropics/anthropic-cookbook | 工具文档
+Gradio 官方文档 | https://www.gradio.app/ | 官方文档
+
+# === GLM 命令补充：ML 基础教程与经典教材（2026-08-06，GLM P6-P8）===
+Google 机器学习速成课程 ML Crash Course | https://developers.google.com/machine-learning/crash-course/ | 课程
+The Elements of Statistical Learning | https://hastie.su.domains/ElemStatLearn/ | 教程
+PRML 模式识别与机器学习 (Bishop) PDF | https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf | 文档直链
+
+# === GLM 命令补充：Git/GitHub 深度资料（2026-08-06，GLM P9-P10）===
+GitHub Docs 官方文档 | https://docs.github.com/ | 官方文档
+Git 官方中文书 | https://git-scm.com/book/zh/v2 | 教程
+
+# === GLM 命令补充：网络/学术课程（2026-08-06，GLM P11-P12）===
+Cloudflare Learning Center | https://developers.cloudflare.com/ | 官方文档
+Stanford CS144 计算机网络 | https://cs144.github.io/ | 课程
+
+# === GLM 命令补充：可选协议/数据库教程（2026-08-06，GLM P13-P14）===
+A2A 协议文档 | https://a2a-protocol.org/ | 协议文档
+SQLBolt 交互式 SQL 教程 | https://sqlbolt.com/ | 教程
+
+# === GLM 命令补充：爬虫/Agent/MLOps/LLM 评测/NLP/提示工程（2026-08-06）===
+Scrapy 官方文档 | https://scrapy.org/ | 工具文档
+Google ADK (Agent Development Kit) 文档 | https://google.github.io/adk-docs/ | 框架文档
+Stanford SLP3 语音与语言处理（第三版） | https://web.stanford.edu/~jurafsky/slp3/ | 教程
+Prompting Guide 提示工程指南 | https://www.promptingguide.ai/ | 教程
+MLflow 官方文档 | https://mlflow.org/ | 工具文档
+Weights & Biases 实验追踪 | https://wandb.ai/ | 工具文档
+LMSYS Chatbot Arena LLM 评测榜 | https://lmarena.ai/ | 工具文档
+Playwright 官方文档 | https://playwright.dev/ | 工具文档
+Stanford CS324 大语言模型课程 | https://web.stanford.edu/class/cs324/ | 课程
+
+# === GLM 命令补充：RL 权威教材直链 + 工程实践博客 + OS/算法/编译/安全教程（2026-08-06）===
+Reinforcement Learning: An Introduction (Sutton & Barto) | http://incompleteideas.net/book/the-book-2nd.html | 文档直链
+Anthropic Engineering Blog | https://www.anthropic.com/engineering | 博客
+OSTEP 操作系统导论 | https://ostep.org/ | 教程
+Visualgo 算法可视化 | https://visualgo.net/ | 教程
+Crafting Interpreters 手写解释器 | https://craftinginterpreters.com/ | 教程
+TryHackMe 网络安全实战靶场 | https://tryhackme.com/ | 安全
+
+# === GLM 命令补充：外部参考博客（2026-08-06，LLM/Agent/ML工程章节）===
+Simon Willison's Weblog | https://simonwillison.net/ | 博客
+Chip Huyen 博客 | https://huyenchip.com/ | 博客
+Sebastian Raschka 博客 | https://sebastianraschka.com/ | 博客
+The Gradient | https://thegradient.pub/ | 博客
+
+# === GLM 命令补充：官方研究/文档博客（2026-08-06）===
+Hugging Face Blog | https://huggingface.co/blog | 博客
+Google AI Blog | https://blog.google/technology/ai/ | 博客
+Meta AI 研究 | https://ai.meta.com/research/ | 论文
+
+# === GLM 命令补充：工具/环境文档（2026-08-06）===
+OpenRouter | https://openrouter.ai/ | 工具文档
+LM Studio | https://lmstudio.ai/ | 工具文档
+
+# === GLM 命令补充：中文学习生态（2026-08-06）===
+学堂在线 | https://www.xuetangx.com/ | 课程
+阿里云天池 | https://tianchi.aliyun.com/ | 技术社区
+飞桨 AI Studio | https://aistudio.baidu.com/ | 技术社区
+
+# === GLM 命令补充：顶级学术会议（2026-08-06）===
+NeurIPS | https://neurips.cc/ | 论文
+ICML | https://icml.cc/ | 论文
+ICLR | https://iclr.cc/ | 论文
+
+# === GLM 命令补充：加密标准/OS实战/DS&A百科/AI对齐/LLM代码/可解释性/图解教程（2026-08-06）===
+NIST CSRC | https://csrc.nist.gov/ | 安全
+MIT 6.S081 (xv6) | https://pdos.csail.mit.edu/6.S081/ | 课程
+OI Wiki | https://oi-wiki.org/ | 教程
+AI Alignment Forum | https://www.alignmentforum.org/ | 技术社区
+nanoGPT | https://github.com/karpathy/nanoGPT | 工具文档
+Distill.pub | https://distill.pub/ | 博客
+Hello 算法 | https://www.hello-algo.com/ | 教程
+HF 中文文档 | https://huggingface.co/docs/transformers/zh | 官方文档
+小红书 | https://www.xiaohongshu.com/ | 图文/视频社区（需 Cookie，风控严）
+微信公众号 | https://mp.weixin.qq.com/ | 技术公众号文章
+51CTO | https://www.51cto.com/ | 技术社区
+开源中国 | https://www.oschina.net/ | 技术社区
+InfoQ 中文 | https://www.infoq.cn/ | 技术资讯
+少数派 | https://sspai.com/ | 科技数码
+HackerNoon | https://hackernoon.com/ | 技术博客
+Dev.to | https://dev.to/ | 开发者社区
+Medium | https://medium.com/ | 技术博客
+arXiv-sanity | https://arxiv-sanity.com/ | 论文筛选
+GitHub Trending | https://github.com/trending | 趋势仓库
+看雪论坛 | bbs.kanxue.com | 逆向安全社区
+Microsoft Build | build.microsoft.com | 微软大会录像
+The Changelog | changelog.com | 开源访谈
+Connected Papers | connectedpapers.com | 论文关联图谱
+Dev.to | dev.to | 开发者博客
+阿里云开发者社区 | developer.aliyun.com | 云技术社区
+ACM Digital Library | dl.acm.org | ACM论文库
+Flaticon | flaticon.com | 扁平化图标
+FreeCodeCamp | freecodecamp.org | 编程教育
+GeeksforGeeks | geeksforgeeks.org | 算法教程
+HelloGitHub | hellogithub.com | 开源月刊
+Iconfont | iconfont.cn | 矢量图标
+IEEE Xplore | ieeexplore.ieee.org | 学术论文库
+Google I/O | io.google | 谷歌开发者大会
+Kaggle Datasets | kaggle.com/datasets | 数据集
+LeetCode | leetcode.cn | 算法题库
+LeetCode | leetcode.com | 编程教程
+Lex Fridman Podcast | lexfridman.com | AI深度访谈
+LiblibAI | liblib.art | AI绘画模型
+Linear Digressions | lineardigressions.com | ML播客
+SpringerLink | link.springer.com | 科学出版
+利器 | liqi.io | 创作者工具访谈
+Lobsters | lobste.rs | 极客技术聚合
+ModelScope | modelscope.cn | 中文模型社区
+Hacker News | news.ycombinator.com | 科技新闻
+NVIDIA GTC | nvidia.com/gtc | AI与图形大会演讲
+Overleaf | overleaf.com | LaTeX文档
+中国科技论文在线 | paper.edu.cn | 学术论文发表
+PyTorch Conference | pytorch.org | PyTorch大会录像
+Real Python | realpython.com | Python教程
+Scirate | scirate.com | arXiv评论
+Software Engineering Daily | se-radio.net | 软工播客
+The AI Alignment Podcast | simplecast.com | AI对齐播客
+Software Engineering Daily | softwareengineeringdaily.com | 软工访谈
+The AI Podcast | soundcloud.com | NVIDIA访谈
+The Coding Train | thecodingtrain.com | 创意编程
+The Noun Project | thenounproject.com | 图标素材
+极客时间 | time.geekbang.org | IT视频课程
+Towards Data Science | towardsdatascience.com | 技术文章
+Roboflow Universe | universe.roboflow.com | CV数据集
+Unsplash | unsplash.com | 免费高清图片
+V2EX | v2ex.com | 技术社区
+Machine Learning Street Talk | youtube.com | ML前沿讨论
+Awesome Public Datasets | github.com/awesomedata/awesome-public-datasets | 公开数据集合集
+网易云课堂 | https://study.163.com/ | 视频课程（需 Cookie）
+极客学院 | https://www.jikexueyuan.com/ | 视频课程
+36氪 | https://36kr.com/ | 科技资讯（需 Cookie）
+虎嗅 | https://www.huxiu.com/ | 科技资讯（需 Cookie）
+钛媒体 | https://www.tmtpost.com/ | 科技资讯（需 Cookie）
+CNode | https://cnodejs.org/ | Node.js 开发者社区
+AI 前线 | https://ai.51cto.com/ | AI 垂直资讯
+智源社区 | https://hub.baai.ac.cn/ | AI 垂直社区（需 Cookie）
+Paper Weekly | https://github.com/paperweekly/paperweekly | 论文周报
+GLM 智谱开放平台 | https://open.bigmodel.cn/ | AI 模型 API
+DeepSeek 官方文档 | https://api-docs.deepseek.com/ | AI 模型 API
+Qwen 通义千问 | https://qwen.ai/ | 阿里 AI 模型
+Kimi 月之暗面 | https://platform.moonshot.cn/ | AI 模型 API
+OpenCode | https://opencode.ai/ | 开源 AI 编码 CLI
+OpenClaw | https://docs.openclaw.ai/ | 开源 AI Agent 框架
+Claude Code 官方文档 | https://code.claude.com/docs | Claude 编码代理
+OpenAI Codex | https://developers.openai.com/codex | OpenAI 编码代理
+Nous Research Hermes | https://huggingface.co/NousResearch | Hermes 系列模型
+SpaceX API | https://api.spacexdata.com/v4/ | 航天发射/火箭数据（社区）
+SpaceX-API GitHub | https://github.com/r-spacex/SpaceX-API | 航天数据开源 API
+腾讯 WorkBuddy | https://www.codebuddy.cn/work/ | 腾讯 AI 桌面工作台（OpenClaw 系）
+腾讯 QClaw | https://qclaw.qq.com/ | 腾讯 AI 助手（OpenClaw 系）
+阿里 Qoder CN（通义灵码） | https://qoder.com.cn/ | 阿里 AI 编程助手
+阿里 QoderWork CN | https://docs.qoder.cn/ | 阿里 AI 办公助手

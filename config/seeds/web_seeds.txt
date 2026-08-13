@@ -1,0 +1,5 @@
+# 网页种子 URL（每行一个，空行和 # 开头忽略）
+# 建议：技术博客 / 官方文档 / 教程站点首页（爬取器会对导航页深爬）
+# https://docs.python.org/zh-cn/3/tutorial/
+# https://pytorch.org/tutorials/
+# https://www.runoob.com/

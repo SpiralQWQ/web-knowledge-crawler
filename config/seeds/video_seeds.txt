@@ -1,0 +1,4 @@
+# 视频链接种子（每行一个 URL，支持抖音/B站/YouTube）
+# https://www.douyin.com/video/0000000000000000000
+# https://www.bilibili.com/video/BV1xxxxxxxx
+# https://www.youtube.com/watch?v=xxxx
