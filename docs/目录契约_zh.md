@@ -22,7 +22,6 @@ web-knowledge-crawler/
 │   ├── filter/           #   相关 / 噪音过滤
 │   ├── interaction/      #   交互与偏好
 │   └── domain/           #   词库 / 词性格 / 站映射 / 登录规则
-├── shared/               # ★ 纯工具函数（零业务依赖）
 ├── config/               # 静态配置（collector.yaml / seeds/）
 ├── data/                 # 运行时数据（cookie / db / acl 数据）
 ├── 知识库/               # 采集输出（知识库）
@@ -43,7 +42,6 @@ web-knowledge-crawler/
 | core/filter/ | 相关 / 噪音过滤 | 下载 |
 | core/interaction/ | 交互函数（问用户） | 下载实现 |
 | core/domain/ | 词库/词性格/站映射纯逻辑 | 网络 / IO |
-| shared/ | 纯函数（无业务） | 任何业务逻辑 |
 | config/ | 静态配置 | 运行时状态 |
 | data/ | 运行时数据 | 代码 |
 | 知识库/ | 采集输出 | 代码 |
@@ -52,19 +50,19 @@ web-knowledge-crawler/
 ## 3. 单向依赖规则
 
 ```
-app → core.{engines,bridges,download,auth,filter,interaction,domain} → shared
-                    ↑                                          ↓
+app → core.{engines,bridges,download,auth,filter,interaction,domain}
+                    ↑
        （core 内部：interaction/domain → download → bridges/engines）
 ```
 
-- **禁止反向依赖**：shared 不能 import core；core 不能 import app
+- **禁止反向依赖**：core 不能 import app；app/core 不依赖 data/ 等运行时目录
 - **core 内部**：逻辑层（interaction/domain）可调执行层（download/auth/engines/bridges）；执行层禁止调交互层
 - 跨目录调用走公开入口（`__init__.py` 或明确函数），禁止 import 私有内部
 
 ## 4. 禁止项（Hard Rules）
 
 - ❌ 禁止按文件后缀建目录（`*.py`、`helpers/` 平铺散落）
-- ❌ 禁止业务逻辑散落 shared/ 或 utils/（只放纯函数）
+- ❌ 禁止业务逻辑散落 utils/（纯函数放 core/ 内对应子模块）
 - ❌ 禁止目录嵌套超过 3 层
 - ❌ 禁止测试/配置/部署文件混入 core/
 - ❌ 禁止 `.env` 真实文件入库（只入 `.env.example`）
@@ -76,5 +74,5 @@ app → core.{engines,bridges,download,auth,filter,interaction,domain} → share
 - 新增搜索器 → `core/engines/`
 - 新增下载类型 → `core/download/`
 - 新增交互 → `core/interaction/`
-- 新增纯工具 → `shared/`
+- 新增纯工具 → `core/` 内对应子模块（禁止建顶层 `shared/`）
 - **永不改变既有结构，只在对应域内新增。**
