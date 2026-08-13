@@ -51,11 +51,11 @@ python app/crawl_guide.py
 ## 直接命令行（进阶）
 
 ```bash
-# 单个词、选定站点爬取
-python app/crawl_all.py --terms "reinforcement learning" --sites arxiv --max-results 5
+# 从词表文件爬取指定站（--terms 是词表文件路径，每行一个词）
+python app/crawl_all.py --terms config/seeds/vocab_terms.txt --sites arxiv --max-results 5
 
 # 自定义输出目录
-python app/crawl_all.py --terms "transformer" --sites arxiv,bilibili \
+python app/crawl_all.py --terms config/seeds/vocab_terms.txt --sites arxiv,bilibili \
     --max-results 5 --out-dir /你的输出目录
 
 # 整站爬取
@@ -95,7 +95,7 @@ YouTube 需本地代理（如 Clash，端口 7897）；程序自动探测。
 引导自动检测登录态：未登录 → 自动开浏览器登录页 → 登录 → 自动收集 cookie → 二次校验。
 
 ### 数据存在哪？
-`知识库/{词}/{站}/{类型}/00_日期_标题_大小/` + `meta.json`，外加 HTML 双份便于浏览。可用 `--out-dir` 换位置。
+`知识库/{词}/{类型}/{站}/00_日期_标题_大小/` + `meta.json`，外加 HTML 双份便于浏览。可用 `--out-dir` 换位置。
 
 ### 中途 Ctrl+C？
 安全 —— 已下载的已落盘，其余跳过。中断无妨。

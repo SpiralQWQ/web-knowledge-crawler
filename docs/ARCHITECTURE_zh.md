@@ -53,7 +53,7 @@ config/ → data/（cookie/db）→ 知识库/（采集输出）
    │                 ├─ yt-dlp（视频 / 音频）
    │                 └─ 渲染桥（JS 重 / 反爬页面）
    ▼
-知识库/{词}/{站}/{类型}/00_日期_标题_大小/  +  meta.json
+知识库/{词}/{类型}/{站}/00_日期_标题_大小/  +  meta.json
 ```
 
 每一阶段都是 asyncio 协程；整条管线由 `core/download`（调度器）编排，默认低并发（3 词）+ 站间延迟 + 超时重试。
@@ -98,7 +98,7 @@ class ArxivSearcher(BaseSearcher):
 多引擎回退 → cookie 注入 → 隐形渲染器（Crawl4AI / Scrapling / patchright / Playwright）→ CDP 真实浏览器 → 低并发 + 延迟。
 
 ### 输出（`知识库/`）
-每条按 `知识库/{词}/{站}/{类型}/00_日期_标题_大小/` 落盘，含 `meta.json`，外加 HTML 双份（原始 + 干净正文）便于浏览。详见 `docs/输出规范.md`。
+每条按 `知识库/{词}/{类型}/{站}/00_日期_标题_大小/` 落盘，含 `meta.json`，外加 HTML 双份（原始 + 干净正文）便于浏览。详见 `docs/输出规范.md`。
 
 ## 扩展点
 

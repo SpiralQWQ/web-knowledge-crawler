@@ -51,11 +51,11 @@ Manual install: `pip install -r requirements.txt`, then copy `.env.example` to `
 ## Direct CLI (advanced)
 
 ```bash
-# Crawl a single term on selected sites
-python app/crawl_all.py --terms "reinforcement learning" --sites arxiv --max-results 5
+# Crawl terms from a term-list file on selected sites (--terms is a file path)
+python app/crawl_all.py --terms config/seeds/vocab_terms.txt --sites arxiv --max-results 5
 
 # Custom output directory
-python app/crawl_all.py --terms "transformer" --sites arxiv,bilibili \
+python app/crawl_all.py --terms config/seeds/vocab_terms.txt --sites arxiv,bilibili \
     --max-results 5 --out-dir /your/output
 
 # Whole-site crawl
@@ -95,7 +95,7 @@ YouTube needs a local proxy (e.g. Clash, port 7897); the program auto-detects it
 The guide auto-detects login state: no login → auto-opens the browser login page → login → auto-collects cookies → verifies.
 
 ### Where did my data go?
-`知识库/{term}/{site}/{type}/00_date_title_size/` + `meta.json`, plus an HTML double-save for browsing. Override with `--out-dir`.
+`知识库/{term}/{type}/{site}/00_date_title_size/` + `meta.json`, plus an HTML double-save for browsing. Override with `--out-dir`.
 
 ### Ctrl+C during a run?
 Safe — downloaded items are already saved; the rest is skipped. Interrupting is fine.

@@ -53,7 +53,7 @@ term / link
    │                ├─ yt-dlp (video / audio)
    │                └─ renderer bridge (JS-heavy / anti-bot pages)
    ▼
-知识库/{term}/{site}/{type}/00_date_title_size/  +  meta.json
+知识库/{term}/{type}/{site}/00_date_title_size/  +  meta.json
 ```
 
 Each stage is an asyncio coroutine; the whole pipeline is orchestrated in `core/download` (scheduler) with low default concurrency (3 terms) + inter-site delay + timeout retry.
@@ -98,7 +98,7 @@ A searcher may also depend on external tools (Crawl4AI, Playwright, yt-dlp, Medi
 Multi-engine fallback → cookie injection → stealth renderer (Crawl4AI / Scrapling / patchright / Playwright) → CDP real-browser → low concurrency + delays.
 
 ### Output (`知识库/`)
-Each item is saved under `知识库/{term}/{site}/{type}/00_日期_标题_大小/` with a `meta.json`, plus an HTML double-save (raw + denoised body) for browsability. See `docs/输出规范.md`.
+Each item is saved under `知识库/{term}/{type}/{site}/00_日期_标题_大小/` with a `meta.json`, plus an HTML double-save (raw + denoised body) for browsability. See `docs/输出规范.md`.
 
 ## Extension Points
 

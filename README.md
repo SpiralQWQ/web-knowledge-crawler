@@ -35,7 +35,7 @@ web-knowledge-crawler is a **domain knowledge crawler**. You feed it professiona
 
 - Searches **51 websites** across 8 content types (papers / videos / articles / code / datasets / courses / docs / Q&A)
 - **Downloads raw files** of every type — PDF, MP4, code repos, images, audio, archives
-- **Organizes** them into a `知识库/` (knowledge base) directory: `{term}/{site}/{type}/00_date_title_size/` + `meta.json`
+- **Organizes** them into a `知识库/` (knowledge base) directory: `{term}/{type}/{site}/00_date_title_size/` + `meta.json`
 - Filters noise, deduplicates (SQLite), and produces clean text for HTML pages
 
 **Raw data only.** No parsing, no OCR, no AI note generation — that's a separate pipeline (e.g. MinerU / ASR / RAG).
@@ -102,7 +102,7 @@ term/link → smart guide (recommend types/sites) → searchers (51 sites) → f
 | 🔐 | Auto-login | Detect login-required sites, open login page, auto-collect cookies, verify |
 | 🧠 | Term intelligence | Auto-clean messy vocab, detect term personality, recommend types |
 | 📊 | Sorting | GitHub by stars, arXiv by latest/relevance (`--sort`) |
-| 🗂️ | Organized output | `知识库/{term}/{site}/{type}/00_date_title_size/` + meta.json + HTML double-save |
+| 🗂️ | Organized output | `知识库/{term}/{type}/{site}/00_date_title_size/` + meta.json + HTML double-save |
 | 🛡️ | Anti-block | Multi-engine fallback, cookie injection, stealth browsers, rate limiting, progress logs |
 
 ## 🧪 Usage Examples
@@ -110,7 +110,8 @@ term/link → smart guide (recommend types/sites) → searchers (51 sites) → f
 ### Example 1: Crawl reinforcement-learning papers from arXiv
 
 ```bash
-python app/crawl_all.py --terms "reinforcement learning" --sites arxiv --max-results 5
+# `--terms` takes a term-list file (one term per line); `vocab_terms.txt` is the built-in list
+python app/crawl_all.py --terms config/seeds/vocab_terms.txt --sites arxiv --max-results 5
 ```
 
 Expected output (per-item progress):
@@ -267,7 +268,7 @@ Possible reasons: ① the site requires login (the guide auto-opens the login pa
 No. Missing tools cause graceful degradation (a clear warning + that site skipped); the rest works normally.
 
 **Q: Where and how is data stored?**
-Default `知识库/{term}/{site}/{type}/00_date_title_size/` + `meta.json`. Override with `--out-dir`. See `docs/输出规范.md`.
+Default `知识库/{term}/{type}/{site}/00_date_title_size/` + `meta.json`. Override with `--out-dir`. See `docs/输出规范.md`.
 
 **Q: Will mass crawling get me banned?**
 Built-in safety: low concurrency (default 3 terms) + inter-site delay + timeout retry — never touches anti-bot red lines.
