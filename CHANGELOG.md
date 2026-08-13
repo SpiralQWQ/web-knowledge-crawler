@@ -68,17 +68,76 @@ All notable changes to this project. Format follows [Keep a Changelog](https://k
 
 - Patch refactor (based on 100-repo research): Sitemap keyword search (rank_bm25), text denoise (trafilatura), auto keywords (yake), pipeline filter, semantic expansion (text2vec) — relevance 76% → 80%
 
+## [2.0.1] - 2026-08-10
+
+### Fixed
+
+- claude_code_docs domain dead → fallback to `platform.claude.com` sitemap
+
+### Changed
+
+- Hard cookie rule: login-required sites must inject cookies — no silent anonymous downgrade
+- 6 unusable sites removed (disabled list 6 → 12)
+
 ## [2.0.0] - 2026-08-10
 
 ### Added
 
 - CDP real-browser anti-block (debug browser port 9222) — rescued 10 sites (Douyin/Weibo/Bilibili/LeetCode/Gitee/Khan/InfoQ/36Kr/SSPai/TMTPost), 27 → 34 real-content sites
 
+## [1.9] - 2026-08-10
+
+### Added
+
+- Full-site 200+ live test: 50 searchers × 3 terms → 27 sites real content; 195-site list → 177 reachable; 10-round regression passed
+
+## [1.8] - 2026-08-10
+
+### Added
+
+- High-value site rescue (5 sites): OpenAlex replaces Google Scholar, ACL local XML search, medium/oschina via RSS, paperswithcode merged into HuggingFace API — real content 23 → 28
+
+## [1.7] - 2026-08-10
+
+### Fixed
+
+- Whole-site repair campaign: generic Sitemap searcher (huxiu/opencode/cursor), dblp & conference API fixes, zhihu cookie unlock — real content 9 → 23
+
+## [1.6] - 2026-08-09
+
+### Added
+
+- Stealth browser layer (patchright / camofox): 4-level HTML fallback chain, real titles from rendered DOM
+
 ## [1.5.0] - 2026-08-09
 
 ### Added
 
 - JS dynamic-site layer (Scrapling bridge), downloader fallback chain, login-site adapters
+
+## [1.4] - 2026-08-08
+
+### Changed
+
+- README full architecture rewrite: 3-layer layout, per-site anti-block strategy map, corrected numbers (195 sites / 8 types / 2740 terms)
+
+## [1.3] - 2026-08-08
+
+### Added
+
+- Multi-type extension (extract embedded resources from a page), podcast RSS audio collection, audio category (yt-dlp)
+
+## [1.2] - 2026-08-08
+
+### Added
+
+- Multi-format type routing: 30+ formats by URL extension (repo→git clone, video→yt-dlp, archive→zip…)
+
+## [1.1] - 2026-08-08
+
+### Fixed
+
+- Zhihu anti-bot (Playwright + Edge fingerprint), empty cookie export, bat/.env encoding
 
 ## [1.0.0] - 2026-08-07
 
