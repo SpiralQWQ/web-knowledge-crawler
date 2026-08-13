@@ -4,9 +4,22 @@ All notable changes to this project. Format follows [Keep a Changelog](https://k
 
 ## [Unreleased]
 
+## [2.5.3] - 2026-08-13
+
+### Added
+
+- Full open-source documentation overhaul (W01-W12): bilingual README (badges / FAQs / examples), Keep-a-Changelog CHANGELOG, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY, docs/ARCHITECTURE, docs/GUIDE, GitHub issue & PR templates
+
+## [2.5.2] - 2026-08-12
+
 ### Added
 
 - `setup.py` one-command config wizard: answer a few questions → installs dependencies + generates `.env`
+
+### Changed
+
+- Released under AGPL-3.0 with bilingual (EN + 中文) docs and donation badges
+- Privacy scrubbed: no `.env` / `data/` / `知识库/`; config paths are placeholder-only
 
 ## [2.5.1] - 2026-08-12
 

@@ -4,9 +4,22 @@
 
 ## [Unreleased]
 
+## [2.5.3] - 2026-08-13
+
+### 新增
+
+- 开源文档全面规范化（W01-W12）：中英双语 README（徽章/FAQ/示例）、Keep a Changelog 规范的 CHANGELOG、CONTRIBUTING、CODE_OF_CONDUCT、SECURITY、docs/ARCHITECTURE、docs/GUIDE、GitHub Issue/PR 模板
+
+## [2.5.2] - 2026-08-12
+
 ### 新增
 
 - `setup.py` 一键配置向导：回答几个问题 → 自动安装依赖 + 生成 `.env`
+
+### 变更
+
+- 以 AGPL-3.0 开源，中英双语文档 + 打赏码
+- 隐私清洗：无 `.env` / `data/` / `知识库/`，配置路径全部占位符
 
 ## [2.5.1] - 2026-08-12
 
