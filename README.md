@@ -171,12 +171,32 @@ python app/crawl_sites.py      # Whole-site crawl
 
 ### Environment (`.env`, copy from `.env.example`)
 
+All variables are optional — when missing, defaults are read from `config/collector.yaml`.
+
+#### Core
+
 | Variable | Purpose |
 |---|---|
+| `KC_BASE` | Repository root — `data/`, `知识库/`, `temp/`, `logs/` are created here |
 | `CRAWL4AI_PY` | Python interpreter of the Crawl4AI environment |
-| `DD_YTDLP` | yt-dlp executable (video/audio) |
-| `KC_COOKIE_BROWSER` | Browser for cookie injection (`edge` / `chrome` / `firefox`) |
+| `DD_DL_SRC` | Douyin downloader (jiji262 douyin-downloader) source directory |
+| `DD_DL_PY` | Python interpreter of the Douyin downloader venv |
+| `DD_YTDLP` | yt-dlp executable (Bilibili / YouTube) |
+| `FFMPEG` | ffmpeg/ffprobe executable (optional, currently unused) |
 | `GH_TOKEN` | (optional) GitHub API token to raise search rate limits |
+
+#### Advanced (cookies / proxy)
+
+| Variable | Purpose |
+|---|---|
+| `KC_COOKIE_BROWSER` | Browser for cookie injection (`edge` / `chrome` / `firefox`); default `edge` |
+| `KC_COOKIES_FILE` | Netscape-format cookie file path (takes precedence over browser) |
+| `KC_DOUYIN_CONFIG` | Douyin jiji262 `config.yml` path (defaults to `DD_DL_SRC`, usually unnecessary) |
+| `KC_COOKIE_DOMAINS` | Login-required domains (comma-separated), overrides `collector.yaml` |
+| `KC_COOKIE_PROFILE` | Non-default browser profile for cookie export / yt-dlp |
+| `KC_ALLOW_ANONYMOUS` | Allow anonymous download while the browser profile is locked; `1` = allow, default refuse |
+| `HTTP_PROXY` | HTTP proxy (optional) |
+| `HTTPS_PROXY` | HTTPS proxy (optional) |
 
 ### External tools (`config/collector.yaml`)
 
@@ -203,6 +223,8 @@ core/               Engine
   ├─ filter/        Relevance & noise filtering
   └─ bridges/       Renderer subprocess bridges
 config/             Static config (collector.yaml / seeds/ 2740 terms)
+data/               Runtime data (cookie / db / acl data)
+知识库/             Crawl output (knowledge base)
 tests/              Exhaustive / task-audit / smoke tests
 docs/               Directory contract / output spec
 ```

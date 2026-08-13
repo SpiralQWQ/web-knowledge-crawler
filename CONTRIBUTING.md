@@ -14,7 +14,7 @@ python setup.py    # optional: one-command config wizard
 ## Code Style
 
 - **Python 3.10+**, follows the existing code style (read the surrounding code first)
-- Keep functions small and focused; no business logic in `shared/`
+- Keep functions small and focused; no business logic in `core/`
 - Docstrings for new public functions (Chinese or English, matching the file)
 - No hard-coded paths / keys — read from `config/` or env variables
 - Follow `docs/目录契约.md` for where new code goes
@@ -28,7 +28,7 @@ python setup.py    # optional: one-command config wizard
    python tests/task_audit.py             # task audit
    python tests/fresh_exhaustive.py       # full exhaustive
    ```
-2. **No regressions** — if you touch shared code, confirm existing features still work
+2. **No regressions** — if you touch `core/` code, confirm existing features still work
 3. **Update docs** — if you change behavior, update README / CHANGELOG accordingly
 
 ## How to Contribute

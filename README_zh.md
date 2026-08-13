@@ -33,7 +33,7 @@
 
 web-knowledge-crawler 是一个**领域知识爬虫**。你喂给它专业词汇（内置 2740 词）或一条分享链接，它会：
 
-- 在 **51 个网站**、8 类内容（论文/视频/文章/代码/数据集/课程/文档/题库）中搜索
+- 在 **51 个网站**、8 类内容（论文/视频/文章/代码/数据集/课程/文档/Q&A）中搜索
 - **下载各种类型的原始文件** —— PDF、MP4、代码仓库、图片、音频、压缩包
 - 整理进 `知识库/` 目录：`{词}/{类型}/{站}/00_日期_标题_大小/` + `meta.json`
 - 过滤噪音、SQLite 去重、HTML 站双份落盘（原始 + 干净正文）
@@ -58,7 +58,7 @@ web-knowledge-crawler 是一个**领域知识爬虫**。你喂给它专业词汇
 | 📊 **数据集 (3)** | Hugging Face · Kaggle · ModelScope 魔搭 |
 | 🎓 **课程 (3)** | Coursera · edX · Khan Academy 可汗学院 |
 | 📚 **文档 (4)** | Cursor · Claude Code Docs · OpenCode · Qoder Docs |
-| ❓ **题库 (1)** | LeetCode 力扣 |
+| ❓ **Q&A (1)** | LeetCode 力扣 |
 
 > 部分站点需登录态或调试浏览器（见"配置"）；个别被禁用的站会在日志中明确跳过，绝不清零假装成功。
 
@@ -171,12 +171,32 @@ python app/crawl_sites.py      # 整站爬取
 
 ### 环境变量（`.env`，从 `.env.example` 复制）
 
+全部可选 —— 缺省时读取 `config/collector.yaml`。
+
+#### 核心
+
 | 变量 | 作用 |
 |---|---|
+| `KC_BASE` | 仓库根目录 —— `data/`、`知识库/`、`temp/`、`logs/` 都建在这里 |
 | `CRAWL4AI_PY` | Crawl4AI 环境的 Python 解释器 |
-| `DD_YTDLP` | yt-dlp 可执行文件（视频/音频） |
-| `KC_COOKIE_BROWSER` | cookie 注入用的浏览器（`edge` / `chrome` / `firefox`） |
+| `DD_DL_SRC` | 抖音下载器（jiji262 douyin-downloader）源码目录 |
+| `DD_DL_PY` | 抖音下载器虚拟环境的 Python 解释器 |
+| `DD_YTDLP` | yt-dlp 可执行文件（B站 / YouTube） |
+| `FFMPEG` | ffmpeg/ffprobe 可执行文件（可选，暂未使用） |
 | `GH_TOKEN` | （可选）GitHub API 令牌，提升搜索限流 |
+
+#### 进阶（cookie / 代理）
+
+| 变量 | 作用 |
+|---|---|
+| `KC_COOKIE_BROWSER` | cookie 注入用的浏览器（`edge` / `chrome` / `firefox`）；默认 `edge` |
+| `KC_COOKIES_FILE` | Netscape 格式 cookie 文件路径（优先于浏览器） |
+| `KC_DOUYIN_CONFIG` | 抖音 jiji262 `config.yml` 路径（默认随 `DD_DL_SRC`，一般无需设置） |
+| `KC_COOKIE_DOMAINS` | 需登录态的域名（逗号分隔），覆盖 `collector.yaml` |
+| `KC_COOKIE_PROFILE` | 浏览器非默认 profile（供 cookie 导出 / yt-dlp 用） |
+| `KC_ALLOW_ANONYMOUS` | 浏览器 profile 锁定时是否允许匿名下载；`1` = 允许，默认拒绝 |
+| `HTTP_PROXY` | HTTP 代理（可选） |
+| `HTTPS_PROXY` | HTTPS 代理（可选） |
 
 ### 外部工具（`config/collector.yaml`）
 
@@ -203,6 +223,8 @@ core/               引擎
   ├─ filter/        相关与噪音过滤
   └─ bridges/       渲染器子进程桥
 config/             静态配置（collector.yaml / seeds/ 2740 词）
+data/               运行时数据（cookie / db / acl 数据）
+知识库/             采集输出（知识库）
 tests/              穷举 / 逐Task / 冒烟测试
 docs/               目录契约 / 输出规范
 ```

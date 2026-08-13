@@ -108,7 +108,7 @@ Each item is saved under `知识库/{term}/{type}/{site}/00_日期_标题_大小
 | Add a content type | `core/domain` mapping + download routing in `core/download` |
 | Add a filter rule | `core/filter` |
 | Add an entry command | New file in `app/` calling `core.*` |
-| Change output format | `core/download/persist` + `docs/输出规范.md` |
+| Change output format | `core/download/preserver.py` + `docs/输出规范.md` |
 
 ## Tests
 

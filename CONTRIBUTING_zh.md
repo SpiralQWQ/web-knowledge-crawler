@@ -14,7 +14,7 @@ python setup.py    # 可选：一键配置向导
 ## 代码风格
 
 - **Python 3.10+**，遵循现有代码风格（先读周围代码再动手）
-- 函数保持小而聚焦；`shared/` 不写业务逻辑
+- 函数保持小而聚焦；`core/` 不写业务逻辑
 - 新公开函数写 docstring（中文或英文，与所在文件一致）
 - 禁止硬编码路径 / 密钥 —— 一律从 `config/` 或环境变量读取
 - 新代码放哪里遵循 `docs/目录契约.md`
@@ -28,7 +28,7 @@ python setup.py    # 可选：一键配置向导
    python tests/task_audit.py             # 任务审计
    python tests/fresh_exhaustive.py       # 全量穷举
    ```
-2. **无回归** —— 动了 shared 代码，确认既有功能仍正常
+2. **无回归** —— 动了 `core/` 代码，确认既有功能仍正常
 3. **更新文档** —— 行为有变化，同步更新 README / CHANGELOG
 
 ## 如何贡献

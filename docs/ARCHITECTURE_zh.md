@@ -108,7 +108,7 @@ class ArxivSearcher(BaseSearcher):
 | 加一种内容类型 | `core/domain` 映射 + `core/download` 下载分发 |
 | 加一条过滤规则 | `core/filter` |
 | 加一个入口命令 | `app/` 新文件调用 `core.*` |
-| 改输出格式 | `core/download/persist` + `docs/输出规范.md` |
+| 改输出格式 | `core/download/preserver.py` + `docs/输出规范.md` |
 
 ## 测试
 
