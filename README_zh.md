@@ -51,13 +51,13 @@ web-knowledge-crawler 是一个**领域知识爬虫**。你喂给它专业词汇
 
 | 类型 | 站点 |
 |---|---|
-| 📄 **论文 (10)** | arXiv · dblp（计算机文献）· Semantic Scholar · PapersWithCode · ACL Anthology（自然语言）· OpenReview · NeurIPS · ICML · ICLR · Google Scholar |
+| 📄 **论文 (12)** | arXiv · dblp（计算机文献）· Semantic Scholar · PapersWithCode · ACL Anthology（自然语言）· OpenReview · NeurIPS · ICML · ICLR · Google Scholar · Connected Papers · SciRate |
 | 🎬 **视频 (3)** | Bilibili · YouTube · 抖音 Douyin |
-| 📝 **文章 (13)** | 掘金 · CSDN · 知乎 · 思否 · InfoQ · 少数派 · 36氪 · Medium · 开源中国 · Hacker News · 微博 · Alignment Forum · 小红书 |
-| 💻 **代码 (2)** | GitHub Topics · Gitee 码云 |
-| 📊 **数据集 (2)** | Hugging Face · Kaggle |
+| 📝 **文章 (22)** | 掘金 · CSDN · 知乎 · 思否 · InfoQ · 少数派 · 36氪 · Medium · 开源中国 · Hacker News · 微博 · Alignment Forum · 小红书 · Datawhale · DEV Community · Lobsters · HackerNoon · 虎嗅 · 机器之心 · 量子位 · 钛媒体 · V2EX |
+| 💻 **代码 (3)** | GitHub Topics · Gitee 码云 · GitLab |
+| 📊 **数据集 (3)** | Hugging Face · Kaggle · ModelScope 魔搭 |
 | 🎓 **课程 (3)** | Coursera · edX · Khan Academy 可汗学院 |
-| 📚 **文档 (3)** | Cursor · Claude Code Docs · OpenCode |
+| 📚 **文档 (4)** | Cursor · Claude Code Docs · OpenCode · Qoder Docs |
 | ❓ **题库 (1)** | LeetCode 力扣 |
 
 > 部分站点需登录态或调试浏览器（见"配置"）；个别被禁用的站会在日志中明确跳过，绝不清零假装成功。
@@ -176,7 +176,7 @@ python app/crawl_sites.py      # 整站爬取
 | `CRAWL4AI_PY` | Crawl4AI 环境的 Python 解释器 |
 | `DD_YTDLP` | yt-dlp 可执行文件（视频/音频） |
 | `KC_COOKIE_BROWSER` | cookie 注入用的浏览器（`edge` / `chrome` / `firefox`） |
-| `GH_TOKEN` / `GITEE_TOKEN` | （可选）GitHub/Gitee API 令牌，提升搜索限流 |
+| `GH_TOKEN` | （可选）GitHub API 令牌，提升搜索限流 |
 
 ### 外部工具（`config/collector.yaml`）
 
@@ -222,7 +222,7 @@ core/       引擎层（分层 + 单向依赖）
 config/ → data/（cookie/db）→ 知识库/（采集输出）
 ```
 
-依赖方向：`app → core.* → shared`，无循环引用，目录 ≤3 层（详见 `docs/目录契约.md`）。
+依赖方向：`app → core.*`，无循环引用，目录 ≤3 层（详见 `docs/目录契约.md`）。
 
 ## 🧰 技术栈
 

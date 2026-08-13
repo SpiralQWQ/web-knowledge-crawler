@@ -3,9 +3,9 @@
 需要登录态的原因：点赞/收藏/评论需登录；未登录只能读列表与公开评论。
 
 用法:
-  python tools/get_cookie/get_hackernews.py
-  python tools/get_cookie/get_hackernews.py --browser chrome
-  python tools/get_cookie/get_hackernews.py --profile "Profile 1"
+  python app/get_cookie/get_hackernews.py
+  python app/get_cookie/get_hackernews.py --browser chrome
+  python app/get_cookie/get_hackernews.py --profile "Profile 1"
 
 前置: 已用浏览器登录 news.ycombinator.com 并关闭浏览器
 输出: data/cookies/hackernews.txt

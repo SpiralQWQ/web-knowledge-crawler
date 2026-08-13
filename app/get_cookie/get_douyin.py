@@ -4,8 +4,8 @@
 走 jiji262/douyin-downloader 的扫码登录：自动弹浏览器 → App 扫码 → 保存 Cookie。
 
 用法:
-  python tools/get_cookie/get_douyin.py
-  python tools/get_cookie/get_douyin.py --config "<自定义config.yml路径>"
+  python app/get_cookie/get_douyin.py
+  python app/get_cookie/get_douyin.py --config "<自定义config.yml路径>"
 
 前置: .env 已配置 DD_DL_SRC（jiji262 源码目录）与 DD_DL_PY（其虚拟环境 python）
 输出: 默认写入 DD_DL_SRC/config.yml（或 KC_DOUYIN_CONFIG 指定路径）

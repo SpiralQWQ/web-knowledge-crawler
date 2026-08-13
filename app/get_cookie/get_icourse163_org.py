@@ -4,9 +4,9 @@
 （.org 与 .com 域名并存，两个都要覆盖）
 
 用法:
-  python tools/get_cookie/get_icourse163_org.py
-  python tools/get_cookie/get_icourse163_org.py --browser chrome
-  python tools/get_cookie/get_icourse163_org.py --profile "Profile 1"
+  python app/get_cookie/get_icourse163_org.py
+  python app/get_cookie/get_icourse163_org.py --browser chrome
+  python app/get_cookie/get_icourse163_org.py --profile "Profile 1"
 
 前置: 在调试 Edge 里登录 icourse163.org 并保持打开（或浏览器已登录后关闭）
 输出: data/cookies/icourse163_org.txt

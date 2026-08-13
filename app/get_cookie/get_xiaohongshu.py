@@ -4,9 +4,9 @@
 Cookie 才能稳定抓取笔记正文/图片/评论。浏览器登录一次 → 导出 Cookie → 采集复用。
 
 用法:
-  python tools/get_cookie/get_xiaohongshu.py
-  python tools/get_cookie/get_xiaohongshu.py --browser chrome
-  python tools/get_cookie/get_xiaohongshu.py --profile "Profile 1"
+  python app/get_cookie/get_xiaohongshu.py
+  python app/get_cookie/get_xiaohongshu.py --browser chrome
+  python app/get_cookie/get_xiaohongshu.py --profile "Profile 1"
 
 前置: 已用浏览器登录 xiaohongshu.com 并关闭浏览器
 输出: data/cookies/xiaohongshu.txt

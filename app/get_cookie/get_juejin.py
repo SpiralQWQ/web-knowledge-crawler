@@ -4,9 +4,9 @@
 登录态采集社区热帖/专栏更完整。浏览器登录一次 → 导出 Cookie → 采集复用。
 
 用法:
-  python tools/get_cookie/get_juejin.py
-  python tools/get_cookie/get_juejin.py --browser chrome
-  python tools/get_cookie/get_juejin.py --profile "Profile 1"
+  python app/get_cookie/get_juejin.py
+  python app/get_cookie/get_juejin.py --browser chrome
+  python app/get_cookie/get_juejin.py --profile "Profile 1"
 
 前置: 已用浏览器登录 juejin.cn 并关闭浏览器
 输出: data/cookies/juejin.txt

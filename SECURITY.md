@@ -36,7 +36,7 @@ Please **do not** open a public GitHub Issue for security vulnerabilities. Inste
 ## Security Notes for This Project
 
 - **This tool crawls public content.** It ships **no** crawled data and downloads raw files **on demand** to the user's local disk. Never crawl content you are not authorized to access.
-- **Credentials live in your local `.env`** (e.g. `GH_TOKEN`, `GITEE_TOKEN`). The `.env` file is git-ignored and must **never** be committed. If you accidentally commit it, rotate the token immediately.
+- **Credentials live in your local `.env`** (e.g. `GH_TOKEN`). The `.env` file is git-ignored and must **never** be committed. If you accidentally commit it, rotate the token immediately.
 - **No network calls besides the sites you configure.** The tool makes requests only to the configured search/download endpoints, plus your local renderer/CDP bridges.
 - **Rate limiting & robots.txt** are the user's responsibility; the tool provides built-in low-concurrency and inter-site delays to avoid hammering sites.
 

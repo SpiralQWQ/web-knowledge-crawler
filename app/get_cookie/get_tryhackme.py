@@ -3,9 +3,9 @@
 需要登录态的原因：安全靶场房间/攻防练习需登录；未登录只能看房间介绍。
 
 用法:
-  python tools/get_cookie/get_tryhackme.py
-  python tools/get_cookie/get_tryhackme.py --browser chrome
-  python tools/get_cookie/get_tryhackme.py --profile "Profile 1"
+  python app/get_cookie/get_tryhackme.py
+  python app/get_cookie/get_tryhackme.py --browser chrome
+  python app/get_cookie/get_tryhackme.py --profile "Profile 1"
 
 前置: 在调试 Edge 里登录 tryhackme.com 并保持打开（或浏览器已登录后关闭）
 输出: data/cookies/tryhackme.txt

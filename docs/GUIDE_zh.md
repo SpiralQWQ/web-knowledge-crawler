@@ -110,4 +110,4 @@ YouTube 需本地代理（如 Clash，端口 7897）；程序自动探测。
 | 就绪检查提示"浏览器没开" | 调试浏览器未启动 | 引导自动启动（或手动开 Chrome `--remote-debugging-port=9222`） |
 | 某登录站提示"未登录" | 缺 cookie | 先做一次指定爬取完成登录 |
 | 视频下载失败 | yt-dlp 缺失 / YouTube 需代理 | 装 yt-dlp，或开本地代理 |
-| GitHub/Gitee 限流 | 没配 token | 在 `.env` 里设 `GH_TOKEN` / `GITEE_TOKEN` |
+| GitHub/Gitee 限流 | 没配 token | 在 `.env` 里设 `GH_TOKEN` |

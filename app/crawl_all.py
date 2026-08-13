@@ -3,14 +3,14 @@
 调度策略: 混合模式(3~5个词并行 × 站内串行)
 每个词的每个站根据类型自动选择:
 - type=search → search_engine.BaseSearcher.search()
-- type=seed   → shared.seed_fetcher.SeedFetcher.fetch()
-- type=static → shared.static_fetcher.StaticFetcher.fetch()
+- type=seed   → core.download.seed_fetcher.SeedFetcher.fetch()
+- type=static → core.download.static_fetcher.StaticFetcher.fetch()
 
 运行方式:
-    python tools/crawl_all.py                              # 默认全部词汇+站点
-    python tools/crawl_all.py --terms vocab_terms.txt      # 指定词汇文件
-    python tools/crawl_all.py --category search            # 只跑第1类
-    python tools/crawl_all.py --concurrency 3              # 并发数(1~10)
+    python app/crawl_all.py                                # 默认全部词汇+站点
+    python app/crawl_all.py --terms vocab_terms.txt        # 指定词汇文件
+    python app/crawl_all.py --category search              # 只跑第1类
+    python app/crawl_all.py --concurrency 3                # 并发数(1~10)
 """
 import asyncio
 import logging

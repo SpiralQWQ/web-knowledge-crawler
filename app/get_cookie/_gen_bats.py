@@ -1,9 +1,9 @@
 """批量生成逐站 Cookie 获取脚本的 .bat 快捷入口 + 一键全部 .bat。
 
 用法:
-  python tools/get_cookie/_gen_bats.py
+  python app/get_cookie/_gen_bats.py
 
-产出（覆盖写入 tools/get_cookie/*.bat）:
+产出（覆盖写入 app/get_cookie/*.bat）:
   get_<site>.bat    每个站点一个（双击 → 调 get_<site>.py）
   run_all.bat       一键全部（串行跑所有 export_site 型站点；抖音扫码需手动单独跑）
 """

@@ -4,9 +4,9 @@
 未登录只能访问公开文档。浏览器登录一次 → 导出 Cookie → 采集复用。
 
 用法:
-  python tools/get_cookie/get_googledocs.py
-  python tools/get_cookie/get_googledocs.py --browser chrome
-  python tools/get_cookie/get_googledocs.py --profile "Profile 1"
+  python app/get_cookie/get_googledocs.py
+  python app/get_cookie/get_googledocs.py --browser chrome
+  python app/get_cookie/get_googledocs.py --profile "Profile 1"
 
 前置: 已用浏览器登录 docs.google.com（需能访问 Google）并关闭浏览器
 输出: data/cookies/googledocs.txt

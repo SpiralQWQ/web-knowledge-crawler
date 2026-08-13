@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """下载执行层：指定爬取/连根爬/预览/进度（download_single/download_chain 等）。
 
-从 tools/crawl_guide.py 抽离（架构重构 T12，见 docs/目录契约.md）。
-依赖：core.auth（登录）+ collector.shared（下载器/落盘/cookie）+ core.config。
+从旧版引导脚本抽离（架构重构 T12，见 docs/目录契约.md）。
+依赖：core.auth（登录）+ core.download（下载器/落盘/cookie）+ core.config。
 """
 import asyncio
 import json

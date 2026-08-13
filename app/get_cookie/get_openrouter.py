@@ -3,9 +3,9 @@
 需要登录态的原因：控制台、API 密钥、用量统计需登录；未登录无法访问个人数据。
 
 用法:
-  python tools/get_cookie/get_openrouter.py
-  python tools/get_cookie/get_openrouter.py --browser chrome
-  python tools/get_cookie/get_openrouter.py --profile "Profile 1"
+  python app/get_cookie/get_openrouter.py
+  python app/get_cookie/get_openrouter.py --browser chrome
+  python app/get_cookie/get_openrouter.py --profile "Profile 1"
 
 前置: 已用浏览器登录 openrouter.ai 并关闭浏览器（需能访问）
 输出: data/cookies/openrouter.txt

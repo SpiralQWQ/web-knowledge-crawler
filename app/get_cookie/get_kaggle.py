@@ -4,9 +4,9 @@
 浏览器登录一次 → 导出 Cookie → 采集复用。
 
 用法:
-  python tools/get_cookie/get_kaggle.py
-  python tools/get_cookie/get_kaggle.py --browser chrome
-  python tools/get_cookie/get_kaggle.py --profile "Profile 1"
+  python app/get_cookie/get_kaggle.py
+  python app/get_cookie/get_kaggle.py --browser chrome
+  python app/get_cookie/get_kaggle.py --profile "Profile 1"
 
 前置: 已用浏览器登录 kaggle.com 并关闭浏览器（需能访问）
 输出: data/cookies/kaggle.txt

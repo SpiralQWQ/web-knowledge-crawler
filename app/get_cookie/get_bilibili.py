@@ -4,9 +4,9 @@
 未登录只能看 480P。浏览器登录一次 → 导出 Cookie → 采集视频/文章复用。
 
 用法:
-  python tools/get_cookie/get_bilibili.py
-  python tools/get_cookie/get_bilibili.py --browser chrome
-  python tools/get_cookie/get_bilibili.py --profile "Profile 1"
+  python app/get_cookie/get_bilibili.py
+  python app/get_cookie/get_bilibili.py --browser chrome
+  python app/get_cookie/get_bilibili.py --profile "Profile 1"
 
 前置: 已用浏览器登录 bilibili.com 并关闭浏览器
 输出: data/cookies/bilibili.txt

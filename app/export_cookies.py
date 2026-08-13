@@ -4,10 +4,10 @@
 此工具在浏览器**关闭后**运行一次，把登录 Cookie 导出成文件，设 KC_COOKIES_FILE 即可多通道复用。
 
 用法:
-  python tools/export_cookies.py <chrome|edge> <输出.txt> [域名...] [--profile <profile名>]
+  python app/export_cookies.py <chrome|edge> <输出.txt> [域名...] [--profile <profile名>]
   示例:
-  python tools/export_cookies.py edge cookies/bilibili_youtube.txt bilibili.com youtube.com
-  python tools/export_cookies.py edge cookies/work.txt bilibili.com --profile "Profile 1"
+  python app/export_cookies.py edge cookies/bilibili_youtube.txt bilibili.com youtube.com
+  python app/export_cookies.py edge cookies/work.txt bilibili.com --profile "Profile 1"
 
 profile 选择：默认自动用 Default（或最近修改的真实 profile）；登录态在非默认
 profile（如 Edge「工作」profile）时，用 --profile 指定或设环境变量 KC_COOKIE_PROFILE。
@@ -148,6 +148,6 @@ if __name__ == "__main__":
             args = args[:i]
             print("[警告] --profile 缺少参数值，已忽略（示例: --profile \"Profile 1\"）")
     if len(args) < 2:
-        print("用法: python tools/export_cookies.py <chrome|edge> <输出.txt> [域名...] [--profile <名>]")
+        print("用法: python app/export_cookies.py <chrome|edge> <输出.txt> [域名...] [--profile <名>]")
         sys.exit(2)
     sys.exit(asyncio.run(main(args[0], args[1], args[2:], profile)))

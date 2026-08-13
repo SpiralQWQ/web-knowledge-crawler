@@ -51,13 +51,13 @@ term/link → smart guide (recommend types/sites) → searchers (51 sites) → f
 
 | Type | Sites |
 |---|---|
-| 📄 **Papers (10)** | arXiv · dblp · Semantic Scholar · PapersWithCode · ACL Anthology · OpenReview · NeurIPS · ICML · ICLR · Google Scholar |
+| 📄 **Papers (12)** | arXiv · dblp · Semantic Scholar · PapersWithCode · ACL Anthology · OpenReview · NeurIPS · ICML · ICLR · Google Scholar · Connected Papers · SciRate |
 | 🎬 **Video (3)** | Bilibili · YouTube · Douyin |
-| 📝 **Articles (13)** | Juejin · CSDN · Zhihu · SegmentFault · InfoQ · SSPai · 36Kr · Medium · OSChina · Hacker News · Weibo · Alignment Forum · Xiaohongshu |
-| 💻 **Code (2)** | GitHub Topics · Gitee |
-| 📊 **Datasets (2)** | Hugging Face · Kaggle |
+| 📝 **Articles (22)** | Juejin · CSDN · Zhihu · SegmentFault · InfoQ · SSPai · 36Kr · Medium · OSChina · Hacker News · Weibo · Alignment Forum · Xiaohongshu · Datawhale · DEV Community · Lobsters · HackerNoon · Huxiu · Jiqizhixin · QbitAI · TMTPost · V2EX |
+| 💻 **Code (3)** | GitHub Topics · Gitee · GitLab |
+| 📊 **Datasets (3)** | Hugging Face · Kaggle · ModelScope |
 | 🎓 **Courses (3)** | Coursera · edX · Khan Academy |
-| 📚 **Docs (3)** | Cursor · Claude Code Docs · OpenCode |
+| 📚 **Docs (4)** | Cursor · Claude Code Docs · OpenCode · Qoder Docs |
 | ❓ **Q&A (1)** | LeetCode |
 
 > Some sites require login state or a debug browser (see Configuration); a few disabled sites are explicitly skipped with a warning — never silently fake success.
@@ -176,7 +176,7 @@ python app/crawl_sites.py      # Whole-site crawl
 | `CRAWL4AI_PY` | Python interpreter of the Crawl4AI environment |
 | `DD_YTDLP` | yt-dlp executable (video/audio) |
 | `KC_COOKIE_BROWSER` | Browser for cookie injection (`edge` / `chrome` / `firefox`) |
-| `GH_TOKEN` / `GITEE_TOKEN` | (optional) GitHub/Gitee API tokens to raise search rate limits |
+| `GH_TOKEN` | (optional) GitHub API token to raise search rate limits |
 
 ### External tools (`config/collector.yaml`)
 
@@ -222,7 +222,7 @@ core/       Engine layer (layered, one-way dependency)
 config/ → data/ (cookie/db) → 知识库/ (crawl output)
 ```
 
-Dependency direction: `app → core.* → shared`, no circular imports, ≤3 directory levels (see `docs/目录契约.md`).
+Dependency direction: `app → core.*`, no circular imports, ≤3 directory levels (see `docs/目录契约.md`).
 
 ## 🧰 Tech Stack
 

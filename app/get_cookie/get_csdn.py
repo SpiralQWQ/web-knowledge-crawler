@@ -4,9 +4,9 @@
 未登录采集会被反爬限流。浏览器登录一次 → 导出 Cookie → 采集复用。
 
 用法:
-  python tools/get_cookie/get_csdn.py
-  python tools/get_cookie/get_csdn.py --browser chrome
-  python tools/get_cookie/get_csdn.py --profile "Profile 1"
+  python app/get_cookie/get_csdn.py
+  python app/get_cookie/get_csdn.py --browser chrome
+  python app/get_cookie/get_csdn.py --profile "Profile 1"
 
 前置: 已用浏览器登录 csdn.net 并关闭浏览器
 输出: data/cookies/csdn.txt

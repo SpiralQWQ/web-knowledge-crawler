@@ -110,4 +110,4 @@ Safe — downloaded items are already saved; the rest is skipped. Interrupting i
 | "浏览器没开" in readiness check | Debug browser not running | Guide auto-starts it (or start Chrome with `--remote-debugging-port=9222`) |
 | "未登录" for a login site | Missing cookie | Run a single crawl once to complete login |
 | Video downloads fail | yt-dlp missing / YouTube needs proxy | Install yt-dlp, or start local proxy |
-| GitHub/Gitee rate-limited | No token | Set `GH_TOKEN` / `GITEE_TOKEN` in `.env` |
+| GitHub/Gitee rate-limited | No token | Set `GH_TOKEN` in `.env` |

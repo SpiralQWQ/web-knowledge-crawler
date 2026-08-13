@@ -3,9 +3,9 @@
 需要登录态的原因：社区文章/问答/训练营需登录；未登录部分内容被折叠或限流。
 
 用法:
-  python tools/get_cookie/get_aliyun_dev.py
-  python tools/get_cookie/get_aliyun_dev.py --browser chrome
-  python tools/get_cookie/get_aliyun_dev.py --profile "Profile 1"
+  python app/get_cookie/get_aliyun_dev.py
+  python app/get_cookie/get_aliyun_dev.py --browser chrome
+  python app/get_cookie/get_aliyun_dev.py --profile "Profile 1"
 
 前置: 已用浏览器登录 developer.aliyun.com 并关闭浏览器
 输出: data/cookies/aliyun_dev.txt

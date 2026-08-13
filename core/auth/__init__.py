@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """认证/登录层：登录态检测、调试浏览器启动、登录引导。
 
-从 tools/crawl_guide.py 抽离（架构重构 T12，见 docs/目录契约.md）。
-依赖：core.domain（登录判定）+ shared.cookie_util。
+从旧版引导脚本抽离（架构重构 T12，见 docs/目录契约.md）。
+依赖：core.domain（登录判定）+ core.auth.cookie_util。
 """
 import os
 import sys

@@ -7,8 +7,8 @@ from core.domain import ALL_TYPES, DEFAULT_SORT, NEED_LOGIN, SITE_SORT_OPTIONS, 
 """智能爬取引导（傻瓜入口）— 爬取前交互引导，你点菜爬虫执行。
 
 用法:
-    python tools/crawl_guide.py         # 进入引导
-    python tools/crawl_guide.py --check # 自检
+    python app/crawl_guide.py         # 进入引导
+    python app/crawl_guide.py --check # 自检
 
 流程: 模式选择 → 词来源(手输/词库/内置) → 词性格推荐类型 → 选站+排序
       → 细节动态 → 速度 → 确认 → 调 crawl_all 执行

@@ -1,4 +1,4 @@
-# GitHub 500+star 仓库清单（自动生成 2026-08-06，共 53907 个）
+# GitHub 500+star 仓库清单（自动生成 2026-08-06，共 53906 个）
 0-1CxH/megatron-wrap
 0-uddeshya-0/Vouch
 0000xFFFF/hcx-tools-extra
@@ -7628,7 +7628,6 @@ Level/levelup
 Levi-B4/identifyingSortingAlgorithms
 LeviJunior21/LargeLanguageModel
 LevyBytes/AI-SKILL-git
-LevyDecisionNeuroLab/RA_lenovo
 LewdLeah/Inner-Self
 Lewin671/YourLesson
 LewisArdern/bXSS

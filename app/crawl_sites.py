@@ -4,9 +4,9 @@
   抓入口页 → 提取站内链接 → 逐页抓取 markdown → 存 知识库/{站点名}/{类别}/
 
 用法:
-  python tools/crawl_sites.py                          # 全部195站
-  python tools/crawl_sites.py --sites pytorch,react    # 指定站
-  python tools/crawl_sites.py --max-pages 30           # 每站最多页数
+  python app/crawl_sites.py                          # 全部195站
+  python app/crawl_sites.py --sites pytorch,react    # 指定站
+  python app/crawl_sites.py --max-pages 30           # 每站最多页数
 """
 import argparse
 import asyncio

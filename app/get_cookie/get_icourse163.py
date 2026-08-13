@@ -3,9 +3,9 @@
 需要登录态的原因：课程学习、视频播放、测验/讨论区需登录；未登录只能看课程介绍页。
 
 用法:
-  python tools/get_cookie/get_icourse163.py
-  python tools/get_cookie/get_icourse163.py --browser chrome
-  python tools/get_cookie/get_icourse163.py --profile "Profile 1"
+  python app/get_cookie/get_icourse163.py
+  python app/get_cookie/get_icourse163.py --browser chrome
+  python app/get_cookie/get_icourse163.py --profile "Profile 1"
 
 前置: 已用浏览器登录 icourse163.org 并关闭浏览器
 输出: data/cookies/icourse163.txt

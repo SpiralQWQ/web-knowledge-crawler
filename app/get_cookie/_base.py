@@ -1,6 +1,6 @@
 """逐站 Cookie 获取公共基类。
 
-每个站点一个独立脚本（tools/get_cookie/get_<site>.py）共享本基类：
+每个站点一个独立脚本（app/get_cookie/get_<site>.py）共享本基类：
 定位仓库根 → 读 .env（CRAWL4AI_PY / KC_COOKIE_BROWSER / KC_COOKIE_PROFILE）→
 导出该站 Cookie → data/cookies/<site>.txt。
 
@@ -10,10 +10,10 @@
   2. 回退：调用 tools/export_cookies.py 从浏览器 profile 直接导出（需浏览器已关闭）。
 
 用法:
-  python tools/get_cookie/_base.py <站点名> <域名> [域名...] [--browser <chrome|edge|firefox>] [--profile <名>] [--port <端口>]
+  python app/get_cookie/_base.py <站点名> <域名> [域名...] [--browser <chrome|edge|firefox>] [--profile <名>] [--port <端口>]
 
 示例:
-  python tools/get_cookie/_base.py bilibili bilibili.com www.bilibili.com
+  python app/get_cookie/_base.py bilibili bilibili.com www.bilibili.com
 """
 import os
 import subprocess

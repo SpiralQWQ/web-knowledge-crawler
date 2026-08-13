@@ -4,9 +4,9 @@
 yt-dlp 拉取更高清晰度与完整字幕。浏览器登录一次 → 导出 Cookie → 采集复用。
 
 用法:
-  python tools/get_cookie/get_youtube.py
-  python tools/get_cookie/get_youtube.py --browser chrome
-  python tools/get_cookie/get_youtube.py --profile "Profile 1"
+  python app/get_cookie/get_youtube.py
+  python app/get_cookie/get_youtube.py --browser chrome
+  python app/get_cookie/get_youtube.py --profile "Profile 1"
 
 前置: 已用浏览器登录 youtube.com 并关闭浏览器（国内需先配好代理登录）
 输出: data/cookies/youtube.txt

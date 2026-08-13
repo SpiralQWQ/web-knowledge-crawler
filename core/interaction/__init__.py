@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """交互层：问用户/收集选择（select_*/guide_*），无下载实现。
 
-从 tools/crawl_guide.py 抽离（架构重构 T10，见 docs/目录契约.md）。
+从旧版引导脚本抽离（架构重构 T10，见 docs/目录契约.md）。
 依赖：core/domain（逻辑）+ 自身状态 _SORT_PICKED。
 """
 import builtins as _builtins

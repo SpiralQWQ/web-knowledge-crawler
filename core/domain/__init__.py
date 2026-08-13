@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """领域逻辑层：词库整理 / 词性格 / 站映射 / 登录判定（纯逻辑，无交互输入）。
 
-从 tools/crawl_guide.py 抽离（架构重构 T11，见 docs/目录契约.md）。
-core 内部单向依赖：interaction/domain → download → bridges/engines → shared。
+从旧版引导脚本抽离（架构重构 T11，见 docs/目录契约.md）。
+core 内部单向依赖：interaction/domain → download → bridges/engines。
 """
 import os
 import re

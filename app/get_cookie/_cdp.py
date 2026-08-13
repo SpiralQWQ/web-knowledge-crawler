@@ -11,7 +11,7 @@
   登录各站点后保持 Edge 开着，再运行逐站获取脚本。
 
 用法（供 _base.py 调用）:
-  python tools/get_cookie/_cdp.py <输出.txt> <域名...> [--port <端口>]
+  python app/get_cookie/_cdp.py <输出.txt> <域名...> [--port <端口>]
 
 实现要点：
   - 附加后取默认 context（真实 profile 加载的那个）读 Cookie

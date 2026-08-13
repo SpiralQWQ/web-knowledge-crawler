@@ -4,9 +4,9 @@
 未登录 gated 资源会被 401。浏览器登录一次 → 导出 Cookie → 采集复用。
 
 用法:
-  python tools/get_cookie/get_huggingface.py
-  python tools/get_cookie/get_huggingface.py --browser chrome
-  python tools/get_cookie/get_huggingface.py --profile "Profile 1"
+  python app/get_cookie/get_huggingface.py
+  python app/get_cookie/get_huggingface.py --browser chrome
+  python app/get_cookie/get_huggingface.py --profile "Profile 1"
 
 前置: 已用浏览器登录 huggingface.co 并关闭浏览器（需能访问）
 输出: data/cookies/huggingface.txt
