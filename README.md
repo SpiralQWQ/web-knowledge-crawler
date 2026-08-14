@@ -18,16 +18,28 @@
 <p align="center">Give it a term or a link. It searches 51 websites, downloads raw files, and organizes them into a browsable knowledge base.</p>
 <p align="center"><b>Raw data only — no parsing/OCR. Downstream (MinerU / ASR / RAG) is up to you.</b></p>
 
-## 💛 Support / Tip
 
-If this project has helped you in any way, you're welcome to buy me a coffee. It's completely voluntary — the project stays free and open-source regardless. For an independent developer, every small token of appreciation matters.
+## Table of Contents
 
-<p align="center">
-  <img src="assets/donate_wechat.jpg" alt="WeChat Pay" width="200">
-  <img src="assets/donate_alipay.jpg" alt="Alipay" width="200">
-</p>
+- [What It Does](#what-it-does)
+- [🌐 Supported Sites (51 / 8 types)](#supported-sites-51-8-types)
+- [🧭 How the Smart Guide Works (point-and-ask)](#how-the-smart-guide-works-point-and-ask)
+- [Feature Overview](#feature-overview)
+- [🧪 Usage Examples](#usage-examples)
+- [Requirements](#requirements)
+- [Quick Start](#quick-start)
+- [Configuration](#configuration)
+- [Directory Structure](#directory-structure)
+- [🏗 Architecture](#architecture)
+- [🧰 Tech Stack](#tech-stack)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📌 Roadmap](#roadmap)
+- [📮 Feedback & Contributing](#feedback-contributing)
+- [❓ FAQ](#faq)
+- [Disclaimer](#disclaimer)
+- [License](#license)
+- [💛 Support / Tip](#support-tip)
 
-<p align="center"><i>Thanks for reading all the way down here. 🙏</i></p>
 
 ## What It Does
 
@@ -316,3 +328,14 @@ The project does not bundle any crawled content; you crawl at your own responsib
 ## License
 
 AGPL-3.0 — see [LICENSE](LICENSE). Commercial use is possible, see [COMMERCIAL.md](COMMERCIAL.md).
+
+## 💛 Support / Tip
+
+If this project has helped you in any way, you're welcome to buy me a coffee. It's completely voluntary — the project stays free and open-source regardless. For an independent developer, every small token of appreciation matters.
+
+<p align="center">
+  <img src="assets/donate_wechat.jpg" alt="WeChat Pay" width="200">
+  <img src="assets/donate_alipay.jpg" alt="Alipay" width="200">
+</p>
+
+<p align="center"><i>Thanks for reading all the way down here. 🙏</i></p>
