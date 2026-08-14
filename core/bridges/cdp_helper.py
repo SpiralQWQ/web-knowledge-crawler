@@ -10,7 +10,7 @@
 
 输出: stdout 一行 JSON {url, success, title, items:[{url,title}], html_len, error}
 
-前置: 用户已用「启动Edge调试模式.bat」启动浏览器并保持打开（默认端口 9222）。
+前置: 用户已用「start_edge_debug_mode.bat」启动浏览器并保持打开（默认端口 9222）。
 """
 import argparse
 import json
@@ -113,7 +113,7 @@ async def cdp_fetch(url: str, wait_ms: int, link_pattern: str, title_sel: str,
               "html_len": 0, "error": ""}
     if not _port_alive(port):
         result["error"] = (f"CDP 调试端口 {port} 不可用 —— 请先运行"
-                           f"「启动Edge调试模式.bat」并保持浏览器打开")
+                           f"「start_edge_debug_mode.bat」并保持浏览器打开")
         return result
 
     async with async_playwright() as p:

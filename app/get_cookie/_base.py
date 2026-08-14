@@ -5,7 +5,7 @@
 导出该站 Cookie → data/cookies/<site>.txt。
 
 导出通道（自动选择）:
-  1. CDP 优先：若 Edge/Chrome 正以调试端口运行（如「启动Edge调试模式.bat」），
+  1. CDP 优先：若 Edge/Chrome 正以调试端口运行（如「start_edge_debug_mode.bat」），
      附加读取 —— 能绕过 Edge App-Bound 加密（浏览器关闭后第三方读不到 Cookie）。
   2. 回退：调用 tools/export_cookies.py 从浏览器 profile 直接导出（需浏览器已关闭）。
 

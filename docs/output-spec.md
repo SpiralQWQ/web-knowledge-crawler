@@ -1,7 +1,6 @@
 # Output Spec · web-knowledge-crawler
 
-> Frozen: 2026-08-12 ｜ Based on: `core/download/preserver.py` (the persist implementation)
-> The crawl output directory is fixed as **`知识库/`** (Chinese name for "knowledge base"). The earlier planned `output/` name is **not adopted** (11GB data + 12 code references made renaming risky with little benefit).
+> Output root is fixed as **`知识库/`** (Chinese for "knowledge base"). Behavior follows `core/download/preserver.py` (the persist implementation).
 
 ---
 

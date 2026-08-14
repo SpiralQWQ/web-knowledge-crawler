@@ -26,7 +26,7 @@ web-knowledge-crawler/
 ├── data/                 # 运行时数据（cookie / db / acl 数据）
 ├── 知识库/               # 采集输出（知识库）
 ├── tests/                # 测试（穷举 / 逐Task / 冒烟）
-├── docs/                 # 文档（本契约 / 输出规范）
+├── docs/                 # 文档（本契约 / output-spec）
 └── 根：README.md / CHANGELOG.md / LICENSE / requirements.txt
 ```
 

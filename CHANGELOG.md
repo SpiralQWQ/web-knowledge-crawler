@@ -25,7 +25,7 @@ All notable changes to this project. Format follows [Keep a Changelog](https://k
 
 ### Added
 
-- `docs/输出规范.md` — crawl output format standard (directory structure / naming / meta.json / HTML double-save)
+- `docs/output-spec.md` — crawl output format standard (directory structure / naming / meta.json / HTML double-save)
 
 ### Changed
 

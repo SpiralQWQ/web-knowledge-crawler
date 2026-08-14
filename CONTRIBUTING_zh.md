@@ -17,7 +17,7 @@ python setup.py    # 可选：一键配置向导
 - 函数保持小而聚焦；`core/` 不写业务逻辑
 - 新公开函数写 docstring（中文或英文，与所在文件一致）
 - 禁止硬编码路径 / 密钥 —— 一律从 `config/` 或环境变量读取
-- 新代码放哪里遵循 `docs/目录契约.md`
+- 新代码放哪里遵循 `docs/directory-contract.md`
 
 ## 提交 PR 前
 

@@ -1,6 +1,6 @@
 # Architecture
 
-> Overview of `web-knowledge-crawler`'s internal structure, data flow, and extension points. For where files live, see `docs/目录契约.md`; for output format, see `docs/输出规范.md`.
+> Overview of `web-knowledge-crawler`'s internal structure, data flow, and extension points. For where files live, see `docs/directory-contract.md`; for output format, see `docs/output-spec.md`.
 
 ## High-Level Layout
 
@@ -98,7 +98,7 @@ A searcher may also depend on external tools (Crawl4AI, Playwright, yt-dlp, Medi
 Multi-engine fallback → cookie injection → stealth renderer (Crawl4AI / Scrapling / patchright / Playwright) → CDP real-browser → low concurrency + delays.
 
 ### Output (`知识库/`)
-Each item is saved under `知识库/{term}/{type}/{site}/00_日期_标题_大小/` with a `meta.json`, plus an HTML double-save (raw + denoised body) for browsability. See `docs/输出规范.md`.
+Each item is saved under `知识库/{term}/{type}/{site}/00_日期_标题_大小/` with a `meta.json`, plus an HTML double-save (raw + denoised body) for browsability. See `docs/output-spec.md`.
 
 ## Extension Points
 
@@ -108,7 +108,7 @@ Each item is saved under `知识库/{term}/{type}/{site}/00_日期_标题_大小
 | Add a content type | `core/domain` mapping + download routing in `core/download` |
 | Add a filter rule | `core/filter` |
 | Add an entry command | New file in `app/` calling `core.*` |
-| Change output format | `core/download/preserver.py` + `docs/输出规范.md` |
+| Change output format | `core/download/preserver.py` + `docs/output-spec.md` |
 
 ## Tests
 

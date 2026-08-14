@@ -7,7 +7,7 @@
   由浏览器进程解密后经 CDP 协议返回 Cookie，即可正常导出。
 
 前置：
-  用户先用「启动Edge调试模式.bat」以 --remote-debugging-port 启动 Edge，
+  用户先用「start_edge_debug_mode.bat」以 --remote-debugging-port 启动 Edge，
   登录各站点后保持 Edge 开着，再运行逐站获取脚本。
 
 用法（供 _base.py 调用）:
@@ -139,7 +139,7 @@ def main() -> int:
         return 2
     out, domains = args[0], args[1:]
     if not _port_alive(port):
-        print(f"[错误] 调试端口 {port} 不可用。请先运行「启动Edge调试模式.bat」并保持 Edge 打开", file=sys.stderr)
+        print(f"[错误] 调试端口 {port} 不可用。请先运行「start_edge_debug_mode.bat」并保持 Edge 打开", file=sys.stderr)
         return 1
     return asyncio.run(cdp_export(domains, out, port))
 

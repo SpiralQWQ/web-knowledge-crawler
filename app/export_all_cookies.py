@@ -6,7 +6,7 @@
   python app/export_all_cookies.py edge Profile 1  # 指定 profile
 
 导出通道（自动选择）:
-  1. CDP 优先：若 Edge 正以调试端口运行（启动Edge调试模式.bat）→ 附加读取
+  1. CDP 优先：若 Edge 正以调试端口运行（start_edge_debug_mode.bat）→ 附加读取
      （绕过 Edge App-Bound 加密：浏览器关闭后第三方工具读不到 Cookie）
   2. 回退：export_cookies.py 从浏览器 profile 直接导出（需浏览器已关闭）
 

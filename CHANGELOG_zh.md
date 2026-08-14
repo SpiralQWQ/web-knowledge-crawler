@@ -25,7 +25,7 @@
 
 ### 新增
 
-- `docs/输出规范.md` — 采集输出格式标准（目录结构 / 命名 / meta.json / HTML 双份）
+- `docs/output-spec.md` — 采集输出格式标准（目录结构 / 命名 / meta.json / HTML 双份）
 
 ### 变更
 

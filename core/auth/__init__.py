@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """认证/登录层：登录态检测、调试浏览器启动、登录引导。
 
-从旧版引导脚本抽离（架构重构 T12，见 docs/目录契约.md）。
+从旧版引导脚本抽离（架构重构 T12，见 docs/directory-contract.md）。
 依赖：core.domain（登录判定）+ core.auth.cookie_util。
 """
 import os
@@ -72,7 +72,7 @@ def ensure_browser_open() -> bool:
             if _browser_alive():
                 print("  ✓ 浏览器已启动")
                 return True
-    print("  ⚠ 浏览器启动失败。请手动运行「启动Edge调试模式.bat」保持浏览器打开")
+    print("  ⚠ 浏览器启动失败。请手动运行「start_edge_debug_mode.bat」保持浏览器打开")
     return False
 
 

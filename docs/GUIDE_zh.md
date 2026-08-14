@@ -1,6 +1,6 @@
 # 使用指南
 
-> 日常怎么用 `web-knowledge-crawler` —— 从第一次运行到大规模爬取。所有输出默认落在 `知识库/`（见 `docs/输出规范.md`）。
+> 日常怎么用 `web-knowledge-crawler` —— 从第一次运行到大规模爬取。所有输出默认落在 `知识库/`（见 `docs/output-spec.md`）。
 
 ## 快速开始
 

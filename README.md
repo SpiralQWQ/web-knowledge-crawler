@@ -244,7 +244,7 @@ core/       Engine layer (layered, one-way dependency)
 config/ → data/ (cookie/db) → 知识库/ (crawl output)
 ```
 
-Dependency direction: `app → core.*`, no circular imports, ≤3 directory levels (see `docs/目录契约.md`).
+Dependency direction: `app → core.*`, no circular imports, ≤3 directory levels (see `docs/directory-contract.md`).
 
 ## 🧰 Tech Stack
 
@@ -277,7 +277,7 @@ Contributions of all kinds are welcome — bug reports, new searchers, docs, fea
 - Security issue? See [SECURITY.md](SECURITY.md)
 - Community rules: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 - Changes history: [CHANGELOG.md](CHANGELOG.md)
-- Deeper docs: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) · [docs/GUIDE.md](docs/GUIDE.md) · [docs/目录契约.md](docs/目录契约.md) · [docs/输出规范.md](docs/输出规范.md)
+- Deeper docs: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) · [docs/GUIDE.md](docs/GUIDE.md) · [docs/directory-contract.md](docs/directory-contract.md) · [docs/output-spec.md](docs/output-spec.md)
 
 Before submitting, run the exhaustive/smoke tests under `tests/` to confirm no regression.
 
@@ -290,7 +290,7 @@ Possible reasons: ① the site requires login (the guide auto-opens the login pa
 No. Missing tools cause graceful degradation (a clear warning + that site skipped); the rest works normally.
 
 **Q: Where and how is data stored?**
-Default `知识库/{term}/{type}/{site}/00_date_title_size/` + `meta.json`. Override with `--out-dir`. See `docs/输出规范.md`.
+Default `知识库/{term}/{type}/{site}/00_date_title_size/` + `meta.json`. Override with `--out-dir`. See `docs/output-spec.md`.
 
 **Q: Will mass crawling get me banned?**
 Built-in safety: low concurrency (default 3 terms) + inter-site delay + timeout retry — never touches anti-bot red lines.

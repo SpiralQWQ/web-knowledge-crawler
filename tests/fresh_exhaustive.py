@@ -266,7 +266,7 @@ t("README 版本 v2.5", "v2.5" in readme or "v2.4" in readme or "v2.3" in readme
 t("README 含 app/ 入口", "app/crawl_guide" in readme)
 changelog = open(os.path.join(ROOT, "CHANGELOG.md"), encoding="utf-8").read()
 t("CHANGELOG 有 v2.x", "v2." in changelog)
-t("目录契约存在", os.path.exists(os.path.join(ROOT, "docs", "目录契约.md")))
+t("目录契约存在", os.path.exists(os.path.join(ROOT, "docs", "directory-contract.md")))
 
 print(f"\n{'='*60}")
 print(f"全新穷举: PASS {len(PASS)}, FAIL {len(FAILS)}")

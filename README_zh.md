@@ -226,7 +226,7 @@ config/             静态配置（collector.yaml / seeds/ 2740 词）
 data/               运行时数据（cookie / db / acl 数据）
 知识库/             采集输出（知识库）
 tests/              穷举 / 逐Task / 冒烟测试
-docs/               目录契约 / 输出规范
+docs/               directory-contract / output-spec
 ```
 
 ## 🏗 架构
@@ -244,7 +244,7 @@ core/       引擎层（分层 + 单向依赖）
 config/ → data/（cookie/db）→ 知识库/（采集输出）
 ```
 
-依赖方向：`app → core.*`，无循环引用，目录 ≤3 层（详见 `docs/目录契约.md`）。
+依赖方向：`app → core.*`，无循环引用，目录 ≤3 层（详见 `docs/directory-contract.md`）。
 
 ## 🧰 技术栈
 
@@ -277,7 +277,7 @@ config/ → data/（cookie/db）→ 知识库/（采集输出）
 - 安全问题？见 [SECURITY_zh.md](SECURITY_zh.md)
 - 社区守则：[CODE_OF_CONDUCT_zh.md](CODE_OF_CONDUCT_zh.md)
 - 变更历史：[CHANGELOG_zh.md](CHANGELOG_zh.md)
-- 深入文档：[docs/ARCHITECTURE_zh.md](docs/ARCHITECTURE_zh.md) · [docs/GUIDE_zh.md](docs/GUIDE_zh.md) · [docs/目录契约_zh.md](docs/目录契约_zh.md) · [docs/输出规范_zh.md](docs/输出规范_zh.md)
+- 深入文档：[docs/ARCHITECTURE_zh.md](docs/ARCHITECTURE_zh.md) · [docs/GUIDE_zh.md](docs/GUIDE_zh.md) · [docs/directory-contract_zh.md](docs/directory-contract_zh.md) · [docs/output-spec_zh.md](docs/output-spec_zh.md)
 
 提交前请运行 `tests/` 下的穷举/冒烟测试确认无回归。
 
@@ -290,7 +290,7 @@ config/ → data/（cookie/db）→ 知识库/（采集输出）
 不需要全装。工具缺失时对应网站会优雅降级（明确警告+跳过），其余网站正常。
 
 **Q：爬取的数据存在哪？什么格式？**
-默认 `知识库/{词}/{类型}/{站}/00_日期_标题_大小/` + `meta.json`。可用 `--out-dir` 换位置。详见 `docs/输出规范.md`。
+默认 `知识库/{词}/{类型}/{站}/00_日期_标题_大小/` + `meta.json`。可用 `--out-dir` 换位置。详见 `docs/output-spec.md`。
 
 **Q：大规模爬取会不会被封号？**
 内置安全机制：低并发（默认 3 词）+ 站间延迟 + 超时重试，不碰反爬红线。

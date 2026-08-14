@@ -17,7 +17,7 @@ python setup.py    # optional: one-command config wizard
 - Keep functions small and focused; no business logic in `core/`
 - Docstrings for new public functions (Chinese or English, matching the file)
 - No hard-coded paths / keys — read from `config/` or env variables
-- Follow `docs/目录契约.md` for where new code goes
+- Follow `docs/directory-contract.md` for where new code goes
 
 ## Before Submitting a PR
 

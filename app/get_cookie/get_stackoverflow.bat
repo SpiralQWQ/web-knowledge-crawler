@@ -1,6 +1,6 @@
 @echo off
 rem 前置：
-rem   [推荐] 先运行「启动Edge调试模式.bat」，登录站点后保持 Edge 打开，再运行本脚本
+rem   [推荐] 先运行「start_edge_debug_mode.bat」，登录站点后保持 Edge 打开，再运行本脚本
 rem   [备选] 若未用调试模式，请关闭浏览器后再运行（读取 profile）
 set "BASE=%~dp0..\.."
 set "ENV=%BASE%\.env"

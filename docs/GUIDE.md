@@ -1,6 +1,6 @@
 # User Guide
 
-> How to actually use `web-knowledge-crawler` day to day — from your first run to mass crawls. All output lands in `知识库/` by default (see `docs/输出规范.md`).
+> How to actually use `web-knowledge-crawler` day to day — from your first run to mass crawls. All output lands in `知识库/` by default (see `docs/output-spec.md`).
 
 ## Quick Start
 

@@ -1,6 +1,6 @@
 # 架构说明
 
-> `web-knowledge-crawler` 的内部结构、数据流与扩展点概览。文件放哪里见 `docs/目录契约.md`；输出格式见 `docs/输出规范.md`。
+> `web-knowledge-crawler` 的内部结构、数据流与扩展点概览。文件放哪里见 `docs/directory-contract.md`；输出格式见 `docs/output-spec.md`。
 
 ## 总体布局
 
@@ -98,7 +98,7 @@ class ArxivSearcher(BaseSearcher):
 多引擎回退 → cookie 注入 → 隐形渲染器（Crawl4AI / Scrapling / patchright / Playwright）→ CDP 真实浏览器 → 低并发 + 延迟。
 
 ### 输出（`知识库/`）
-每条按 `知识库/{词}/{类型}/{站}/00_日期_标题_大小/` 落盘，含 `meta.json`，外加 HTML 双份（原始 + 干净正文）便于浏览。详见 `docs/输出规范.md`。
+每条按 `知识库/{词}/{类型}/{站}/00_日期_标题_大小/` 落盘，含 `meta.json`，外加 HTML 双份（原始 + 干净正文）便于浏览。详见 `docs/output-spec.md`。
 
 ## 扩展点
 
@@ -108,7 +108,7 @@ class ArxivSearcher(BaseSearcher):
 | 加一种内容类型 | `core/domain` 映射 + `core/download` 下载分发 |
 | 加一条过滤规则 | `core/filter` |
 | 加一个入口命令 | `app/` 新文件调用 `core.*` |
-| 改输出格式 | `core/download/preserver.py` + `docs/输出规范.md` |
+| 改输出格式 | `core/download/preserver.py` + `docs/output-spec.md` |
 
 ## 测试
 
